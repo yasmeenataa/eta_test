@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "prod_011",
+    "internal_code": "26535",
+    "name": "دريم كريم شانتيه - 45 جم",
+    "barcode": "6223001086017",
+    "item_type": "GS1",
+    "item_code": "6223001086017",
+    "unit_type": "",
+    "price": 18.6,
+    "cost": 18.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/26535/1756730544/26535_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_032",
+    "internal_code": "28748",
+    "name": "كوكس فانيليا - 1جم",
+    "barcode": "6223001030225",
+    "item_type": "GS1",
+    "item_code": "6223001030225",
+    "unit_type": "",
+    "price": 1.0,
+    "cost": 1.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9e/h15/62110170152990/28748_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_095",
+    "internal_code": "26525",
+    "name": "دريم كريم كراميل - 92 جم",
+    "barcode": "6223001086116",
+    "item_type": "GS1",
+    "item_code": "6223001086116",
+    "unit_type": "",
+    "price": 18.3,
+    "cost": 18.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h49/hff/14595738730526/26525_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_180",
+    "internal_code": "444540",
+    "name": "خميرة فورية باكمايا - 450 جم",
+    "barcode": "8690770320600",
+    "item_type": "GS1",
+    "item_code": "8690770320600",
+    "unit_type": "",
+    "price": 141.8,
+    "cost": 141.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h30/hf1/14595759079454/444540_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_234",
+    "internal_code": "656654",
+    "name": "فانيليا سائلة دون لوبيز - 100 مل",
+    "barcode": "6224003150089",
+    "item_type": "GS1",
+    "item_code": "6224003150089",
+    "unit_type": "",
+    "price": 41.8,
+    "cost": 41.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656654/1761571675/656654_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_284",
+    "internal_code": "592084",
+    "name": "فايف مينيتس كريم شانتيه بالشوكولاتة - 45 جرام",
+    "barcode": "6223003293543",
+    "item_type": "GS1",
+    "item_code": "6223003293543",
+    "unit_type": "",
+    "price": 29.7,
+    "cost": 29.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2f/hef/32699551940638/592084_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_287",
+    "internal_code": "622630",
+    "name": "بسكويت أوريو بكريمة الفانيليا 14 كوكيز - 122.5 جم - 6 باكو",
+    "barcode": "7622202832635",
+    "item_type": "GS1",
+    "item_code": "7622202832635",
+    "unit_type": "",
+    "price": 143.7,
+    "cost": 143.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/622630/1765893603/622630_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_290",
+    "internal_code": "574856",
+    "name": " كريم شانتيه 5 مينتس بطعم الفراولة - 45 جرام",
+    "barcode": "6223003292997",
+    "item_type": "GS1",
+    "item_code": "6223003292997",
+    "unit_type": "",
+    "price": 29.7,
+    "cost": 29.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h73/h18/32699546239006/574856_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_297",
+    "internal_code": "622317",
+    "name": "بسكو مصر بسكويت ويفر بالفانيليا - 6 قطع - 12 باكو",
+    "barcode": "6222001100587",
+    "item_type": "GS1",
+    "item_code": "6222001100587",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h77/h95/51914088579102/622317_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_304",
+    "internal_code": "424142",
+    "name": "5 مينيتس كيك ميكس بالفانيليا - 400 جرام",
+    "barcode": "6223003292362",
+    "item_type": "GS1",
+    "item_code": "6223003292362",
+    "unit_type": "",
+    "price": 80.0,
+    "cost": 80.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h54/hf1/32699412938782/424142_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_321",
+    "internal_code": "652180",
+    "name": "بسكويت أوريو بكريمة الفانيليا - 8 كوكيز",
+    "barcode": "7622202831812",
+    "item_type": "GS1",
+    "item_code": "7622202831812",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652180/1746363604/652180_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_358",
+    "internal_code": "296359",
+    "name": "نستله كوفي ميت مبيض قهوة بالفانيليا - 289 جرام",
+    "barcode": "50000207084",
+    "item_type": "GS1",
+    "item_code": "50000207084",
+    "unit_type": "",
+    "price": 438.7,
+    "cost": 438.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/296359/1727262603/296359_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_368",
+    "internal_code": "184298",
+    "name": "كيك ميكس بالفانيليا 5 مينيتس - 400 جم",
+    "barcode": "6223003290047",
+    "item_type": "GS1",
+    "item_code": "6223003290047",
+    "unit_type": "",
+    "price": 64.8,
+    "cost": 64.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6b/hda/32699404189726/184298_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_373",
+    "internal_code": "18484",
+    "name": "ابو علي فانيليا بالسكر - 135 جرام",
+    "barcode": "6221058000260",
+    "item_type": "GS1",
+    "item_code": "6221058000260",
+    "unit_type": "",
+    "price": 121.9,
+    "cost": 121.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3c/hcb/10223091253278/18484_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_401",
+    "internal_code": "491427",
+    "name": "انجليش كيك فانيليا بيك لاند - 500 جم",
+    "barcode": "6223005040411",
+    "item_type": "GS1",
+    "item_code": "6223005040411",
+    "unit_type": "",
+    "price": 46.4,
+    "cost": 46.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h15/h61/48159733448734/491427_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_424",
+    "internal_code": "546814",
+    "name": "بيكنج باودر تاج الملوك - 16 جرام",
+    "barcode": "6223001030232",
+    "item_type": "GS1",
+    "item_code": "6223001030232",
+    "unit_type": "",
+    "price": 3.1,
+    "cost": 3.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h44/h49/14596053205022/546814_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_433",
+    "internal_code": "535865",
+    "name": "كوكس كريم شانتيه - 45 جرام",
+    "barcode": "6223001031512",
+    "item_type": "GS1",
+    "item_code": "6223001031512",
+    "unit_type": "",
+    "price": 18.0,
+    "cost": 18.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h73/h5b/51207077724190/535865_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_452",
+    "internal_code": "652176",
+    "name": "بسكويت أوريو بكريمة الفانيليا - 5 كوكيز",
+    "barcode": "7622202831621",
+    "item_type": "GS1",
+    "item_code": "7622202831621",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652176/1746363604/652176_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_458",
+    "internal_code": "633933",
+    "name": "راف ويفر بكريمة الفانيليا 4+1",
+    "barcode": "6221030009595",
+    "item_type": "GS1",
+    "item_code": "6221030009595",
+    "unit_type": "",
+    "price": 83.6,
+    "cost": 83.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h06/h65/64398165278750/633933_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_474",
+    "internal_code": "210623",
+    "name": "كريم كراميل 5 مينيتس - 80 جم",
+    "barcode": "6223003290689",
+    "item_type": "GS1",
+    "item_code": "6223003290689",
+    "unit_type": "",
+    "price": 25.3,
+    "cost": 25.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/210623/1739796765/210623_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_496",
+    "internal_code": "614893",
+    "name": "أتش دي ويفر بالكاكاو محشو بالفانيليا - 1 قطعة",
+    "barcode": "6221030004989",
+    "item_type": "GS1",
+    "item_code": "6221030004989",
+    "unit_type": "",
+    "price": 13.0,
+    "cost": 13.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h21/hbe/49899121573918/614893_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_499",
+    "internal_code": "424144",
+    "name": "أيس كريم كراميل 5 مينيتس - 200جم",
+    "barcode": "6223003292218",
+    "item_type": "GS1",
+    "item_code": "6223003292218",
+    "unit_type": "",
+    "price": 49.3,
+    "cost": 49.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc7/ha6/32699544829982/424144_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_529",
+    "internal_code": "273969",
+    "name": "كيك بنكهة الفانيليا دريم - 400 جم",
+    "barcode": "6223001089186",
+    "item_type": "GS1",
+    "item_code": "6223001089186",
+    "unit_type": "",
+    "price": 58.8,
+    "cost": 58.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha0/h8f/14595739975710/273969_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_558",
+    "internal_code": "583121",
+    "name": "منشي بسكويت ويفر بكريمة الفانيليا - 1* 12 قطعة",
+    "barcode": "6221073004915",
+    "item_type": "GS1",
+    "item_code": "6221073004915",
+    "unit_type": "",
+    "price": 71.4,
+    "cost": 71.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h06/hdd/49404211757086/583121_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_582",
+    "internal_code": "596281",
+    "name": "جالاكسي فلوتس أصابع ويفر بحشو الفانيليا - 22.5 جرام - 12 باكو",
+    "barcode": "6221134010534",
+    "item_type": "GS1",
+    "item_code": "6221134010534",
+    "unit_type": "",
+    "price": 119.4,
+    "cost": 119.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf1/he9/64374936403998/596281_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_597",
+    "internal_code": "659663",
+    "name": "عسل نحل كريمي بالفانيليا إمتنان - 250 جم",
+    "barcode": "6221078001667",
+    "item_type": "GS1",
+    "item_code": "6221078001667",
+    "unit_type": "",
+    "price": 126.7,
+    "cost": 126.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659663/1754818203/659663_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_600",
+    "internal_code": "614892",
+    "name": "اتش دي بسكويت وايفر بالفانيليا - 6 قطع",
+    "barcode": "6221030005016",
+    "item_type": "GS1",
+    "item_code": "6221030005016",
+    "unit_type": "",
+    "price": 78.0,
+    "cost": 78.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd4/h42/49899120033822/614892_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_612",
+    "internal_code": "467185",
+    "name": "خميرة فورية جافة دريم، 11 جم - 24 عبوة",
+    "barcode": "6223003942939",
+    "item_type": "GS1",
+    "item_code": "6223003942939",
+    "unit_type": "",
+    "price": 103.2,
+    "cost": 103.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc7/hf5/14595898277918/467185_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_678",
+    "internal_code": "656719",
+    "name": "فانيليا سائلة دون لوبيز - 60 مل",
+    "barcode": "6224008467014",
+    "item_type": "GS1",
+    "item_code": "6224008467014",
+    "unit_type": "",
+    "price": 29.5,
+    "cost": 29.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656719/1751202004/656719_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_699",
+    "internal_code": "659514",
+    "name": "ويفر ريف محشو بكريمة الفانيليا بدون السكر - 6 قطع",
+    "barcode": "6221030012090",
+    "item_type": "GS1",
+    "item_code": "6221030012090",
+    "unit_type": "",
+    "price": 101.7,
+    "cost": 101.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659514/1754818203/659514_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_708",
+    "internal_code": "501899",
+    "name": "بسكويت كوكو لافرز محشو بالفانيليا - 12 قطعة",
+    "barcode": "6222001114942",
+    "item_type": "GS1",
+    "item_code": "6222001114942",
+    "unit_type": "",
+    "price": 83.4,
+    "cost": 83.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha1/h20/14499606593566/501899_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_786",
+    "internal_code": "443471",
+    "name": "دريم كيكة الفانيليا - 500 جم",
+    "barcode": "6223003942557",
+    "item_type": "GS1",
+    "item_code": "6223003942557",
+    "unit_type": "",
+    "price": 69.2,
+    "cost": 69.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h78/h94/14595758424094/443471_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_789",
+    "internal_code": "488613",
+    "name": "دونات توداي بالشوكولاتة والفانيليا - 1 قطعة",
+    "barcode": "6224008592914",
+    "item_type": "GS1",
+    "item_code": "6224008592914",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6b/hbb/14595911254046/488613_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_824",
+    "internal_code": "659513",
+    "name": "ويفر ريف محشو بكريمة الفانيليا بدون السكر",
+    "barcode": "6221030011772",
+    "item_type": "GS1",
+    "item_code": "6221030011772",
+    "unit_type": "",
+    "price": 17.0,
+    "cost": 17.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659513/1754389803/659513_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_826",
+    "internal_code": "395061",
+    "name": "لوكر كوادارتيني ويفر بالفانيليا - 125 جم",
+    "barcode": "8000380005949",
+    "item_type": "GS1",
+    "item_code": "8000380005949",
+    "unit_type": "",
+    "price": 159.0,
+    "cost": 159.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h75/h81/14489437569054/395061_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_830",
+    "internal_code": "642231",
+    "name": "ويفر بليزو وايت المحشو بكريمة الفانيليا ومغطى بالكراميل والشوكولاتة البيضاء - 12 قطعة",
+    "barcode": "6222035238751",
+    "item_type": "GS1",
+    "item_code": "6222035238751",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642231/1736947803/642231_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_842",
+    "internal_code": "652054",
+    "name": "كيكة توينكيز ديو بالشوكولاتة وكريمة الفانيليا - 12 قطعة",
+    "barcode": "6223000556603",
+    "item_type": "GS1",
+    "item_code": "6223000556603",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652054/1748860204/652054_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_905",
+    "internal_code": "501055",
+    "name": "جرينز فانيليا بودرة - 60 جرام",
+    "barcode": "5000318111424",
+    "item_type": "GS1",
+    "item_code": "5000318111424",
+    "unit_type": "",
+    "price": 65.2,
+    "cost": 65.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he7/hf0/49347562209310/501055_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_906",
+    "internal_code": "488612",
+    "name": "دونات توداي بالشوكولاتة والفانيليا ، 1 قطعة - 12 عبوة",
+    "barcode": "6223013847385",
+    "item_type": "GS1",
+    "item_code": "6223013847385",
+    "unit_type": "",
+    "price": 119.0,
+    "cost": 119.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd9/h34/10183622131742/488612_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_940",
+    "internal_code": "485370",
+    "name": "دريم بودنج فانيليا - 100 جم",
+    "barcode": "6223003943363",
+    "item_type": "GS1",
+    "item_code": "6223003943363",
+    "unit_type": "",
+    "price": 28.5,
+    "cost": 28.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h34/h6a/14595907387422/485370_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_955",
+    "internal_code": "387410",
+    "name": "لوكر ويفر بالفانيليا - 90 جم",
+    "barcode": "8000380153480",
+    "item_type": "GS1",
+    "item_code": "8000380153480",
+    "unit_type": "",
+    "price": 96.0,
+    "cost": 96.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1a/h0f/14499601547294/387410_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_972",
+    "internal_code": "453463",
+    "name": "توينكيز ايسينج كيك بكريمة الفانيليا - 12 قطعة",
+    "barcode": "6223000496886",
+    "item_type": "GS1",
+    "item_code": "6223000496886",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2a/h3d/50947244982302/453463_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1035",
+    "internal_code": "469988",
+    "name": "دريم خليط مافن فانيليا - 450 جم",
+    "barcode": "6223003943172",
+    "item_type": "GS1",
+    "item_code": "6223003943172",
+    "unit_type": "",
+    "price": 96.0,
+    "cost": 96.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he2/h69/14595900833822/469988_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1137",
+    "internal_code": "664174",
+    "name": "بسكويت بوريو بكريمة الفانيليا - 10 كوكيز - 50 جم",
+    "barcode": "7622202340659",
+    "item_type": "GS1",
+    "item_code": "7622202340659",
+    "unit_type": "",
+    "price": 8.0,
+    "cost": 9.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664174/1767607200/664174_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1163",
+    "internal_code": "636982",
+    "name": "بلوكس ويفر محشو بكريمة الفانيليا - 48 جرام - 6 باكو",
+    "barcode": "6222024104555",
+    "item_type": "GS1",
+    "item_code": "6222024104555",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/636982/1735147803/636982_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1173",
+    "internal_code": "583120",
+    "name": "كورونا مونشي بسكويت ويفر بالفانيليا - 1 قطعة",
+    "barcode": "6221073004908",
+    "item_type": "GS1",
+    "item_code": "6221073004908",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h96/hcc/49404203171870/583120_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1213",
+    "internal_code": "641569",
+    "name": "بسكويت الفانيليا أونيرو شوكو لافا - 3 قطع",
+    "barcode": "6223000555460",
+    "item_type": "GS1",
+    "item_code": "6223000555460",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641569/1729683603/641569_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1263",
+    "internal_code": "521356",
+    "name": "كوكس خميرة جافة فورية - 10 جرام - 25 كيس",
+    "barcode": "6223001031154",
+    "item_type": "GS1",
+    "item_code": "6223001031154",
+    "unit_type": "",
+    "price": 123.8,
+    "cost": 123.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdb/hb6/62596617043998/521356_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1282",
+    "internal_code": "652177",
+    "name": "بسكويت أوريو بكريمة الفانيليا - 5 كوكيز - 12 باكيت",
+    "barcode": "7622202831614",
+    "item_type": "GS1",
+    "item_code": "7622202831614",
+    "unit_type": "",
+    "price": 119.4,
+    "cost": 119.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652177/1745827804/652177_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1292",
+    "internal_code": "534975",
+    "name": "فان داي مافن كيك بنكهة الفانيليا - 2 قطعة",
+    "barcode": "6224010268166",
+    "item_type": "GS1",
+    "item_code": "6224010268166",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8d/hc2/27393742831646/534975_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1313",
+    "internal_code": "501066",
+    "name": "ويفر لاجو ميني بارتي بكريمة الفانيليا - 125 جم",
+    "barcode": "8004800003423",
+    "item_type": "GS1",
+    "item_code": "8004800003423",
+    "unit_type": "",
+    "price": 95.0,
+    "cost": 95.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h46/he3/49347562602526/501066_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1314",
+    "internal_code": "636981",
+    "name": "بلوكس ويفر بالفانيليا - 48 جرام",
+    "barcode": "6222024104548",
+    "item_type": "GS1",
+    "item_code": "6222024104548",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/636981/1747657803/636981_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1318",
+    "internal_code": "658567",
+    "name": "ويفر البيلا محشو ومغطى بكريمة بنكهة الفانيليا - 40 جرام",
+    "barcode": "6222024106429",
+    "item_type": "GS1",
+    "item_code": "6222024106429",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658567/1757853005/658567_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1352",
+    "internal_code": "651474",
+    "name": "بسكويت ساندويتش لوتس بسكوف بالفانيليا - 150 جم",
+    "barcode": "5410126006377",
+    "item_type": "GS1",
+    "item_code": "5410126006377",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651474/1759149759/651474_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1366",
+    "internal_code": "596280",
+    "name": "جالاكسي فلوتس اصابع ويفر بحشو الفانيليا - 22.5 جرام",
+    "barcode": "6221134010718",
+    "item_type": "GS1",
+    "item_code": "6221134010718",
+    "unit_type": "",
+    "price": 9.3,
+    "cost": 9.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcb/hfc/62443043586078/596280_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1398",
+    "internal_code": "591988",
+    "name": "العبد كوكيز بقطع الشوكولاتة بالفانيليا - 18 قطع",
+    "barcode": "6224009794805",
+    "item_type": "GS1",
+    "item_code": "6224009794805",
+    "unit_type": "",
+    "price": 97.0,
+    "cost": 97.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcb/hf9/33182850875422/591988_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1406",
+    "internal_code": "482614",
+    "name": "شمعدان ويفر محشو بالفانيليا - 1 قطعة",
+    "barcode": "6221030004965",
+    "item_type": "GS1",
+    "item_code": "6221030004965",
+    "unit_type": "",
+    "price": 13.0,
+    "cost": 13.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hda/h96/16377134120990/482614_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1412",
+    "internal_code": "84927",
+    "name": "ويفر لواكر بكريمة الفانيليا - 45 جم",
+    "barcode": "80001249",
+    "item_type": "GS1",
+    "item_code": "80001249",
+    "unit_type": "",
+    "price": 48.0,
+    "cost": 48.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha0/h93/14489516277790/84927_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1418",
+    "internal_code": "245750",
+    "name": "لاجو بوكر ويفر بالفانيليا - 45 جم",
+    "barcode": "8004800023025",
+    "item_type": "GS1",
+    "item_code": "8004800023025",
+    "unit_type": "",
+    "price": 29.0,
+    "cost": 29.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc8/h62/49347549691934/245750_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1424",
+    "internal_code": "664282",
+    "name": "ويفر فريسكا فينجرز أيس كريم فانيليا - 10 أصابع ويفر",
+    "barcode": "6223000559765",
+    "item_type": "GS1",
+    "item_code": "6223000559765",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664282/1760275804/664282_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1433",
+    "internal_code": "591984",
+    "name": "العبدكوكيز بقطع الشوكولاتة بالفانيليا - 2 قطعة",
+    "barcode": "6224009794713",
+    "item_type": "GS1",
+    "item_code": "6224009794713",
+    "unit_type": "",
+    "price": 13.2,
+    "cost": 13.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h75/he2/34898373017630/591984_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1447",
+    "internal_code": "652055",
+    "name": "كيكة توينكيز ديو بالشوكولاتة وكريمة الفانيليا",
+    "barcode": "6223000556597",
+    "item_type": "GS1",
+    "item_code": "6223000556597",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652055/1743931803/652055_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1464",
+    "internal_code": "648675",
+    "name": "كيك الشوكولاتة تورتا ديلايتس المحشوة بالفانيليا",
+    "barcode": "6222035243489",
+    "item_type": "GS1",
+    "item_code": "6222035243489",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648675/1739358003/648675_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1473",
+    "internal_code": "482613",
+    "name": "الشمعدان ويفر محشو بكريمة الفانيليا - 6 قطع",
+    "barcode": "6221030004972",
+    "item_type": "GS1",
+    "item_code": "6221030004972",
+    "unit_type": "",
+    "price": 77.7,
+    "cost": 77.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h43/he2/49386837016606/482613_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1519",
+    "internal_code": "607132",
+    "name": "رافيز خلطة سبونج كيك فانيليا - 500 جرام",
+    "barcode": "6223005048899",
+    "item_type": "GS1",
+    "item_code": "6223005048899",
+    "unit_type": "",
+    "price": 53.0,
+    "cost": 53.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h22/h0c/48236957958174/607132_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1531",
+    "internal_code": "658694",
+    "name": "كوكيز أونيرو بالفانيليا - 9 قطع",
+    "barcode": "6223000557136",
+    "item_type": "GS1",
+    "item_code": "6223000557136",
+    "unit_type": "",
+    "price": 48.0,
+    "cost": 48.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658694/1753873206/658694_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1572",
+    "internal_code": "661068",
+    "name": "ويفر الشوكولاتة كيت كات تشانكي فانيليا وافل - 44 جرام",
+    "barcode": "6294017135549",
+    "item_type": "GS1",
+    "item_code": "6294017135549",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/661068/1757235604/661068_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1576",
+    "internal_code": "636977",
+    "name": "بلوكس ويفر بالفانيليا - 24 جرام",
+    "barcode": "6222024104623",
+    "item_type": "GS1",
+    "item_code": "6222024104623",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/636977/1748160003/636977_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1633",
+    "internal_code": "647980",
+    "name": "كاكاو خام بريميوم كورونا",
+    "barcode": "6221073000900",
+    "item_type": "GS1",
+    "item_code": "6221073000900",
+    "unit_type": "",
+    "price": 99.5,
+    "cost": 99.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647980/1738065603/647980_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1650",
+    "internal_code": "557195",
+    "name": "ماجيك مومنت بودره جيلاتين خام - 50 جرام",
+    "barcode": "6223000229491",
+    "item_type": "GS1",
+    "item_code": "6223000229491",
+    "unit_type": "",
+    "price": 32.0,
+    "cost": 32.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf3/h05/27427314139166/557195_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1787",
+    "internal_code": "642232",
+    "name": "ويفر بليزو وايت المحشو بكريمة الفانيليا ومغطى بالكراميل والشوكولاتة البيضاء",
+    "barcode": "6222035238744",
+    "item_type": "GS1",
+    "item_code": "6222035238744",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642232/1730037603/642232_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1790",
+    "internal_code": "636978",
+    "name": "بلوكس ويفر محشو بكريمة الفانيليا - 24 جرام - 12 باكو",
+    "barcode": "6222024104630",
+    "item_type": "GS1",
+    "item_code": "6222024104630",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/636978/1735142403/636978_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1829",
+    "internal_code": "45069",
+    "name": "فانيليا كوكس، 1 جم - 100 عبوة",
+    "barcode": "6223001030539",
+    "item_type": "GS1",
+    "item_code": "6223001030539",
+    "unit_type": "",
+    "price": 95.0,
+    "cost": 95.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h55/h52/62326145450014/45069_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1909",
+    "internal_code": "652059",
+    "name": "كيكة توينكيز ديو بالفراولة وكريمة الفانيليا",
+    "barcode": "6223000556566",
+    "item_type": "GS1",
+    "item_code": "6223000556566",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652059/1743931803/652059_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1915",
+    "internal_code": "633900",
+    "name": "ماكسون بسكويت بكريمة الكوكا والفانيليا - 190 جرام",
+    "barcode": "6223007378253",
+    "item_type": "GS1",
+    "item_code": "6223007378253",
+    "unit_type": "",
+    "price": 34.6,
+    "cost": 34.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/633900/1730734203/633900_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1954",
+    "internal_code": "634115",
+    "name": "كوكس خليط كيكة الفانيليا - 400 جرام",
+    "barcode": "6223001031642",
+    "item_type": "GS1",
+    "item_code": "6223001031642",
+    "unit_type": "",
+    "price": 54.0,
+    "cost": 54.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd0/had/64618065264670/634115_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1979",
+    "internal_code": "620751",
+    "name": "رافيز كريم كراميل - 80 جرام",
+    "barcode": "6223005049827",
+    "item_type": "GS1",
+    "item_code": "6223005049827",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd4/h23/51361293041694/620751_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1985",
+    "internal_code": "501900",
+    "name": "كوكو لافرز بسكويت فانيليا بكريمة الكاكاو",
+    "barcode": "6222001114959",
+    "item_type": "GS1",
+    "item_code": "6222001114959",
+    "unit_type": "",
+    "price": 7.0,
+    "cost": 7.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h32/h66/48744147812382/501900_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2094",
+    "internal_code": "652058",
+    "name": "كيكة توينكيز ديو بالفراولة وكريمة الفانيليا - 12 قطعة",
+    "barcode": "6223000556573",
+    "item_type": "GS1",
+    "item_code": "6223000556573",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652058/1744626604/652058_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2114",
+    "internal_code": "607134",
+    "name": "رافيز خلطة كيك الفانيليا - 400 جرام",
+    "barcode": "6223005048912",
+    "item_type": "GS1",
+    "item_code": "6223005048912",
+    "unit_type": "",
+    "price": 40.0,
+    "cost": 40.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h12/hf0/48561039802398/607134_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2172",
+    "internal_code": "652181",
+    "name": "بسكويت أوريو بكريمة الفانيليا - 8 كوكيز - 9 باكيت",
+    "barcode": "7622202831805",
+    "item_type": "GS1",
+    "item_code": "7622202831805",
+    "unit_type": "",
+    "price": 108.0,
+    "cost": 134.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652181/1745827804/652181_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2196",
+    "internal_code": "491425",
+    "name": "بيك لاند سبونج كيك فانيليا - 500 جرام",
+    "barcode": "6223005040398",
+    "item_type": "GS1",
+    "item_code": "6223005040398",
+    "unit_type": "",
+    "price": 56.0,
+    "cost": 56.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h27/h64/48159733514270/491425_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2254",
+    "internal_code": "543906",
+    "name": "بريستو بيكنج صودا - 250 جم",
+    "barcode": "6222021102745",
+    "item_type": "GS1",
+    "item_code": "6222021102745",
+    "unit_type": "",
+    "price": 26.3,
+    "cost": 26.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/543906/1724076003/543906_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2337",
+    "internal_code": "591986",
+    "name": "العبدكوكيز بقطع الشوكولاتة بالفانيليا - 6 قطع",
+    "barcode": "6224009794744",
+    "item_type": "GS1",
+    "item_code": "6224009794744",
+    "unit_type": "",
+    "price": 32.5,
+    "cost": 38.1,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hee/h92/33182848188446/591986_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2444",
+    "internal_code": "534043",
+    "name": "بريستو مسحوق فانيليا - 60 جم",
+    "barcode": "6222021102479",
+    "item_type": "GS1",
+    "item_code": "6222021102479",
+    "unit_type": "",
+    "price": 133.9,
+    "cost": 133.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha6/hce/63607118888990/534043_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2480",
+    "internal_code": "622318",
+    "name": "بسكو مصر ويفر بالفانيليا -  6 قطع",
+    "barcode": "6222001100570",
+    "item_type": "GS1",
+    "item_code": "6222001100570",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/622318/1724679604/622318_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2533",
+    "internal_code": "607140",
+    "name": "رافيز مسحوق الكريم شانتيه - 200 جرام",
+    "barcode": "6223005048967",
+    "item_type": "GS1",
+    "item_code": "6223005048967",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h63/hdf/48236959924254/607140_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2588",
+    "internal_code": "197660",
+    "name": " أيس كريم فانيليا 5 مينيتس - 75 جم",
+    "barcode": "6223003290467",
+    "item_type": "GS1",
+    "item_code": "6223003290467",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbd/hd9/32699404124190/197660_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2594",
+    "internal_code": "591985",
+    "name": "العبد كوكيز فانيليا بقطع الشوكولاتة - 12 قطعة",
+    "barcode": "6224009794720",
+    "item_type": "GS1",
+    "item_code": "6224009794720",
+    "unit_type": "",
+    "price": 133.0,
+    "cost": 157.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbf/h0d/33182849990686/591985_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2639",
+    "internal_code": "520405",
+    "name": "بريتانيا بسكويت محشو فانيليا - 40 جرام",
+    "barcode": "6291007909685",
+    "item_type": "GS1",
+    "item_code": "6291007909685",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h21/hf5/49083056947230/520405_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2647",
+    "internal_code": "132601",
+    "name": "بيكنج باودر كوكس - 16جم - عبوة من 50",
+    "barcode": "6223001030522",
+    "item_type": "GS1",
+    "item_code": "6223001030522",
+    "unit_type": "",
+    "price": 155.0,
+    "cost": 155.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2d/h10/62326144696350/132601_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2689",
+    "internal_code": "648676",
+    "name": "كيك الشوكولاتة تورتا ديلايتس المحشوة بالفانيليا - 6 باكيت",
+    "barcode": "6222035243595",
+    "item_type": "GS1",
+    "item_code": "6222035243595",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648676/1739710804/648676_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2776",
+    "internal_code": "513872",
+    "name": "فان داي كيك بالفانيليا - 1 قطعة",
+    "barcode": "6224010268760",
+    "item_type": "GS1",
+    "item_code": "6224010268760",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h53/h78/14595921149982/513872_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2793",
+    "internal_code": "170444",
+    "name": "جرينز بيكنج باودر - 100 جرام",
+    "barcode": "5000318004634",
+    "item_type": "GS1",
+    "item_code": "5000318004634",
+    "unit_type": "",
+    "price": 51.5,
+    "cost": 51.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdd/h4d/49332892532766/170444_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2876",
+    "internal_code": "534981",
+    "name": "فان داي كيك مافن بالفانيليا و الشوكولاتة - 2 قطعة",
+    "barcode": "6224010268159",
+    "item_type": "GS1",
+    "item_code": "6224010268159",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2d/hb1/27393742307358/534981_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2916",
+    "internal_code": "651471",
+    "name": "بسكويت ساندويتش لوتس بسكوف بالفانيليا - 50 جم",
+    "barcode": "54010666",
+    "item_type": "GS1",
+    "item_code": "54010666",
+    "unit_type": "",
+    "price": 43.7,
+    "cost": 43.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651471/1742729403/651471_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2938",
+    "internal_code": "630139",
+    "name": "شوكومم بسكويت فانيليا محشو ومغطى بالشيكولاتة - 36 جم",
+    "barcode": "6224002808066",
+    "item_type": "GS1",
+    "item_code": "6224002808066",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 14.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h96/h99/62982673235998/630139_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2954",
+    "internal_code": "563938",
+    "name": "ويفر بوو فانيليا - قطعة",
+    "barcode": "6223007942782",
+    "item_type": "GS1",
+    "item_code": "6223007942782",
+    "unit_type": "",
+    "price": 5.3,
+    "cost": 5.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he9/h8e/34674254970910/563938_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3118",
+    "internal_code": "664122",
+    "name": "بسكويت بوريو بكريمة الفانيليا 10 كوكيز - 50 جم - 6 باكيت",
+    "barcode": "7622202340642",
+    "item_type": "GS1",
+    "item_code": "7622202340642",
+    "unit_type": "",
+    "price": 48.0,
+    "cost": 60.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664122/1768750800/664122_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3170",
+    "internal_code": "667608",
+    "name": "كوكيز الفانيليا اونيرو المغطى بالشوكولاتة البيضاء",
+    "barcode": "6223000559796",
+    "item_type": "GS1",
+    "item_code": "6223000559796",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667608/1764846005/667608_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3218",
+    "internal_code": "667609",
+    "name": "كوكيز الفانيليا اونيرو المغطى بالشوكولاتة البيضاء - 12 قطعة",
+    "barcode": "6223000559789",
+    "item_type": "GS1",
+    "item_code": "6223000559789",
+    "unit_type": "",
+    "price": 126.0,
+    "cost": 126.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667609/1764846005/667609_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3231",
+    "internal_code": "667365",
+    "name": "بسكويت إتس ايه يوم هيرشيز برقائق الفانيليا - 20 جرام",
+    "barcode": "6224011288460",
+    "item_type": "GS1",
+    "item_code": "6224011288460",
+    "unit_type": "",
+    "price": 6.5,
+    "cost": 6.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667365/1764685805/667365_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

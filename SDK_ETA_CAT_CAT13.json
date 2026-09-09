@@ -1,0 +1,728 @@
+[
+  {
+    "id": "prod_052",
+    "internal_code": "637031",
+    "name": "أولكر بسكويت للشاي - 12 بسكوتة - 12 باكو",
+    "barcode": "6222024102506",
+    "item_type": "GS1",
+    "item_code": "6222024102506",
+    "unit_type": "",
+    "price": 59.4,
+    "cost": 59.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637031/1735142403/637031_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_163",
+    "internal_code": "17232",
+    "name": "مبيض قهوة نستله كوفي ميت - 400 جرام",
+    "barcode": "6221007000099",
+    "item_type": "GS1",
+    "item_code": "6221007000099",
+    "unit_type": "",
+    "price": 148.3,
+    "cost": 148.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcf/h6f/44239405350942/17232_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_457",
+    "internal_code": "439045",
+    "name": "بسكوت بالقهوة من كوفي جوي - 45 جرام",
+    "barcode": "8996001301715",
+    "item_type": "GS1",
+    "item_code": "8996001301715",
+    "unit_type": "",
+    "price": 26.3,
+    "cost": 26.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h00/h64/51790349565982/439045_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_695",
+    "internal_code": "649674",
+    "name": "بيكيز بسكويت شاي - 20 بسكوتة - 6 باكو",
+    "barcode": "6223014381352",
+    "item_type": "GS1",
+    "item_code": "6223014381352",
+    "unit_type": "",
+    "price": 65.7,
+    "cost": 65.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649674/1741071604/649674_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_854",
+    "internal_code": "106097",
+    "name": "لوكر ويفر بالكابتشينو والشوكولاتة - 100 جم",
+    "barcode": "8000380003754",
+    "item_type": "GS1",
+    "item_code": "8000380003754",
+    "unit_type": "",
+    "price": 214.0,
+    "cost": 235.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h93/h2d/14499517431838/106097_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_922",
+    "internal_code": "559671",
+    "name": "فرسان عصير ليمون - 250 مل",
+    "barcode": "8690816983899",
+    "item_type": "GS1",
+    "item_code": "8690816983899",
+    "unit_type": "",
+    "price": 58.3,
+    "cost": 58.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/559671/1728307803/559671_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_936",
+    "internal_code": "664066",
+    "name": "ويفر نوفي بليزو المحشو بكريمة القهوة",
+    "barcode": "6222035254133",
+    "item_type": "GS1",
+    "item_code": "6222035254133",
+    "unit_type": "",
+    "price": 10.9,
+    "cost": 10.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664066/1759411804/664066_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1049",
+    "internal_code": "337102",
+    "name": "بسكو مصر بسكويت شاي ماكس - 9 قطع",
+    "barcode": "6222001131055",
+    "item_type": "GS1",
+    "item_code": "6222001131055",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h42/hd6/48744146665502/337102_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1276",
+    "internal_code": "658697",
+    "name": "كاندى دولسى كوفي كريم - 12 قطع",
+    "barcode": "6223004354489",
+    "item_type": "GS1",
+    "item_code": "6223004354489",
+    "unit_type": "",
+    "price": 116.5,
+    "cost": 116.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658697/1754312406/658697_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1503",
+    "internal_code": "337101",
+    "name": "بسكو مصر بسكويت شاي ماكس - 9 قطع - عبوة من 12",
+    "barcode": "6222001131048",
+    "item_type": "GS1",
+    "item_code": "6222001131048",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2d/he7/14595741646878/337101_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1597",
+    "internal_code": "17231",
+    "name": "نستله كوفي ميت مبيض قهوة - 170جم",
+    "barcode": "6221007000990",
+    "item_type": "GS1",
+    "item_code": "6221007000990",
+    "unit_type": "",
+    "price": 72.3,
+    "cost": 72.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h48/h76/44239405187102/17231_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1673",
+    "internal_code": "168467",
+    "name": "دريم مبيض قهوة - 150 جم",
+    "barcode": "6223001085263",
+    "item_type": "GS1",
+    "item_code": "6223001085263",
+    "unit_type": "",
+    "price": 56.9,
+    "cost": 56.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc3/h4a/14595011117086/168467_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1822",
+    "internal_code": "658696",
+    "name": "كاندى دولسى كوفي كريم - 9 قطع",
+    "barcode": "6223004354472",
+    "item_type": "GS1",
+    "item_code": "6223004354472",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658696/1754312406/658696_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1846",
+    "internal_code": "230355",
+    "name": "بسكويت ماري شاي من تيفاني - 200 جم",
+    "barcode": "6291003000119",
+    "item_type": "GS1",
+    "item_code": "6291003000119",
+    "unit_type": "",
+    "price": 39.0,
+    "cost": 39.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h11/h51/49347549134878/230355_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1858",
+    "internal_code": "53934",
+    "name": "ريتش ميكس مبيض القهوة - 300 جم",
+    "barcode": "6223001260004",
+    "item_type": "GS1",
+    "item_code": "6223001260004",
+    "unit_type": "",
+    "price": 96.5,
+    "cost": 96.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6c/h56/14660873551902/53934_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1893",
+    "internal_code": "661115",
+    "name": "شوكولاتة ريلفانت كابتشينو - 30 جرام",
+    "barcode": "6223006535114",
+    "item_type": "GS1",
+    "item_code": "6223006535114",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/661115/1769515800/661115_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1955",
+    "internal_code": "656436",
+    "name": "خليط كيك القهوة كوكس - 400 جرام",
+    "barcode": "6223001032083",
+    "item_type": "GS1",
+    "item_code": "6223001032083",
+    "unit_type": "",
+    "price": 62.5,
+    "cost": 62.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656436/1756893603/656436_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2090",
+    "internal_code": "26532",
+    "name": "دريم مبيض القهوة - 300 جم",
+    "barcode": "6223001085812",
+    "item_type": "GS1",
+    "item_code": "6223001085812",
+    "unit_type": "",
+    "price": 94.7,
+    "cost": 94.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he5/hae/14595739025438/26532_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2305",
+    "internal_code": "42047",
+    "name": "يمامة بديل عصير الليمون - 1 لتر",
+    "barcode": "623695000553",
+    "item_type": "GS1",
+    "item_code": "623695000553",
+    "unit_type": "",
+    "price": 114.5,
+    "cost": 114.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h05/h6e/14932387921950/42047_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2421",
+    "internal_code": "42042",
+    "name": "يمامة بديل عصير الليمون - 330 مل",
+    "barcode": "623695000560",
+    "item_type": "GS1",
+    "item_code": "623695000560",
+    "unit_type": "",
+    "price": 55.0,
+    "cost": 55.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/had/h03/14932388970526/42042_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2447",
+    "internal_code": "637030",
+    "name": "أولكر بسكويت للشاي - 12 بسكوتة",
+    "barcode": "6222024102490",
+    "item_type": "GS1",
+    "item_code": "6222024102490",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637030/1748160003/637030_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2717",
+    "internal_code": "597342",
+    "name": "اولكر بسكويت الشاي - 60 جرام - 6 قطع",
+    "barcode": "6222024105170",
+    "item_type": "GS1",
+    "item_code": "6222024105170",
+    "unit_type": "",
+    "price": 63.6,
+    "cost": 63.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/597342/1735147803/597342_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2722",
+    "internal_code": "627022",
+    "name": "نوفي تورتا كيك قهوة حجم ميجا",
+    "barcode": "6222035225478",
+    "item_type": "GS1",
+    "item_code": "6222035225478",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hce/hb7/61762570420254/627022_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2810",
+    "internal_code": "630141",
+    "name": "شوكومم شوكولاتة بالقهوة - 30 جم",
+    "barcode": "6224002808011",
+    "item_type": "GS1",
+    "item_code": "6224002808011",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 21.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf9/h67/63126104473630/630141_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2952",
+    "internal_code": "597341",
+    "name": "بسكويت شاي أولكر - 60 جم",
+    "barcode": "6222024105163",
+    "item_type": "GS1",
+    "item_code": "6222024105163",
+    "unit_type": "",
+    "price": 10.3,
+    "cost": 10.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/597341/1759140005/597341_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3209",
+    "internal_code": "667602",
+    "name": "توفى كراميل القهوة دولتشي ميميكس - 9 قطع - عبوة من 12 قطعة",
+    "barcode": "6223004354816",
+    "item_type": "GS1",
+    "item_code": "6223004354816",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667602/1769956800/667602_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3215",
+    "internal_code": "665724",
+    "name": "قهوة سويت أند سليم 3 في 1 سريعة التحضير",
+    "barcode": "6223004405143",
+    "item_type": "GS1",
+    "item_code": "6223004405143",
+    "unit_type": "",
+    "price": 19.4,
+    "cost": 19.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665724/1763466006/665724_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3221",
+    "internal_code": "665725",
+    "name": "قهوة سويت أند سليم 3 في 1 سريعة التحضير إكسترا",
+    "barcode": "6223004405150",
+    "item_type": "GS1",
+    "item_code": "6223004405150",
+    "unit_type": "",
+    "price": 20.5,
+    "cost": 20.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665725/1763466006/665725_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3227",
+    "internal_code": "667363",
+    "name": "بسكويت إتس ايه بوم! سيجافريدو بالقهوة - 20 جرام",
+    "barcode": "6224011288767",
+    "item_type": "GS1",
+    "item_code": "6224011288767",
+    "unit_type": "",
+    "price": 6.5,
+    "cost": 6.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667363/1764685805/667363_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3235",
+    "internal_code": "667601",
+    "name": "توفي ميميكس كاراميلو بالقهوة والكراميل - 9 قطع",
+    "barcode": "6223004354809",
+    "item_type": "GS1",
+    "item_code": "6223004354809",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667601/1765195204/667601_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3302",
+    "internal_code": "664067",
+    "name": "ويفر نوفي بليزو المحشو بكريمة القهوة - 6 قطع",
+    "barcode": "6222035254140",
+    "item_type": "GS1",
+    "item_code": "6222035254140",
+    "unit_type": "",
+    "price": 67.2,
+    "cost": 67.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664067/1760277605/664067_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

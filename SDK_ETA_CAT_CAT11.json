@@ -1,0 +1,770 @@
+[
+  {
+    "id": "prod_239",
+    "internal_code": "305062",
+    "name": "برايت ستار فشار حار - 100 جم",
+    "barcode": "3800203051352",
+    "item_type": "GS1",
+    "item_code": "3800203051352",
+    "unit_type": "",
+    "price": 52.0,
+    "cost": 52.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hed/hfe/29790682120222/305062_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_442",
+    "internal_code": "454483",
+    "name": "فريماز سناكس اوريجنال - 75 جم",
+    "barcode": "3800225340427",
+    "item_type": "GS1",
+    "item_code": "3800225340427",
+    "unit_type": "",
+    "price": 55.0,
+    "cost": 61.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd1/h31/14835322159134/454483_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_444",
+    "internal_code": "454480",
+    "name": "فريماز سناكس بالكريمة والشبت - 30 جم",
+    "barcode": "3800225340489",
+    "item_type": "GS1",
+    "item_code": "3800225340489",
+    "unit_type": "",
+    "price": 29.5,
+    "cost": 29.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h78/h9e/14835323207710/454480_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_480",
+    "internal_code": "454487",
+    "name": "سناكس فريماز بالكباب - 75 جم",
+    "barcode": "3800225340014",
+    "item_type": "GS1",
+    "item_code": "3800225340014",
+    "unit_type": "",
+    "price": 61.8,
+    "cost": 61.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he1/h7b/14835325796382/454487_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_481",
+    "internal_code": "454486",
+    "name": "فريماز سناكس بالكريمة والشبت - 75 جم",
+    "barcode": "3800225340465",
+    "item_type": "GS1",
+    "item_code": "3800225340465",
+    "unit_type": "",
+    "price": 61.8,
+    "cost": 61.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3f/h49/14835322814494/454486_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_482",
+    "internal_code": "454479",
+    "name": "فريماز سناكس بالدجاج - 30 جم",
+    "barcode": "3800225340502",
+    "item_type": "GS1",
+    "item_code": "3800225340502",
+    "unit_type": "",
+    "price": 29.5,
+    "cost": 29.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2e/hf7/14835324256286/454479_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_670",
+    "internal_code": "659710",
+    "name": "فشار دايمة - 500 جرام",
+    "barcode": "6224010414709",
+    "item_type": "GS1",
+    "item_code": "6224010414709",
+    "unit_type": "",
+    "price": 83.4,
+    "cost": 83.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659710/1755437403/659710_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_949",
+    "internal_code": "530472",
+    "name": "فشار بوبز سويت آند سالتي للميكروويف - 85 جم",
+    "barcode": "5706516011633",
+    "item_type": "GS1",
+    "item_code": "5706516011633",
+    "unit_type": "",
+    "price": 75.0,
+    "cost": 75.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h32/h31/14853605228574/530472_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1237",
+    "internal_code": "638124",
+    "name": "شيبسي رقائق بطاطس بالشطة والليمون - 140 جرام",
+    "barcode": "6221333002811",
+    "item_type": "GS1",
+    "item_code": "6221333002811",
+    "unit_type": "",
+    "price": 18.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638124/1759141805/638124_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1463",
+    "internal_code": "603721",
+    "name": "أبو عوف فشار بالكراميل - 100 جم",
+    "barcode": "6223004760938",
+    "item_type": "GS1",
+    "item_code": "6223004760938",
+    "unit_type": "",
+    "price": 31.8,
+    "cost": 31.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h55/he6/47644447440926/603721_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1505",
+    "internal_code": "625467",
+    "name": "سبادز بطاطس شيبسي - طعم ترافل تشيز - 73 جرام",
+    "barcode": "6223009440873",
+    "item_type": "GS1",
+    "item_code": "6223009440873",
+    "unit_type": "",
+    "price": 13.0,
+    "cost": 13.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h94/h7e/64598657073182/625467_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1669",
+    "internal_code": "628861",
+    "name": "سبادز بطاطس شيبسي - طعم الليمون - 94 جرام",
+    "barcode": "6223009441238",
+    "item_type": "GS1",
+    "item_code": "6223009441238",
+    "unit_type": "",
+    "price": 24.0,
+    "cost": 24.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9c/h2c/62443045486622/628861_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1685",
+    "internal_code": "625466",
+    "name": "سبادز بطاطس شيبسي - طعم ترافل تشيز - 73 جرام",
+    "barcode": "6223009440897",
+    "item_type": "GS1",
+    "item_code": "6223009440897",
+    "unit_type": "",
+    "price": 18.0,
+    "cost": 18.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h79/h63/64598657859614/625466_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1687",
+    "internal_code": "638120",
+    "name": "شيبسي رقائق بطاطس بالطماطم - 140 جرام",
+    "barcode": "6221333002774",
+    "item_type": "GS1",
+    "item_code": "6221333002774",
+    "unit_type": "",
+    "price": 18.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638120/1759141805/638120_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1715",
+    "internal_code": "637768",
+    "name": "جاكوار ووندر بوبس فشار بالليمون الحلو - 45 جرام",
+    "barcode": "6222035233343",
+    "item_type": "GS1",
+    "item_code": "6222035233343",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637768/1724056803/637768_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1811",
+    "internal_code": "638381",
+    "name": "أوتكسي فيجي سناكس بالكاري - 60 جم",
+    "barcode": "6224002146762",
+    "item_type": "GS1",
+    "item_code": "6224002146762",
+    "unit_type": "",
+    "price": 18.4,
+    "cost": 18.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638381/1725802804/638381_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1912",
+    "internal_code": "635556",
+    "name": "فن داي فشار بالفلفل الحلو - 25 جرام",
+    "barcode": "6224002810199",
+    "item_type": "GS1",
+    "item_code": "6224002810199",
+    "unit_type": "",
+    "price": 7.0,
+    "cost": 7.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h86/hcb/64598676668446/635556_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1916",
+    "internal_code": "651099",
+    "name": "بافس سناكسي المقرمشة بطعم الجمبري - 70 جم",
+    "barcode": "6223011819544",
+    "item_type": "GS1",
+    "item_code": "6223011819544",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651099/1756297803/651099_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1931",
+    "internal_code": "616319",
+    "name": "سبادز بطاطس شيبسي بطعم الليمون - 45 جرام",
+    "barcode": "6223009440507",
+    "item_type": "GS1",
+    "item_code": "6223009440507",
+    "unit_type": "",
+    "price": 13.0,
+    "cost": 13.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h18/he4/50133359198238/616319_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2143",
+    "internal_code": "628862",
+    "name": "سبادز بطاطس شيبسي - بطعم ترافل تشيز - 94 جرام",
+    "barcode": "6223009441245",
+    "item_type": "GS1",
+    "item_code": "6223009441245",
+    "unit_type": "",
+    "price": 24.0,
+    "cost": 24.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8d/h26/62443045617694/628862_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2258",
+    "internal_code": "621809",
+    "name": "سبادز كرافت كوكد بطاطس شيبسي - نكهة برايم ريبز - 72 جرام",
+    "barcode": "6223009440736",
+    "item_type": "GS1",
+    "item_code": "6223009440736",
+    "unit_type": "",
+    "price": 18.0,
+    "cost": 18.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2d/h38/51557080334366/621809_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2353",
+    "internal_code": "646468",
+    "name": "سناكس جاكوار برايم بطعم الشطة الحلوة - 100 جرام",
+    "barcode": "6222035238522",
+    "item_type": "GS1",
+    "item_code": "6222035238522",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646468/1735208526/646468_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2500",
+    "internal_code": "629894",
+    "name": "جاكوار ووندر بوبس فشار بالكراميل - 40 جرام",
+    "barcode": "6222035227441",
+    "item_type": "GS1",
+    "item_code": "6222035227441",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h31/h8a/62908096282654/629894_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2527",
+    "internal_code": "653137",
+    "name": "سناكس بيك ستيكس بطعم الفراخ بالكارى الهنديه  - 60 جرام",
+    "barcode": "6223000556832",
+    "item_type": "GS1",
+    "item_code": "6223000556832",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653137/1745829603/653137_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2584",
+    "internal_code": "533555",
+    "name": "فان داي فشار بالكراميل - 60 جم",
+    "barcode": "6224009765546",
+    "item_type": "GS1",
+    "item_code": "6224009765546",
+    "unit_type": "",
+    "price": 10.5,
+    "cost": 10.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h71/hec/14853608472606/533555_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2676",
+    "internal_code": "454488",
+    "name": "سناكس فريماز باللحم والشطة - 75 جم",
+    "barcode": "3800225340458",
+    "item_type": "GS1",
+    "item_code": "3800225340458",
+    "unit_type": "",
+    "price": 61.8,
+    "cost": 61.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h37/he9/14835324682270/454488_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2749",
+    "internal_code": "633428",
+    "name": "شيبسي رقائق بطاطس بالكباب - 105 جرام",
+    "barcode": "6221031003950",
+    "item_type": "GS1",
+    "item_code": "6221031003950",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hba/hd3/63869226582046/633428_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2780",
+    "internal_code": "634131",
+    "name": "فن داي فشار بيتزا - 75 جرام",
+    "barcode": "6224010267886",
+    "item_type": "GS1",
+    "item_code": "6224010267886",
+    "unit_type": "",
+    "price": 11.8,
+    "cost": 11.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc3/hee/64248402051102/634131_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3040",
+    "internal_code": "651095",
+    "name": "بافس سناكسي المقرمشة بطعم التاكو الحلو - 70 جم",
+    "barcode": "6223011819605",
+    "item_type": "GS1",
+    "item_code": "6223011819605",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651095/1756297803/651095_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3054",
+    "internal_code": "651102",
+    "name": "بافس سناكسي المقرمشة بطعم الشطة والليمون - 70 جم",
+    "barcode": "6223011819582",
+    "item_type": "GS1",
+    "item_code": "6223011819582",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651102/1756297803/651102_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3061",
+    "internal_code": "651096",
+    "name": "بافس سناكسي المقرمشة بطعم التاكو الحار - 70 جم",
+    "barcode": "6223011819629",
+    "item_type": "GS1",
+    "item_code": "6223011819629",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651096/1756297803/651096_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3252",
+    "internal_code": "665774",
+    "name": "بطاطس شيبسي رو كرنكل بطعم بيستو - 75 جم",
+    "barcode": "6223015762518",
+    "item_type": "GS1",
+    "item_code": "6223015762518",
+    "unit_type": "",
+    "price": 21.2,
+    "cost": 21.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665774/1765881003/665774_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "prod_044",
+    "internal_code": "210622",
+    "name": "كيك فراولة 5 مينتس - 400 جرام",
+    "barcode": "6223003290603",
+    "item_type": "GS1",
+    "item_code": "6223003290603",
+    "unit_type": "",
+    "price": 64.8,
+    "cost": 64.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h35/ha7/32699405795358/210622_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_270",
+    "internal_code": "456512",
+    "name": "تودو كيك براونيز - 1 قطعة",
+    "barcode": "6223000492161",
+    "item_type": "GS1",
+    "item_code": "6223000492161",
+    "unit_type": "",
+    "price": 14.8,
+    "cost": 14.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8e/h28/49986430992414/456512_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_293",
+    "internal_code": "520409",
+    "name": "كيك فن داي ماربل  - 12 قطعة",
+    "barcode": "6224010268807",
+    "item_type": "GS1",
+    "item_code": "6224010268807",
+    "unit_type": "",
+    "price": 70.6,
+    "cost": 70.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/520409/1748853004/520409_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_310",
+    "internal_code": "649010",
+    "name": "كيكة توداي ألوها بالفراولة",
+    "barcode": "6223013844933",
+    "item_type": "GS1",
+    "item_code": "6223013844933",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649010/1739872804/649010_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_348",
+    "internal_code": "650585",
+    "name": "كيكة توينكيز سوبر كريمة - 1 قطعة",
+    "barcode": "6223000556702",
+    "item_type": "GS1",
+    "item_code": "6223000556702",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/650585/1742299203/650585_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_357",
+    "internal_code": "645198",
+    "name": "معمول أبو عوف محشو بالفراولة - قطعة واحدة",
+    "barcode": "6223011437236",
+    "item_type": "GS1",
+    "item_code": "6223011437236",
+    "unit_type": "",
+    "price": 6.5,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/645198/1746694803/645198_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_386",
+    "internal_code": "486544",
+    "name": "كيك فادج 5 مينتس - 320 جم",
+    "barcode": "6223003292720",
+    "item_type": "GS1",
+    "item_code": "6223003292720",
+    "unit_type": "",
+    "price": 99.7,
+    "cost": 99.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc9/he0/32699412480030/486544_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_415",
+    "internal_code": "530999",
+    "name": "تودو براونيز - 1*8 قطع",
+    "barcode": "6223000494844",
+    "item_type": "GS1",
+    "item_code": "6223000494844",
+    "unit_type": "",
+    "price": 135.5,
+    "cost": 135.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hee/h8b/49986434662430/530999_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_506",
+    "internal_code": "543414",
+    "name": "دريم خليط فادج كيك - 500 جرام",
+    "barcode": "6223003944766",
+    "item_type": "GS1",
+    "item_code": "6223003944766",
+    "unit_type": "",
+    "price": 112.0,
+    "cost": 112.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h58/he5/14596047077406/543414_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_517",
+    "internal_code": "179307",
+    "name": "بسكو مصر معمول بالتمر - 1 قطعة - عبوة من 12",
+    "barcode": "6222001127935",
+    "item_type": "GS1",
+    "item_code": "6222001127935",
+    "unit_type": "",
+    "price": 69.0,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h71/h9e/14583367598110/179307_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_533",
+    "internal_code": "654665",
+    "name": "كيكة توينكيز بالكريمة المزدوجة ١٢ قطعة - 50 جرام",
+    "barcode": "6223000556689",
+    "item_type": "GS1",
+    "item_code": "6223000556689",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/654665/1747738803/654665_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_701",
+    "internal_code": "551133",
+    "name": "خليط الافا كيك من بيك لاند - 400 جرام",
+    "barcode": "6223005040503",
+    "item_type": "GS1",
+    "item_code": "6223005040503",
+    "unit_type": "",
+    "price": 80.8,
+    "cost": 80.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1e/h72/48159733940254/551133_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_745",
+    "internal_code": "524183",
+    "name": "معمول ابو عوف بالتمر، 1 قطعة - 12 عبوة",
+    "barcode": "6223006311459",
+    "item_type": "GS1",
+    "item_code": "6223006311459",
+    "unit_type": "",
+    "price": 65.0,
+    "cost": 101.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha9/hc3/14583689019422/524183_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_752",
+    "internal_code": "179308",
+    "name": "بسكو مصر معمول بالتمر - 1 قطعة",
+    "barcode": "6222001127928",
+    "item_type": "GS1",
+    "item_code": "6222001127928",
+    "unit_type": "",
+    "price": 5.8,
+    "cost": 5.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9d/hc9/48744145911838/179308_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_756",
+    "internal_code": "383014",
+    "name": "كيك بنكهة الفراولة دريم - 400 جم",
+    "barcode": "6223003941444",
+    "item_type": "GS1",
+    "item_code": "6223003941444",
+    "unit_type": "",
+    "price": 58.8,
+    "cost": 58.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4c/h8b/14595745579038/383014_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_777",
+    "internal_code": "513403",
+    "name": "توداي سنو بول كيكة بجوز الهند - 1 قطعة - 12 باكو",
+    "barcode": "6223005613677",
+    "item_type": "GS1",
+    "item_code": "6223005613677",
+    "unit_type": "",
+    "price": 71.7,
+    "cost": 71.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h74/hcf/47234746810398/513403_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1017",
+    "internal_code": "453461",
+    "name": "توينكيز كيك أيسينج بالفانليا - 1 قطعة",
+    "barcode": "6223000492109",
+    "item_type": "GS1",
+    "item_code": "6223000492109",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h00/h9a/49986432499742/453461_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1089",
+    "internal_code": "406995",
+    "name": "خليط كيك بيتي كروكر بنكهة الفانيلا - 360 جرام",
+    "barcode": "6291105690072",
+    "item_type": "GS1",
+    "item_code": "6291105690072",
+    "unit_type": "",
+    "price": 135.0,
+    "cost": 135.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd2/h48/14595748036638/406995_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1115",
+    "internal_code": "625740",
+    "name": "تودو كاب كيك بالريد فيلفيت - قطعة واحدة",
+    "barcode": "6223000553534",
+    "item_type": "GS1",
+    "item_code": "6223000553534",
+    "unit_type": "",
+    "price": 14.5,
+    "cost": 14.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h16/h48/61776645292062/625740_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1177",
+    "internal_code": "656318",
+    "name": "كيك جوز الهند توداي بار كيك حجم جامبو",
+    "barcode": "6223013846739",
+    "item_type": "GS1",
+    "item_code": "6223013846739",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 12.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656318/1749565803/656318_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1195",
+    "internal_code": "656316",
+    "name": "كيك الكرامكيل توداي بار كيك حجم جامبو",
+    "barcode": "6223013845312",
+    "item_type": "GS1",
+    "item_code": "6223013845312",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 12.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656316/1749565803/656316_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1253",
+    "internal_code": "599816",
+    "name": "فان داي مافن كيك بالفراولة - 2 قطعة",
+    "barcode": "6224010268609",
+    "item_type": "GS1",
+    "item_code": "6224010268609",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfc/h9a/51190625173534/599816_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1286",
+    "internal_code": "534976",
+    "name": "فان داي كيك مافن الريد فيلفيت - 2 قطعة",
+    "barcode": "6224010268142",
+    "item_type": "GS1",
+    "item_code": "6224010268142",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha4/hf7/34493836623902/534976_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1301",
+    "internal_code": "650584",
+    "name": "كيكة توينكيز سوبر كريمة - 12 قطعة",
+    "barcode": "6223000556719",
+    "item_type": "GS1",
+    "item_code": "6223000556719",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/650584/1742373003/650584_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1316",
+    "internal_code": "654666",
+    "name": "كيكة توينكيز بالكريمة المزدوجة - 50 جرام",
+    "barcode": "6223000556672",
+    "item_type": "GS1",
+    "item_code": "6223000556672",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/654666/1750170604/654666_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1328",
+    "internal_code": "649012",
+    "name": "كيكة توداي ألوها بالكاكاو",
+    "barcode": "6223013844926",
+    "item_type": "GS1",
+    "item_code": "6223013844926",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649012/1739872804/649012_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1391",
+    "internal_code": "406997",
+    "name": "بيتى كروكر خليط  كيك اصفر - 360 جم",
+    "barcode": "6291105690065",
+    "item_type": "GS1",
+    "item_code": "6291105690065",
+    "unit_type": "",
+    "price": 135.0,
+    "cost": 135.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h53/h41/14595748298782/406997_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1474",
+    "internal_code": "634113",
+    "name": "كوكس مج كيك - 65 جرام",
+    "barcode": "6223001031680",
+    "item_type": "GS1",
+    "item_code": "6223001031680",
+    "unit_type": "",
+    "price": 14.8,
+    "cost": 14.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h20/h1c/64617965649950/634113_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1480",
+    "internal_code": "645197",
+    "name": "معمول ابو عوف محشو تمر مجدول وفراولة - 12 قطعة",
+    "barcode": "6223011437243",
+    "item_type": "GS1",
+    "item_code": "6223011437243",
+    "unit_type": "",
+    "price": 75.5,
+    "cost": 119.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/645197/1734343803/645197_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1686",
+    "internal_code": "603822",
+    "name": "مولتو ميني ماجنم ميكس فراولة وتشيز كيك - 80 جرام",
+    "barcode": "6223000552049",
+    "item_type": "GS1",
+    "item_code": "6223000552049",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h05/h9c/49986445115422/603822_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1713",
+    "internal_code": "603819",
+    "name": "مولتو ماجنم ميكس فراولة وتشيز كيك - 80 جرام",
+    "barcode": "6223000497876",
+    "item_type": "GS1",
+    "item_code": "6223000497876",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5d/h2f/49986444066846/603819_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1733",
+    "internal_code": "637767",
+    "name": "كب كيك فن داي بالتوت - 58 جرام",
+    "barcode": "6224002810274",
+    "item_type": "GS1",
+    "item_code": "6224002810274",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637767/1738076403/637767_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1753",
+    "internal_code": "520408",
+    "name": "كيك ماربل فن داي - 1 قطعة",
+    "barcode": "6224010268777",
+    "item_type": "GS1",
+    "item_code": "6224010268777",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/520408/1748851203/520408_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1850",
+    "internal_code": "513402",
+    "name": "كيك سنو بال بجوز الهند من تو دي ،1 قطع",
+    "barcode": "6223005611109",
+    "item_type": "GS1",
+    "item_code": "6223005611109",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8a/hd0/14595920691230/513402_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2040",
+    "internal_code": "605944",
+    "name": "العبد معمول - 12 قطعة",
+    "barcode": "6223010166366",
+    "item_type": "GS1",
+    "item_code": "6223010166366",
+    "unit_type": "",
+    "price": 108.0,
+    "cost": 108.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb1/h01/48561040588830/605944_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2108",
+    "internal_code": "289825",
+    "name": "كيك شيف دريم - 23 جم - 24 عبوة",
+    "barcode": "6223001085423",
+    "item_type": "GS1",
+    "item_code": "6223001085423",
+    "unit_type": "",
+    "price": 136.8,
+    "cost": 136.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h34/hc7/50986342285342/289825_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2215",
+    "internal_code": "518265",
+    "name": "كيك الفانيلا بقطع الفاكهة المجففة من فن داي  - 50 جرام - 12 قطعة",
+    "barcode": "6224010268814",
+    "item_type": "GS1",
+    "item_code": "6224010268814",
+    "unit_type": "",
+    "price": 70.6,
+    "cost": 70.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/h94/10221159055390/518265_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2250",
+    "internal_code": "605943",
+    "name": "العبد معمول - 1 قطعة",
+    "barcode": "6223010166359",
+    "item_type": "GS1",
+    "item_code": "6223010166359",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 9.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he6/h64/48146411749406/605943_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2281",
+    "internal_code": "650589",
+    "name": "كيكة الفروالة هوهوز كينج",
+    "barcode": "6223000556511",
+    "item_type": "GS1",
+    "item_code": "6223000556511",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/650589/1742373003/650589_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2369",
+    "internal_code": "660561",
+    "name": "مج كيك كوكس - 4 اكياس",
+    "barcode": "6223001032076",
+    "item_type": "GS1",
+    "item_code": "6223001032076",
+    "unit_type": "",
+    "price": 65.1,
+    "cost": 65.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660561/1756632605/660561_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2393",
+    "internal_code": "638333",
+    "name": "توينكيز كيكة إسفنجية بكريمة أكثر",
+    "barcode": "6223000555231",
+    "item_type": "GS1",
+    "item_code": "6223000555231",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638333/1751198404/638333_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2394",
+    "internal_code": "491433",
+    "name": "ميكس كيكريد فلفت بيك لاند - 500 جم",
+    "barcode": "6223005040473",
+    "item_type": "GS1",
+    "item_code": "6223005040473",
+    "unit_type": "",
+    "price": 67.6,
+    "cost": 67.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4e/h6b/48159733743646/491433_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2395",
+    "internal_code": "517297",
+    "name": "كيك الفانيلا بقطع الفاكهة المجففة من فن داي - 45 جرام",
+    "barcode": "6224010268784",
+    "item_type": "GS1",
+    "item_code": "6224010268784",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h11/h12/14595922034718/517297_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2405",
+    "internal_code": "486545",
+    "name": "كيك براونيز 5 مينتس - 350 جم",
+    "barcode": "6223003292713",
+    "item_type": "GS1",
+    "item_code": "6223003292713",
+    "unit_type": "",
+    "price": 99.7,
+    "cost": 99.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h86/hc0/32699413102622/486545_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2424",
+    "internal_code": "649008",
+    "name": "كيكة توداي ألوها بجوز الهند",
+    "barcode": "6223013844940",
+    "item_type": "GS1",
+    "item_code": "6223013844940",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649008/1739872804/649008_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2492",
+    "internal_code": "649011",
+    "name": "كيكة توداي ألوها بالفراولة - 6 قطع",
+    "barcode": "6223013845114",
+    "item_type": "GS1",
+    "item_code": "6223013845114",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649011/1741686003/649011_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2577",
+    "internal_code": "586020",
+    "name": "بيكلاند محسن كيك - 23 جرام",
+    "barcode": "6223005040053",
+    "item_type": "GS1",
+    "item_code": "6223005040053",
+    "unit_type": "",
+    "price": 5.4,
+    "cost": 5.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc0/h5c/31558554583070/586020_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2651",
+    "internal_code": "658950",
+    "name": "معمول بالقهوه حاج عرفة - 25 جرام",
+    "barcode": "6223016956824",
+    "item_type": "GS1",
+    "item_code": "6223016956824",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658950/1754316004/658950_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2695",
+    "internal_code": "576106",
+    "name": "إيزيس معمول بالتمر- 25 جرام - 12 قطعة",
+    "barcode": "6222003006443",
+    "item_type": "GS1",
+    "item_code": "6222003006443",
+    "unit_type": "",
+    "price": 70.2,
+    "cost": 70.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7d/hb8/48755630538782/576106_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2728",
+    "internal_code": "454478",
+    "name": "دريم خليط بان كيك - 440 جرام",
+    "barcode": "6223003942663",
+    "item_type": "GS1",
+    "item_code": "6223003942663",
+    "unit_type": "",
+    "price": 74.9,
+    "cost": 74.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9a/h50/14595764027422/454478_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2811",
+    "internal_code": "406992",
+    "name": "بيتى كروكر خليط  كيك شيكولاته غامقه - 360 جم",
+    "barcode": "6291105690041",
+    "item_type": "GS1",
+    "item_code": "6291105690041",
+    "unit_type": "",
+    "price": 135.0,
+    "cost": 135.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4b/h9a/14595747774494/406992_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2812",
+    "internal_code": "406993",
+    "name": "بيتى كروكر خليط  كيك شيكولاته بالحل - 360 جم",
+    "barcode": "6291105690058",
+    "item_type": "GS1",
+    "item_code": "6291105690058",
+    "unit_type": "",
+    "price": 135.0,
+    "cost": 135.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0a/h9e/14595747643422/406993_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2933",
+    "internal_code": "654670",
+    "name": "كيكة توينكيز حجم اكبر بالفراولة - ٥٠ جرام",
+    "barcode": "6223000557037",
+    "item_type": "GS1",
+    "item_code": "6223000557037",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/654670/1747738803/654670_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3268",
+    "internal_code": "669090",
+    "name": "كيك قدرة قادر كوكس - 460 جرام",
+    "barcode": "6223001032144",
+    "item_type": "GS1",
+    "item_code": "6223001032144",
+    "unit_type": "",
+    "price": 82.5,
+    "cost": 82.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/669090/1767094200/669090_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

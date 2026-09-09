@@ -1,0 +1,152 @@
+[
+  {
+    "code": "CAT1",
+    "arabicName": "منتجات الألبان والحليب",
+    "englishName": "Dairy & Milk",
+    "order": 1
+  },
+  {
+    "code": "CAT2",
+    "arabicName": "الزيوت والسمن والزبدة",
+    "englishName": "Oils, Ghee & Butter",
+    "order": 2
+  },
+  {
+    "code": "CAT3",
+    "arabicName": "الأرز والحبوب والدقيق",
+    "englishName": "Rice, Grains & Flour",
+    "order": 3
+  },
+  {
+    "code": "CAT4",
+    "arabicName": "المكرونة والنودلز",
+    "englishName": "Pasta & Noodles",
+    "order": 4
+  },
+  {
+    "code": "CAT5",
+    "arabicName": "الصلصات والتتبيلات والخل والمرقة",
+    "englishName": "Sauces, Dressings, Vinegar & Broths",
+    "order": 5
+  },
+  {
+    "code": "CAT6",
+    "arabicName": "المعلبات والأسماك المحفوظة",
+    "englishName": "Canned & Preserved Foods",
+    "order": 6
+  },
+  {
+    "code": "CAT7",
+    "arabicName": "البهارات والتوابل والملح",
+    "englishName": "Spices, Seasonings & Salt",
+    "order": 7
+  },
+  {
+    "code": "CAT8",
+    "arabicName": "البقوليات",
+    "englishName": "Legumes & Pulses",
+    "order": 8
+  },
+  {
+    "code": "CAT9",
+    "arabicName": "الشوكولاتة والحلويات",
+    "englishName": "Chocolate & Confectionery",
+    "order": 9
+  },
+  {
+    "code": "CAT10",
+    "arabicName": "البسكويت والويفر والكوكيز",
+    "englishName": "Biscuits, Wafers & Cookies",
+    "order": 10
+  },
+  {
+    "code": "CAT11",
+    "arabicName": "السناكس والشيبسي والفشار",
+    "englishName": "Snacks, Chips & Popcorn",
+    "order": 11
+  },
+  {
+    "code": "CAT12",
+    "arabicName": "العسل والمربى والسبريد والحلاوة والطحينة",
+    "englishName": "Honey, Jams, Spreads, Halawa & Tahini",
+    "order": 12
+  },
+  {
+    "code": "CAT13",
+    "arabicName": "المشروبات والقهوة والشاي",
+    "englishName": "Beverages, Coffee & Tea",
+    "order": 13
+  },
+  {
+    "code": "CAT14",
+    "arabicName": "المثلجات والآيس كريم",
+    "englishName": "Frozen & Ice Cream",
+    "order": 14
+  },
+  {
+    "code": "CAT15",
+    "arabicName": "حبوب الإفطار والجرانولا",
+    "englishName": "Breakfast Cereals & Granola",
+    "order": 15
+  },
+  {
+    "code": "CAT16",
+    "arabicName": "المكسرات والبذور",
+    "englishName": "Nuts & Seeds",
+    "order": 16
+  },
+  {
+    "code": "CAT17",
+    "arabicName": "مستلزمات الخَبز والحلويات",
+    "englishName": "Baking Ingredients",
+    "order": 17
+  },
+  {
+    "code": "CAT18",
+    "arabicName": "السكر والمحليات",
+    "englishName": "Sugar & Sweeteners",
+    "order": 18
+  },
+  {
+    "code": "CAT19",
+    "arabicName": "الشوربة",
+    "englishName": "Soups",
+    "order": 19
+  },
+  {
+    "code": "CAT20",
+    "arabicName": "الفاكهة والخضروات المحفوظة",
+    "englishName": "Preserved Fruits & Vegetables",
+    "order": 20
+  },
+  {
+    "code": "CAT21",
+    "arabicName": "اللحوم والأسماك المصنعة",
+    "englishName": "Processed Meat & Fish",
+    "order": 21
+  },
+  {
+    "code": "CAT22",
+    "arabicName": "المنتجات الصحية والبروتين",
+    "englishName": "Healthy & Protein Products",
+    "order": 22
+  },
+  {
+    "code": "CAT23",
+    "arabicName": "الكيك والحلويات المخبوزة",
+    "englishName": "Cakes & Dessert Bakery",
+    "order": 23
+  },
+  {
+    "code": "CAT24",
+    "arabicName": "المخللات والزيتون",
+    "englishName": "Pickles & Olives",
+    "order": 24
+  },
+  {
+    "code": "CAT25",
+    "arabicName": "منتجات غذائية متنوعة",
+    "englishName": "Other Grocery Products",
+    "order": 25
+  }
+]

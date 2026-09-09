@@ -1,0 +1,338 @@
+[
+  {
+    "id": "prod_384",
+    "internal_code": "374823",
+    "name": "باشاك شوربة الهليون بالكريمة - 47 جرام",
+    "barcode": "8690906006088",
+    "item_type": "GS1",
+    "item_code": "8690906006088",
+    "unit_type": "",
+    "price": 31.5,
+    "cost": 31.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha7/hc2/14932377960478/374823_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_400",
+    "internal_code": "542719",
+    "name": "شوربة دجاج مع شعيرية من كالنورت - 66 جرام",
+    "barcode": "8412164000048",
+    "item_type": "GS1",
+    "item_code": "8412164000048",
+    "unit_type": "",
+    "price": 42.8,
+    "cost": 42.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4d/h7f/14951897202718/542719_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_547",
+    "internal_code": "542721",
+    "name": "شوربة الخضار من كالنورت - 66 جرام",
+    "barcode": "8412164000079",
+    "item_type": "GS1",
+    "item_code": "8412164000079",
+    "unit_type": "",
+    "price": 37.0,
+    "cost": 42.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc2/h2a/14951896875038/542721_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_552",
+    "internal_code": "542718",
+    "name": "شوربة جاردينيرا من كالنورت - 66 جرام",
+    "barcode": "8412164000031",
+    "item_type": "GS1",
+    "item_code": "8412164000031",
+    "unit_type": "",
+    "price": 35.0,
+    "cost": 42.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd5/he2/14951898054686/542718_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_605",
+    "internal_code": "194465",
+    "name": "شوربة باشاك الزبادي بالنعناع - 75 جرام",
+    "barcode": "8690906006019",
+    "item_type": "GS1",
+    "item_code": "8690906006019",
+    "unit_type": "",
+    "price": 31.5,
+    "cost": 31.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he0/h27/14932252426270/194465_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1226",
+    "internal_code": "275992",
+    "name": "شوربة كريمة الدجاج ماجي - 71 جم",
+    "barcode": "6221007036586",
+    "item_type": "GS1",
+    "item_code": "6221007036586",
+    "unit_type": "",
+    "price": 27.9,
+    "cost": 27.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd4/h90/14932330512414/275992_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1588",
+    "internal_code": "244503",
+    "name": "ماجي شوربة دجاج مع مكرونة حروف - 66 جم",
+    "barcode": "6221007036524",
+    "item_type": "GS1",
+    "item_code": "6221007036524",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/244503/1751374803/244503_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1825",
+    "internal_code": "512686",
+    "name": "باشاك شوربة بصل - 45 جرام",
+    "barcode": "8690906006170",
+    "item_type": "GS1",
+    "item_code": "8690906006170",
+    "unit_type": "",
+    "price": 31.5,
+    "cost": 31.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h94/h42/14951359021086/512686_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2324",
+    "internal_code": "194468",
+    "name": "شوربة شعرية بالطماطم باشاك إيزوجلين - 75 جم",
+    "barcode": "8690906006033",
+    "item_type": "GS1",
+    "item_code": "8690906006033",
+    "unit_type": "",
+    "price": 31.5,
+    "cost": 31.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h62/hfa/14932250132510/194468_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2418",
+    "internal_code": "213541",
+    "name": "شوربة كريمة المشروم باشاك - 60 جم",
+    "barcode": "8690906006101",
+    "item_type": "GS1",
+    "item_code": "8690906006101",
+    "unit_type": "",
+    "price": 31.5,
+    "cost": 31.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h04/hbd/14932254949406/213541_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2452",
+    "internal_code": "213542",
+    "name": "باشاك شوربة الفراخ بالكريمة - 60 جرام",
+    "barcode": "8690906006118",
+    "item_type": "GS1",
+    "item_code": "8690906006118",
+    "unit_type": "",
+    "price": 31.5,
+    "cost": 31.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha3/hd8/14932255997982/213542_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2615",
+    "internal_code": "355117",
+    "name": "باشاك شوربة نجوم بالخضار - 70 جم",
+    "barcode": "8690906006064",
+    "item_type": "GS1",
+    "item_code": "8690906006064",
+    "unit_type": "",
+    "price": 31.5,
+    "cost": 31.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc3/h2f/14932371243038/355117_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2650",
+    "internal_code": "194470",
+    "name": "شوربة كريمة الخضروات باشاك - 65 جرام",
+    "barcode": "8690906006132",
+    "item_type": "GS1",
+    "item_code": "8690906006132",
+    "unit_type": "",
+    "price": 31.5,
+    "cost": 31.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2a/h80/14932251967518/194470_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2666",
+    "internal_code": "542722",
+    "name": "شوربة الهليون بالكريم من كالنورت - 66 جرام",
+    "barcode": "8412164004091",
+    "item_type": "GS1",
+    "item_code": "8412164004091",
+    "unit_type": "",
+    "price": 42.8,
+    "cost": 42.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h34/h1d/14951896481822/542722_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

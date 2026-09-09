@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "prod_005",
+    "internal_code": "18916",
+    "name": "صن شاين تونة قطع سهلة الفتح - 185 جرام",
+    "barcode": "6223000717431",
+    "item_type": "GS1",
+    "item_code": "6223000717431",
+    "unit_type": "",
+    "price": 58.5,
+    "cost": 58.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7d/h12/14932249477150/18916_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_050",
+    "internal_code": "206198",
+    "name": "علبة تونة قطعة واحدة سهلة الفتح دولفين - 200 جم",
+    "barcode": "6224000529024",
+    "item_type": "GS1",
+    "item_code": "6224000529024",
+    "unit_type": "",
+    "price": 73.7,
+    "cost": 73.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h66/he4/14786100297758/206198_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_067",
+    "internal_code": "399096",
+    "name": "صن شاين اكسبريس تونة قطع - 150 جم",
+    "barcode": "6223000710791",
+    "item_type": "GS1",
+    "item_code": "6223000710791",
+    "unit_type": "",
+    "price": 47.1,
+    "cost": 47.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he7/he0/14786170912798/399096_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_073",
+    "internal_code": "206204",
+    "name": "دولفين تونة قطع - 185جم",
+    "barcode": "6224000529239",
+    "item_type": "GS1",
+    "item_code": "6224000529239",
+    "unit_type": "",
+    "price": 66.2,
+    "cost": 66.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h15/h78/14786101313566/206204_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_076",
+    "internal_code": "399095",
+    "name": "صن شاين إكسبريس تونة قطعة واحدة - 160جم",
+    "barcode": "6223000710821",
+    "item_type": "GS1",
+    "item_code": "6223000710821",
+    "unit_type": "",
+    "price": 53.5,
+    "cost": 53.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8a/hf2/14786167832606/399095_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_143",
+    "internal_code": "18913",
+    "name": "صن شاين ماكريل - 350 جم",
+    "barcode": "6223000710654",
+    "item_type": "GS1",
+    "item_code": "6223000710654",
+    "unit_type": "",
+    "price": 81.5,
+    "cost": 81.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h62/hf1/14786099019806/18913_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_177",
+    "internal_code": "293524",
+    "name": "صن شاين تونة مفتتة سهلة الفتح - 185 جرام",
+    "barcode": "6223000710050",
+    "item_type": "GS1",
+    "item_code": "6223000710050",
+    "unit_type": "",
+    "price": 37.8,
+    "cost": 37.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2e/h9e/10066484920350/293524_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_218",
+    "internal_code": "293525",
+    "name": "تونة صن شاين مفتتة بالشطة - 170جم",
+    "barcode": "6223000710067",
+    "item_type": "GS1",
+    "item_code": "6223000710067",
+    "unit_type": "",
+    "price": 37.8,
+    "cost": 37.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6b/h73/14786151022622/293525_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_330",
+    "internal_code": "554288",
+    "name": "دولفين تونة مفتتة - 200 جم",
+    "barcode": "6224009352432",
+    "item_type": "GS1",
+    "item_code": "6224009352432",
+    "unit_type": "",
+    "price": 47.8,
+    "cost": 47.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfd/h77/14786460876830/554288_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_765",
+    "internal_code": "656514",
+    "name": "ترمس حفصه المعلب - 720 جرام",
+    "barcode": "6224002631176",
+    "item_type": "GS1",
+    "item_code": "6224002631176",
+    "unit_type": "",
+    "price": 75.0,
+    "cost": 75.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656514/1755165604/656514_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_815",
+    "internal_code": "540100",
+    "name": "توناتو تونة لايت قطعة واحدة - 185 جم",
+    "barcode": "6223005801302",
+    "item_type": "GS1",
+    "item_code": "6223005801302",
+    "unit_type": "",
+    "price": 80.0,
+    "cost": 80.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h14/h55/14786446426142/540100_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_821",
+    "internal_code": "453467",
+    "name": "توناتو تونة قطعة واحدة سهلة الفتح - 185 جم",
+    "barcode": "6223005801234",
+    "item_type": "GS1",
+    "item_code": "6223005801234",
+    "unit_type": "",
+    "price": 80.0,
+    "cost": 80.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h32/h56/14786193358878/453467_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_868",
+    "internal_code": "554289",
+    "name": "تونة مفتتة دولفين حارة - 200 جم",
+    "barcode": "6224009352449",
+    "item_type": "GS1",
+    "item_code": "6224009352449",
+    "unit_type": "",
+    "price": 43.0,
+    "cost": 51.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h81/h29/14786461073438/554289_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_947",
+    "internal_code": "453464",
+    "name": "توناتو تونة مفتتة - 140 جرام",
+    "barcode": "6223005810014",
+    "item_type": "GS1",
+    "item_code": "6223005810014",
+    "unit_type": "",
+    "price": 40.4,
+    "cost": 40.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/hca/14786192015390/453464_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_966",
+    "internal_code": "450727",
+    "name": "تونة صن شاين قطع - 170جم",
+    "barcode": "6223000711149",
+    "item_type": "GS1",
+    "item_code": "6223000711149",
+    "unit_type": "",
+    "price": 63.8,
+    "cost": 63.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb0/h2b/14786186936350/450727_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1064",
+    "internal_code": "453465",
+    "name": "تونة قطع سهلة الفتح توناتو - 140 جم",
+    "barcode": "6223005810038",
+    "item_type": "GS1",
+    "item_code": "6223005810038",
+    "unit_type": "",
+    "price": 65.5,
+    "cost": 65.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha2/h4b/14786193686558/453465_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1073",
+    "internal_code": "399097",
+    "name": "صن شاين اكسبريس تونة مفتتة - 150 جم",
+    "barcode": "6223000710807",
+    "item_type": "GS1",
+    "item_code": "6223000710807",
+    "unit_type": "",
+    "price": 34.5,
+    "cost": 34.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h37/hcd/14786170388510/399097_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1160",
+    "internal_code": "206200",
+    "name": "دولفين تونة قطع سهلة الفتح - 140جم",
+    "barcode": "6224000529048",
+    "item_type": "GS1",
+    "item_code": "6224000529048",
+    "unit_type": "",
+    "price": 62.0,
+    "cost": 62.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h98/hda/14786100559902/206200_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1171",
+    "internal_code": "502164",
+    "name": "إيه إم أر تونة قطع في زيت - 140جم",
+    "barcode": "6224008603344",
+    "item_type": "GS1",
+    "item_code": "6224008603344",
+    "unit_type": "",
+    "price": 57.5,
+    "cost": 57.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h27/hd4/14786345959454/502164_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1185",
+    "internal_code": "524165",
+    "name": "دولفين تونة مفتتة حارة - 140جم",
+    "barcode": "6224009352234",
+    "item_type": "GS1",
+    "item_code": "6224009352234",
+    "unit_type": "",
+    "price": 32.0,
+    "cost": 34.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h26/hc2/14786358018078/524165_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1230",
+    "internal_code": "481293",
+    "name": "امريكانا تونة مفتتة في زيت فول الصويا ومحلول ملحى - 140 جرام",
+    "barcode": "32894076694",
+    "item_type": "GS1",
+    "item_code": "32894076694",
+    "unit_type": "",
+    "price": 34.0,
+    "cost": 34.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb6/h71/44275955433502/481293_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1239",
+    "internal_code": "531731",
+    "name": "ايه ام ار سردين حار سهل الفتح - 125 جرام",
+    "barcode": "6224008603566",
+    "item_type": "GS1",
+    "item_code": "6224008603566",
+    "unit_type": "",
+    "price": 45.0,
+    "cost": 45.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7c/h8f/13102602256414/531731_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1250",
+    "internal_code": "523402",
+    "name": "سلطة التونة الإيطالية فيشر مان - 230 جرام",
+    "barcode": "8410090081469",
+    "item_type": "GS1",
+    "item_code": "8410090081469",
+    "unit_type": "",
+    "price": 142.0,
+    "cost": 142.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h13/he1/14786358935582/523402_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1251",
+    "internal_code": "562653",
+    "name": "ايه ام ار تونة قطعة واحدة بزيت دوار الشمس - 185 جرام",
+    "barcode": "6224008603740",
+    "item_type": "GS1",
+    "item_code": "6224008603740",
+    "unit_type": "",
+    "price": 75.8,
+    "cost": 75.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc8/h8d/17286092816414/562653_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1373",
+    "internal_code": "647804",
+    "name": "تونة هاينز قطعة واحدة في زيت دوار الشمس - 185 جرام",
+    "barcode": "8858463000059",
+    "item_type": "GS1",
+    "item_code": "8858463000059",
+    "unit_type": "",
+    "price": 80.0,
+    "cost": 80.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647804/1737628203/647804_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1414",
+    "internal_code": "647803",
+    "name": "قطع تونة هاينز في زيت دوار الشمس - 185 جرام",
+    "barcode": "8858463000073",
+    "item_type": "GS1",
+    "item_code": "8858463000073",
+    "unit_type": "",
+    "price": 78.9,
+    "cost": 78.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647803/1737628203/647803_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1499",
+    "internal_code": "453309",
+    "name": "دولفين تونة مفتتة - 140 جرام",
+    "barcode": "6224000529918",
+    "item_type": "GS1",
+    "item_code": "6224000529918",
+    "unit_type": "",
+    "price": 32.0,
+    "cost": 47.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h08/h96/14786187984926/453309_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1569",
+    "internal_code": "432665",
+    "name": "توليدو تونة دايت قطعة واحدة - 185 جم",
+    "barcode": "6211101156013",
+    "item_type": "GS1",
+    "item_code": "6211101156013",
+    "unit_type": "",
+    "price": 75.5,
+    "cost": 75.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h05/h85/14786174844958/432665_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1651",
+    "internal_code": "206202",
+    "name": "دولفين تونة قطع بالشطة - 160جم",
+    "barcode": "6224000529086",
+    "item_type": "GS1",
+    "item_code": "6224000529086",
+    "unit_type": "",
+    "price": 78.0,
+    "cost": 78.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8c/h81/14786101084190/206202_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1683",
+    "internal_code": "486982",
+    "name": "سلطة تونة فيشرمان - 230 جرام",
+    "barcode": "6224009010370",
+    "item_type": "GS1",
+    "item_code": "6224009010370",
+    "unit_type": "",
+    "price": 142.0,
+    "cost": 142.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h40/h1d/14786296741918/486982_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1703",
+    "internal_code": "594656",
+    "name": "عافية تونة معلبة مفتتة في زيت نباتي - 140 جرام",
+    "barcode": "8852021015035",
+    "item_type": "GS1",
+    "item_code": "8852021015035",
+    "unit_type": "",
+    "price": 31.0,
+    "cost": 31.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hde/h1f/45476242063390/594656_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1816",
+    "internal_code": "349827",
+    "name": "شرائح تونة دولفين - 170 جرام",
+    "barcode": "6224000529215",
+    "item_type": "GS1",
+    "item_code": "6224000529215",
+    "unit_type": "",
+    "price": 74.8,
+    "cost": 74.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h37/h33/52110387380254/349827_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1831",
+    "internal_code": "647805",
+    "name": "قطع تونة هاينز لحم خفيف في محلول ملحي - 185 جم",
+    "barcode": "8858463000066",
+    "item_type": "GS1",
+    "item_code": "8858463000066",
+    "unit_type": "",
+    "price": 74.0,
+    "cost": 74.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647805/1737628203/647805_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2063",
+    "internal_code": "461398",
+    "name": "تونة قطع توليدو - 140 جم",
+    "barcode": "6211101153012",
+    "item_type": "GS1",
+    "item_code": "6211101153012",
+    "unit_type": "",
+    "price": 60.5,
+    "cost": 60.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/461398/1744636553/461398_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2106",
+    "internal_code": "525030",
+    "name": "تونة فيشرمان قطع في زيت فول الصويا - 170 جم",
+    "barcode": "6224009765058",
+    "item_type": "GS1",
+    "item_code": "6224009765058",
+    "unit_type": "",
+    "price": 77.3,
+    "cost": 77.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h57/hdb/14786362408990/525030_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2225",
+    "internal_code": "594657",
+    "name": "عافية تونة مفتتة بالفلفل في زيت صويا - 140 جرام",
+    "barcode": "8852021014076",
+    "item_type": "GS1",
+    "item_code": "8852021014076",
+    "unit_type": "",
+    "price": 32.5,
+    "cost": 32.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbe/ha0/49832938504222/594657_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2733",
+    "internal_code": "107462",
+    "name": "تونة حارة بستاني - 185 جرام",
+    "barcode": "8850356109184",
+    "item_type": "GS1",
+    "item_code": "8850356109184",
+    "unit_type": "",
+    "price": 78.5,
+    "cost": 78.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h33/h96/16987243872286/107462_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2804",
+    "internal_code": "546617",
+    "name": "تونة قطعة واحدة دولفين حارة - 200 جرام",
+    "barcode": "6224000529888",
+    "item_type": "GS1",
+    "item_code": "6224000529888",
+    "unit_type": "",
+    "price": 91.9,
+    "cost": 91.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h47/h7e/14786452586526/546617_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2816",
+    "internal_code": "525031",
+    "name": "تونة فيشرمان قطعة واحدة في زيت عباد شمس - 170 جم",
+    "barcode": "6224009765065",
+    "item_type": "GS1",
+    "item_code": "6224009765065",
+    "unit_type": "",
+    "price": 86.8,
+    "cost": 86.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h94/hb4/14786359984158/525031_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2823",
+    "internal_code": "453466",
+    "name": "توناتو تونة قطع سهلة الفتح - 185 جرام",
+    "barcode": "6223005810274",
+    "item_type": "GS1",
+    "item_code": "6223005810274",
+    "unit_type": "",
+    "price": 87.8,
+    "cost": 87.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h00/h60/14786193096734/453466_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2939",
+    "internal_code": "580171",
+    "name": "آي.ام.آر قطع تونة في زيت - 185 جرام",
+    "barcode": "6224008603580",
+    "item_type": "GS1",
+    "item_code": "6224008603580",
+    "unit_type": "",
+    "price": 66.4,
+    "cost": 66.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8b/ha2/27806604099614/580171_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2978",
+    "internal_code": "410632",
+    "name": "تونة امريكانا قطع في زيت فول الصويا ومحلول ملحى - 140 جم",
+    "barcode": "882149002479",
+    "item_type": "GS1",
+    "item_code": "882149002479",
+    "unit_type": "",
+    "price": 53.8,
+    "cost": 53.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3a/h19/10067051020318/410632_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2999",
+    "internal_code": "486980",
+    "name": "سلطة تونة فيشر مان بالمايونيز - 230 جم",
+    "barcode": "6224009010400",
+    "item_type": "GS1",
+    "item_code": "6224009010400",
+    "unit_type": "",
+    "price": 142.0,
+    "cost": 142.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2f/hd6/14786293497886/486980_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3173",
+    "internal_code": "381641",
+    "name": "تونة جون ويست قطعة واحدة في زيت دوار الشمس - 170 جم",
+    "barcode": "5000171054111",
+    "item_type": "GS1",
+    "item_code": "5000171054111",
+    "unit_type": "",
+    "price": 120.1,
+    "cost": 120.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h72/h47/10066816073758/381641_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3197",
+    "internal_code": "137965",
+    "name": "سلطة تونة ريو ماري بالذرة - 160 جم",
+    "barcode": "8004030022010",
+    "item_type": "GS1",
+    "item_code": "8004030022010",
+    "unit_type": "",
+    "price": 204.0,
+    "cost": 204.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h81/h9d/14786087616542/137965_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3207",
+    "internal_code": "453233",
+    "name": "تونة 170 جم من جون ويست",
+    "barcode": "5000171054081",
+    "item_type": "GS1",
+    "item_code": "5000171054081",
+    "unit_type": "",
+    "price": 125.8,
+    "cost": 125.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hca/h6f/10067709853726/453233_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3270",
+    "internal_code": "381640",
+    "name": "جون ويست تونة قطعة واحدة في محلول ملحي - 170 جم",
+    "barcode": "5000171054128",
+    "item_type": "GS1",
+    "item_code": "5000171054128",
+    "unit_type": "",
+    "price": 117.7,
+    "cost": 117.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h71/h4a/10066816139294/381640_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

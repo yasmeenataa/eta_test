@@ -1,0 +1,674 @@
+[
+  {
+    "id": "prod_120",
+    "internal_code": "637712",
+    "name": "هاينز صوص برجر دوباك - 285 جرام",
+    "barcode": "6221033001657",
+    "item_type": "GS1",
+    "item_code": "6221033001657",
+    "unit_type": "",
+    "price": 49.5,
+    "cost": 54.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637712/1748160003/637712_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_312",
+    "internal_code": "656337",
+    "name": "لانشون لحم زينة - 340 جرام",
+    "barcode": "6224003147133",
+    "item_type": "GS1",
+    "item_code": "6224003147133",
+    "unit_type": "",
+    "price": 105.9,
+    "cost": 105.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656337/1749565803/656337_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_417",
+    "internal_code": "554367",
+    "name": "ايلو صوص حار تكساس برجر - 400 جرام",
+    "barcode": "6224010433014",
+    "item_type": "GS1",
+    "item_code": "6224010433014",
+    "unit_type": "",
+    "price": 92.8,
+    "cost": 92.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h30/he9/33623084990494/554367_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_614",
+    "internal_code": "578060",
+    "name": "أبو عوف توابل برجر - 75 جرام",
+    "barcode": "6223006317376",
+    "item_type": "GS1",
+    "item_code": "6223006317376",
+    "unit_type": "",
+    "price": 37.1,
+    "cost": 37.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2a/hef/29343861080094/578060_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_666",
+    "internal_code": "530734",
+    "name": "سبايسي خلطة البيف برجر - 45 جرام",
+    "barcode": "6223000912348",
+    "item_type": "GS1",
+    "item_code": "6223000912348",
+    "unit_type": "",
+    "price": 22.4,
+    "cost": 22.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h73/hf0/14951636533278/530734_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_737",
+    "internal_code": "659728",
+    "name": "تيك تيك ارز سريع التحضير بطعم السجق الحار - 90 جم",
+    "barcode": "6224010035751",
+    "item_type": "GS1",
+    "item_code": "6224010035751",
+    "unit_type": "",
+    "price": 34.5,
+    "cost": 34.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659728/1755073803/659728_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_739",
+    "internal_code": "554366",
+    "name": "جوود فرانس ايلو صوص برجر - 400 جرام",
+    "barcode": "6224010433083",
+    "item_type": "GS1",
+    "item_code": "6224010433083",
+    "unit_type": "",
+    "price": 73.0,
+    "cost": 73.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/554366/1728385204/554366_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1325",
+    "internal_code": "554364",
+    "name": "تكساس برجر صوص من ايلو - 200 جرام",
+    "barcode": "6224010433021",
+    "item_type": "GS1",
+    "item_code": "6224010433021",
+    "unit_type": "",
+    "price": 49.5,
+    "cost": 49.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h95/h7f/27411838664734/554364_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1427",
+    "internal_code": "534746",
+    "name": "خلطة البرجر كنور - 30 جم",
+    "barcode": "6221155146670",
+    "item_type": "GS1",
+    "item_code": "6221155146670",
+    "unit_type": "",
+    "price": 14.0,
+    "cost": 14.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h51/he5/49510755467294/534746_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1431",
+    "internal_code": "450399",
+    "name": "تتبيلة الكفتة شيفي ميكس - 35 جرام",
+    "barcode": "6224008070382",
+    "item_type": "GS1",
+    "item_code": "6224008070382",
+    "unit_type": "",
+    "price": 12.3,
+    "cost": 12.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h07/h40/14932567818270/450399_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1460",
+    "internal_code": "653766",
+    "name": "خلطة كفتة السيخ كنور - 35 جرام",
+    "barcode": "6221155214287",
+    "item_type": "GS1",
+    "item_code": "6221155214287",
+    "unit_type": "",
+    "price": 14.0,
+    "cost": 14.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653766/1747816203/653766_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1554",
+    "internal_code": "509041",
+    "name": "صوص برجر تكساس ايلو - 400 جم",
+    "barcode": "6224009463701",
+    "item_type": "GS1",
+    "item_code": "6224009463701",
+    "unit_type": "",
+    "price": 85.0,
+    "cost": 85.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf3/he1/15070409195550/509041_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1657",
+    "internal_code": "589973",
+    "name": "جاردينو صوص برجر - 285 مل",
+    "barcode": "6224007719268",
+    "item_type": "GS1",
+    "item_code": "6224007719268",
+    "unit_type": "",
+    "price": 54.0,
+    "cost": 54.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h06/h72/31860907769886/589973_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1762",
+    "internal_code": "530735",
+    "name": "سبايسي خلطة كفتة الحاتي - 45 جرام",
+    "barcode": "6223000912287",
+    "item_type": "GS1",
+    "item_code": "6223000912287",
+    "unit_type": "",
+    "price": 24.0,
+    "cost": 24.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h30/hf7/14951636729886/530735_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1842",
+    "internal_code": "507727",
+    "name": "كيلوجز شعرية سريعة التحضير بالسجق الشرقي - 70 جم",
+    "barcode": "6223006710146",
+    "item_type": "GS1",
+    "item_code": "6223006710146",
+    "unit_type": "",
+    "price": 8.0,
+    "cost": 8.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/507727/1754395203/507727_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1895",
+    "internal_code": "491230",
+    "name": "ماجي خلطة كفتة الحاتي - 35 جرام",
+    "barcode": "6221007038061",
+    "item_type": "GS1",
+    "item_code": "6221007038061",
+    "unit_type": "",
+    "price": 13.0,
+    "cost": 13.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8d/h43/44275958808606/491230_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1924",
+    "internal_code": "656689",
+    "name": "سناكس القمح بيك ستيكس بطعم السجق - 60 جم",
+    "barcode": "6223000556955",
+    "item_type": "GS1",
+    "item_code": "6223000556955",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656689/1751202004/656689_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2095",
+    "internal_code": "452594",
+    "name": "خلطة البرجر من ماجي - 40 جم",
+    "barcode": "6221007038009",
+    "item_type": "GS1",
+    "item_code": "6221007038009",
+    "unit_type": "",
+    "price": 12.5,
+    "cost": 12.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h95/hce/44275936100382/452594_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2208",
+    "internal_code": "255637",
+    "name": "سبايسي خلطة برجر - 90 جم",
+    "barcode": "6223000911273",
+    "item_type": "GS1",
+    "item_code": "6223000911273",
+    "unit_type": "",
+    "price": 43.0,
+    "cost": 43.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6c/h8d/14932330414110/255637_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2455",
+    "internal_code": "512373",
+    "name": "شيفي ميكس خلطة البرجر - 50 جرام",
+    "barcode": "795697007158",
+    "item_type": "GS1",
+    "item_code": "795697007158",
+    "unit_type": "",
+    "price": 12.3,
+    "cost": 12.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h45/h20/14951358234654/512373_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2569",
+    "internal_code": "337685",
+    "name": "خلطة الكفتة 5 مينتس - 150 جرام",
+    "barcode": "6223003292003",
+    "item_type": "GS1",
+    "item_code": "6223003292003",
+    "unit_type": "",
+    "price": 30.5,
+    "cost": 30.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h60/h06/32699410284574/337685_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2578",
+    "internal_code": "648885",
+    "name": "صوص برجر تكساس داريا - 260 جرام",
+    "barcode": "6223003396206",
+    "item_type": "GS1",
+    "item_code": "6223003396206",
+    "unit_type": "",
+    "price": 44.5,
+    "cost": 44.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648885/1739700005/648885_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2636",
+    "internal_code": "641942",
+    "name": "مارشميلو ماجيكال مارشزون هوت دوج - 65 جرام",
+    "barcode": "6223011331404",
+    "item_type": "GS1",
+    "item_code": "6223011331404",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641942/1730986205/641942_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2643",
+    "internal_code": "184313",
+    "name": "خلطة الكفتة 5 مينتس - 50 جرام",
+    "barcode": "6223003290030",
+    "item_type": "GS1",
+    "item_code": "6223003290030",
+    "unit_type": "",
+    "price": 19.6,
+    "cost": 19.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbe/h6c/32699403042846/184313_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2747",
+    "internal_code": "18358",
+    "name": "سبايسي خلطة كفتة - 90 جم",
+    "barcode": "6223000910344",
+    "item_type": "GS1",
+    "item_code": "6223000910344",
+    "unit_type": "",
+    "price": 47.8,
+    "cost": 47.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h20/hd5/14932247969822/18358_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2751",
+    "internal_code": "509040",
+    "name": "ايلو نيويورك  صوص برجر - 400 جرام",
+    "barcode": "6224009463046",
+    "item_type": "GS1",
+    "item_code": "6224009463046",
+    "unit_type": "",
+    "price": 61.1,
+    "cost": 61.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he2/hda/47595231379486/509040_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2782",
+    "internal_code": "604633",
+    "name": "ماجيكال حلوى شكل برجر - 80 جرام",
+    "barcode": "6223011330407",
+    "item_type": "GS1",
+    "item_code": "6223011330407",
+    "unit_type": "",
+    "price": 23.5,
+    "cost": 23.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h73/h8d/48028776759326/604633_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3021",
+    "internal_code": "628304",
+    "name": "الضحي خلطة الكفتة - 20 جم",
+    "barcode": "6223000662403",
+    "item_type": "GS1",
+    "item_code": "6223000662403",
+    "unit_type": "",
+    "price": 13.5,
+    "cost": 13.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hee/h42/62465481965598/628304_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

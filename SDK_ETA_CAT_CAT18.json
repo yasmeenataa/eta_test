@@ -1,0 +1,2240 @@
+[
+  {
+    "id": "prod_026",
+    "internal_code": "667625",
+    "name": "سكر أبيض اكوام - 1 كجم",
+    "barcode": "6224000323004",
+    "item_type": "GS1",
+    "item_code": "6224000323004",
+    "unit_type": "",
+    "price": 29.0,
+    "cost": 29.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667625/1765702582/667625_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_105",
+    "internal_code": "576750",
+    "name": "ريحانة سكر بودرة - 1 كجم",
+    "barcode": "6224007367513",
+    "item_type": "GS1",
+    "item_code": "6224007367513",
+    "unit_type": "",
+    "price": 51.8,
+    "cost": 63.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7f/h05/28522779869214/576750_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_175",
+    "internal_code": "664658",
+    "name": "محلى سويتال دايت - 100 كيس",
+    "barcode": "6224008622420",
+    "item_type": "GS1",
+    "item_code": "6224008622420",
+    "unit_type": "",
+    "price": 140.0,
+    "cost": 140.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664658/1760968805/664658_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_225",
+    "internal_code": "431630",
+    "name": "سكر دايت سويتال - 250 جم",
+    "barcode": "6225000047716",
+    "item_type": "GS1",
+    "item_code": "6225000047716",
+    "unit_type": "",
+    "price": 139.2,
+    "cost": 139.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h90/hb4/14835307675678/431630_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_303",
+    "internal_code": "431629",
+    "name": "سويتال سكر دايت - 75 كيس",
+    "barcode": "6225000177802",
+    "item_type": "GS1",
+    "item_code": "6225000177802",
+    "unit_type": "",
+    "price": 85.0,
+    "cost": 85.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h70/hde/14835308757022/431629_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_338",
+    "internal_code": "445497",
+    "name": "سويتال سكر دايت - 100 كيس",
+    "barcode": "6225000177857",
+    "item_type": "GS1",
+    "item_code": "6225000177857",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h79/h26/14835318063134/445497_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_352",
+    "internal_code": "478859",
+    "name": "سويتال سكر دايت - 60 كيس",
+    "barcode": "6224008622055",
+    "item_type": "GS1",
+    "item_code": "6224008622055",
+    "unit_type": "",
+    "price": 75.0,
+    "cost": 75.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcd/hd0/10068448739358/478859_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_374",
+    "internal_code": "465597",
+    "name": "سويتال سكر دايت - 300 قرص",
+    "barcode": "6224008622031",
+    "item_type": "GS1",
+    "item_code": "6224008622031",
+    "unit_type": "",
+    "price": 130.0,
+    "cost": 130.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb5/hf7/14835332349982/465597_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_405",
+    "internal_code": "535822",
+    "name": "دوبيلا مكعبات سكر ابيض بالحبهان - 500 جرام",
+    "barcode": "6223006880375",
+    "item_type": "GS1",
+    "item_code": "6223006880375",
+    "unit_type": "",
+    "price": 73.0,
+    "cost": 73.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd5/h47/27008280821790/535822_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_455",
+    "internal_code": "660361",
+    "name": "شوكولاتة وندر الداكنة بنكهة النعناع الخالية من السكر - 30 جرام",
+    "barcode": "6224003676060",
+    "item_type": "GS1",
+    "item_code": "6224003676060",
+    "unit_type": "",
+    "price": 65.0,
+    "cost": 65.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660361/1756026004/660361_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_494",
+    "internal_code": "652060",
+    "name": "سكر ستيفيا سويت أند سليم - 25 كيس",
+    "barcode": "6223004404337",
+    "item_type": "GS1",
+    "item_code": "6223004404337",
+    "unit_type": "",
+    "price": 54.0,
+    "cost": 54.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652060/1744624804/652060_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_500",
+    "internal_code": "551327",
+    "name": "شوكولاتة بلجيكية سكرانش مع اللوز والتوت البري - 40 جم",
+    "barcode": "6224010124172",
+    "item_type": "GS1",
+    "item_code": "6224010124172",
+    "unit_type": "",
+    "price": 48.9,
+    "cost": 48.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he6/h0a/14530724331550/551327_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_503",
+    "internal_code": "629540",
+    "name": "سويت أند سليم سكر ستيفيا - 100 كيس",
+    "barcode": "6223004403668",
+    "item_type": "GS1",
+    "item_code": "6223004403668",
+    "unit_type": "",
+    "price": 170.5,
+    "cost": 170.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h05/hb8/62786208628766/629540_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_520",
+    "internal_code": "601957",
+    "name": "سويت أند سليم محلى سكر - 250 جرام",
+    "barcode": "6223004400353",
+    "item_type": "GS1",
+    "item_code": "6223004400353",
+    "unit_type": "",
+    "price": 142.0,
+    "cost": 142.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6b/h75/46169161302046/601957_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_539",
+    "internal_code": "532210",
+    "name": "ويرذرز اوريجينال حلوى خالية من السكر - 70 جم",
+    "barcode": "4014400907636",
+    "item_type": "GS1",
+    "item_code": "4014400907636",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf9/hd8/49347567419422/532210_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_542",
+    "internal_code": "649096",
+    "name": "حلوى النعناع الخالية من السكر سويت اند سليم بطعم الخوخ - 32 جرام",
+    "barcode": "6223004404306",
+    "item_type": "GS1",
+    "item_code": "6223004404306",
+    "unit_type": "",
+    "price": 69.5,
+    "cost": 69.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649096/1740042004/649096_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_548",
+    "internal_code": "524194",
+    "name": "سكر بني حفصة - 100 كيس",
+    "barcode": "6772504485181",
+    "item_type": "GS1",
+    "item_code": "6772504485181",
+    "unit_type": "",
+    "price": 75.3,
+    "cost": 75.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/524194/1729065603/524194_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_573",
+    "internal_code": "17963",
+    "name": "سكر بودرة الضحى - 1 كجم",
+    "barcode": "6223000662502",
+    "item_type": "GS1",
+    "item_code": "6223000662502",
+    "unit_type": "",
+    "price": 76.8,
+    "cost": 76.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h35/had/15127731175454/17963_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_574",
+    "internal_code": "659515",
+    "name": "ويفر ريف محشو بكريمة الشوكولاتة بدون السكر",
+    "barcode": "6221030011734",
+    "item_type": "GS1",
+    "item_code": "6221030011734",
+    "unit_type": "",
+    "price": 17.0,
+    "cost": 17.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659515/1754389803/659515_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_589",
+    "internal_code": "603750",
+    "name": "ترايدنت لبان خالي من السكر بالفراولة - 5 قطع",
+    "barcode": "7622210620620",
+    "item_type": "GS1",
+    "item_code": "7622210620620",
+    "unit_type": "",
+    "price": 112.0,
+    "cost": 112.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/603750/1742733004/603750_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_636",
+    "internal_code": "601200",
+    "name": "سويتال سكر ستيفيا - 50 كيش",
+    "barcode": "6224008622079",
+    "item_type": "GS1",
+    "item_code": "6224008622079",
+    "unit_type": "",
+    "price": 85.0,
+    "cost": 85.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hca/h73/50421436678174/601200_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_642",
+    "internal_code": "643387",
+    "name": "بليلة هارفست السكر - 400 جم",
+    "barcode": "6223001062844",
+    "item_type": "GS1",
+    "item_code": "6223001062844",
+    "unit_type": "",
+    "price": 21.5,
+    "cost": 21.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/643387/1739797274/643387_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_657",
+    "internal_code": "631308",
+    "name": "سكرانش بار لوز وزبيب وسوداني - 20 جرام",
+    "barcode": "6224001418129",
+    "item_type": "GS1",
+    "item_code": "6224001418129",
+    "unit_type": "",
+    "price": 28.3,
+    "cost": 28.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfb/h2e/63283951534110/631308_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_660",
+    "internal_code": "631311",
+    "name": "سكرانش بار كاجو ولوز بجوز الهند - 20 جرام",
+    "barcode": "6224001418853",
+    "item_type": "GS1",
+    "item_code": "6224001418853",
+    "unit_type": "",
+    "price": 27.5,
+    "cost": 27.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb7/h9a/63355249655838/631311_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_667",
+    "internal_code": "524193",
+    "name": "سكر أبيض حفصة - 100 كيس",
+    "barcode": "6772504485198",
+    "item_type": "GS1",
+    "item_code": "6772504485198",
+    "unit_type": "",
+    "price": 72.8,
+    "cost": 72.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/524193/1729065603/524193_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_676",
+    "internal_code": "659516",
+    "name": "ويفر ريف محشو بكريمة الشوكولاتة بدون السكر - 6 قطع",
+    "barcode": "6221030012052",
+    "item_type": "GS1",
+    "item_code": "6221030012052",
+    "unit_type": "",
+    "price": 101.7,
+    "cost": 101.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659516/1754818203/659516_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_687",
+    "internal_code": "616734",
+    "name": "سكرانش بار شوكولاتة كريسبي بالمارشميلو - 30 جرام",
+    "barcode": "6224001418600",
+    "item_type": "GS1",
+    "item_code": "6224001418600",
+    "unit_type": "",
+    "price": 24.0,
+    "cost": 24.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h56/hed/50311396589598/616734_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_690",
+    "internal_code": "464704",
+    "name": "سويت أند سليم سكر دايت حلاوة أكثر - 50 كيس",
+    "barcode": "6223004400278",
+    "item_type": "GS1",
+    "item_code": "6223004400278",
+    "unit_type": "",
+    "price": 87.0,
+    "cost": 87.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h08/hd5/14835329761310/464704_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_700",
+    "internal_code": "601958",
+    "name": "سويت اند سليم سكر محلى - 250 جرام",
+    "barcode": "6223004400377",
+    "item_type": "GS1",
+    "item_code": "6223004400377",
+    "unit_type": "",
+    "price": 181.9,
+    "cost": 181.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h88/hbf/48899736895518/601958_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_721",
+    "internal_code": "551318",
+    "name": "سكرانش شوكولاتة داكنة باللوز والتوت البري - 35 جرام",
+    "barcode": "6224010124042",
+    "item_type": "GS1",
+    "item_code": "6224010124042",
+    "unit_type": "",
+    "price": 59.0,
+    "cost": 59.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h86/hb3/27538787401758/551318_1.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_735",
+    "internal_code": "659512",
+    "name": "ويفر ريف محشو بكريمة جوز الهند بدون السكر - 6 قطع",
+    "barcode": "6221030012083",
+    "item_type": "GS1",
+    "item_code": "6221030012083",
+    "unit_type": "",
+    "price": 101.7,
+    "cost": 101.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659512/1754818203/659512_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_796",
+    "internal_code": "481124",
+    "name": "شوجر ماتش سكرالوز محلى بدون سعرات - 75 كيس",
+    "barcode": "6223000911730",
+    "item_type": "GS1",
+    "item_code": "6223000911730",
+    "unit_type": "",
+    "price": 87.1,
+    "cost": 87.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h82/h56/14610136006686/481124_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_809",
+    "internal_code": "481125",
+    "name": "شوجر ماتش سكرالوز محلى بدون سعرات - 50 كيس",
+    "barcode": "6223000911723",
+    "item_type": "GS1",
+    "item_code": "6223000911723",
+    "unit_type": "",
+    "price": 79.0,
+    "cost": 79.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf4/h8d/10778763853854/481125_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_822",
+    "internal_code": "551330",
+    "name": "الشيكولاتة الغامقة مع العسل من سكرينش، 40 جرام",
+    "barcode": "6224010124288",
+    "item_type": "GS1",
+    "item_code": "6224010124288",
+    "unit_type": "",
+    "price": 59.0,
+    "cost": 59.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha2/h8f/15173277155358/551330_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_970",
+    "internal_code": "647976",
+    "name": "شوكولاتة داكنة كورونا 55% باللوز وسكر الستيفيا - قطعة واحدة",
+    "barcode": "6221073012255",
+    "item_type": "GS1",
+    "item_code": "6221073012255",
+    "unit_type": "",
+    "price": 52.2,
+    "cost": 52.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647976/1738065603/647976_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1014",
+    "internal_code": "659511",
+    "name": "ويفر ريف محشو بكريمة جوز الهند بدون السكر",
+    "barcode": "6221030011741",
+    "item_type": "GS1",
+    "item_code": "6221030011741",
+    "unit_type": "",
+    "price": 17.0,
+    "cost": 17.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659511/1754389803/659511_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1021",
+    "internal_code": "543722",
+    "name": "ويرذرز اوريجينال حلوى شوكولاتة خالية من السكر - 60 جم",
+    "barcode": "4014400919073",
+    "item_type": "GS1",
+    "item_code": "4014400919073",
+    "unit_type": "",
+    "price": 108.0,
+    "cost": 108.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h67/hcb/49347566862366/543722_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1105",
+    "internal_code": "658937",
+    "name": "خل قصب السكر درة - 1 لتر",
+    "barcode": "6210247416821",
+    "item_type": "GS1",
+    "item_code": "6210247416821",
+    "unit_type": "",
+    "price": 17.0,
+    "cost": 19.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658937/1753873206/658937_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1164",
+    "internal_code": "604646",
+    "name": "اكسترا لبان بالنعناع خالي من السكر - 60 لبانة",
+    "barcode": "4009900482776",
+    "item_type": "GS1",
+    "item_code": "4009900482776",
+    "unit_type": "",
+    "price": 89.2,
+    "cost": 89.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7b/he4/50385737646110/604646_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1167",
+    "internal_code": "653801",
+    "name": "علكة مينتوس بنكهة البطيخ النقية الخالية من السكر - 17.5 جرام",
+    "barcode": "80801443",
+    "item_type": "GS1",
+    "item_code": "80801443",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653801/1746954603/653801_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1168",
+    "internal_code": "616596",
+    "name": "اكسترا لبان خالي من السكر بطعم الفاكهة والنعناع - 60 قطعة",
+    "barcode": "4009900543040",
+    "item_type": "GS1",
+    "item_code": "4009900543040",
+    "unit_type": "",
+    "price": 89.2,
+    "cost": 89.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/616596/1747906203/616596_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1204",
+    "internal_code": "365325",
+    "name": "منتوس لبان خالي من السكر بالفواكه المشكلة - 64 جرام",
+    "barcode": "80759355",
+    "item_type": "GS1",
+    "item_code": "80759355",
+    "unit_type": "",
+    "price": 115.0,
+    "cost": 115.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1c/h6d/12940058034206/365325_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1259",
+    "internal_code": "647977",
+    "name": "شوكولاتة داكنة كورونا 55% باللوز وسكر الستيفيا- 6 قطع",
+    "barcode": "6221073012262",
+    "item_type": "GS1",
+    "item_code": "6221073012262",
+    "unit_type": "",
+    "price": 313.2,
+    "cost": 313.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647977/1738834203/647977_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1294",
+    "internal_code": "660258",
+    "name": "بسكويت بسكريم بالتيراميسو- 60 جرام - 8 قطع",
+    "barcode": "6222024106283",
+    "item_type": "GS1",
+    "item_code": "6222024106283",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660258/1755420004/660258_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1298",
+    "internal_code": "355594",
+    "name": "مينتوس لبان بيور خالي من السكر بالنعناع - 24 جم",
+    "barcode": "80756637",
+    "item_type": "GS1",
+    "item_code": "80756637",
+    "unit_type": "",
+    "price": 63.0,
+    "cost": 63.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/355594/1759068005/355594_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1381",
+    "internal_code": "445498",
+    "name": "سكر دايت سويتال - 25 كيس",
+    "barcode": "6225000177840",
+    "item_type": "GS1",
+    "item_code": "6225000177840",
+    "unit_type": "",
+    "price": 35.0,
+    "cost": 35.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7a/h57/14835319635998/445498_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1400",
+    "internal_code": "604647",
+    "name": "اكسترا لبان خالي من السكر بطعم التوت - 60 قطعة",
+    "barcode": "4009900543071",
+    "item_type": "GS1",
+    "item_code": "4009900543071",
+    "unit_type": "",
+    "price": 89.2,
+    "cost": 89.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfa/h8e/64904688599070/604647_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1420",
+    "internal_code": "468504",
+    "name": "سويتال سكر دايت - 50 قرص",
+    "barcode": "6225000177895",
+    "item_type": "GS1",
+    "item_code": "6225000177895",
+    "unit_type": "",
+    "price": 45.5,
+    "cost": 45.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h75/hed/26399002361886/468504_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1457",
+    "internal_code": "660259",
+    "name": "بسكويت بسكريم بالتيراميسو- 60 جرام - 8 قطع - 12 عبوه",
+    "barcode": "6222024106290",
+    "item_type": "GS1",
+    "item_code": "6222024106290",
+    "unit_type": "",
+    "price": 108.0,
+    "cost": 118.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660259/1755786603/660259_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1522",
+    "internal_code": "660263",
+    "name": "بسكويت بسكريم بالكراميل - 60 جرام - 8 قطع - 12 عبوه",
+    "barcode": "6222024106320",
+    "item_type": "GS1",
+    "item_code": "6222024106320",
+    "unit_type": "",
+    "price": 108.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660263/1755786603/660263_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1530",
+    "internal_code": "394832",
+    "name": "سكر دايت سويت آند سليم - 50 كيس",
+    "barcode": "6223004400001",
+    "item_type": "GS1",
+    "item_code": "6223004400001",
+    "unit_type": "",
+    "price": 67.0,
+    "cost": 67.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he0/h4c/10066832424990/394832_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1533",
+    "internal_code": "431628",
+    "name": "سكر دايت سويتال - 50 كيس",
+    "barcode": "6225000047709",
+    "item_type": "GS1",
+    "item_code": "6225000047709",
+    "unit_type": "",
+    "price": 85.0,
+    "cost": 85.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h10/h82/14835309379614/431628_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1547",
+    "internal_code": "518631",
+    "name": "اكسترا بابل مينت لبان خالي من السكر - 14 جرام",
+    "barcode": "42247340",
+    "item_type": "GS1",
+    "item_code": "42247340",
+    "unit_type": "",
+    "price": 13.4,
+    "cost": 13.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hca/h09/14595922886686/518631_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1548",
+    "internal_code": "660260",
+    "name": "بسكويت بسكريم بالقرفه - 60 جرام - 8 قطع",
+    "barcode": "6222024106344",
+    "item_type": "GS1",
+    "item_code": "6222024106344",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660260/1755420004/660260_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1551",
+    "internal_code": "604645",
+    "name": "اكسترا لبان خالي من السكر بطعم النعناع - 60 قطعة",
+    "barcode": "4009900482806",
+    "item_type": "GS1",
+    "item_code": "4009900482806",
+    "unit_type": "",
+    "price": 89.2,
+    "cost": 89.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h97/hdf/47644447637534/604645_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1590",
+    "internal_code": "660261",
+    "name": "بسكويت بسكريم بالقرفه - 60 جرام - 8 قطع - 12 عبوه",
+    "barcode": "6222024106351",
+    "item_type": "GS1",
+    "item_code": "6222024106351",
+    "unit_type": "",
+    "price": 108.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660261/1755786603/660261_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1594",
+    "internal_code": "648886",
+    "name": "سكر بني دريا - 250 جرام",
+    "barcode": "6223003395988",
+    "item_type": "GS1",
+    "item_code": "6223003395988",
+    "unit_type": "",
+    "price": 46.6,
+    "cost": 46.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648886/1739700005/648886_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1601",
+    "internal_code": "149572",
+    "name": "شوجر ماتش سكر دايت - 200 كيس",
+    "barcode": "6223000911044",
+    "item_type": "GS1",
+    "item_code": "6223000911044",
+    "unit_type": "",
+    "price": 285.0,
+    "cost": 285.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h85/h76/9932752257054/149572_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1639",
+    "internal_code": "629539",
+    "name": "سويت أند سليم سكر دايت حلاوة أكثر - 100 كيس",
+    "barcode": "6223004403682",
+    "item_type": "GS1",
+    "item_code": "6223004403682",
+    "unit_type": "",
+    "price": 146.0,
+    "cost": 146.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hec/hc2/62786208989214/629539_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1727",
+    "internal_code": "413983",
+    "name": "سكر بودرة الضحى - 500 جم",
+    "barcode": "6223000662540",
+    "item_type": "GS1",
+    "item_code": "6223000662540",
+    "unit_type": "",
+    "price": 40.0,
+    "cost": 40.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2b/h31/10067047350302/413983_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1871",
+    "internal_code": "664657",
+    "name": "سكرسويتال دايت  25 كيس",
+    "barcode": "6224008622338",
+    "item_type": "GS1",
+    "item_code": "6224008622338",
+    "unit_type": "",
+    "price": 45.0,
+    "cost": 45.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664657/1760968805/664657_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1874",
+    "internal_code": "431631",
+    "name": "سكر دايت سويتال - 100 قرص",
+    "barcode": "6225000047730",
+    "item_type": "GS1",
+    "item_code": "6225000047730",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0a/h93/15127734222878/431631_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1900",
+    "internal_code": "598485",
+    "name": "دراهم سكر أبيض - 1 كجم",
+    "barcode": "6224000059484",
+    "item_type": "GS1",
+    "item_code": "6224000059484",
+    "unit_type": "",
+    "price": 30.0,
+    "cost": 30.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h49/hc5/47672346673182/598485_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1908",
+    "internal_code": "517227",
+    "name": "بسكويت ماكفيتيز بيسكريم ديو محشو بالشوكولاتة - 51 جم",
+    "barcode": "6223003806538",
+    "item_type": "GS1",
+    "item_code": "6223003806538",
+    "unit_type": "",
+    "price": 10.9,
+    "cost": 10.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/517227/1735153803/517227_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1962",
+    "internal_code": "77314",
+    "name": "أكياس سكر أبيض ريتش ميكس - 120 كيس",
+    "barcode": "6223001260042",
+    "item_type": "GS1",
+    "item_code": "6223001260042",
+    "unit_type": "",
+    "price": 82.0,
+    "cost": 82.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hef/h4c/14610474532894/77314_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1980",
+    "internal_code": "660262",
+    "name": "بسكويت بسكريم بالكراميل - 60 جرام - 8 قطع",
+    "barcode": "6222024106313",
+    "item_type": "GS1",
+    "item_code": "6222024106313",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660262/1755420004/660262_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2020",
+    "internal_code": "649097",
+    "name": "حلوى النعناع الخالية من السكر سويت اند سليم بطعم النعناع الأخضر - 32 جرام",
+    "barcode": "6223004404313",
+    "item_type": "GS1",
+    "item_code": "6223004404313",
+    "unit_type": "",
+    "price": 69.5,
+    "cost": 69.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649097/1740042004/649097_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2086",
+    "internal_code": "533019",
+    "name": "سكر بني خام إمتنان - 100 كيس",
+    "barcode": "6221078767631",
+    "item_type": "GS1",
+    "item_code": "6221078767631",
+    "unit_type": "",
+    "price": 93.5,
+    "cost": 93.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h36/h6b/14675596476446/533019_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2159",
+    "internal_code": "642635",
+    "name": "جريزل بار شوكولاتة داكنة بدون سكر - 30 جم",
+    "barcode": "6224002528810",
+    "item_type": "GS1",
+    "item_code": "6224002528810",
+    "unit_type": "",
+    "price": 64.8,
+    "cost": 64.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642635/1730817003/642635_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2162",
+    "internal_code": "399279",
+    "name": "سويت اند سليم سكر دايت - 320 جرام",
+    "barcode": "6223004400049",
+    "item_type": "GS1",
+    "item_code": "6223004400049",
+    "unit_type": "",
+    "price": 300.0,
+    "cost": 300.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha3/h2f/14835301384222/399279_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2277",
+    "internal_code": "519807",
+    "name": "سكر دايت ستيفيا كاستيللو - 300 جم",
+    "barcode": "8437005602526",
+    "item_type": "GS1",
+    "item_code": "8437005602526",
+    "unit_type": "",
+    "price": 350.0,
+    "cost": 350.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8d/ha9/51790350286878/519807_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2280",
+    "internal_code": "478208",
+    "name": "سكر بني حفصه - 500 جرام",
+    "barcode": "6772504485006",
+    "item_type": "GS1",
+    "item_code": "6772504485006",
+    "unit_type": "",
+    "price": 62.5,
+    "cost": 62.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/478208/1729065603/478208_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2292",
+    "internal_code": "53937",
+    "name": "ريتش ميكس سكر بني - 500 جم",
+    "barcode": "6223001260035",
+    "item_type": "GS1",
+    "item_code": "6223001260035",
+    "unit_type": "",
+    "price": 82.0,
+    "cost": 82.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/53937/1771758002/53937_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2310",
+    "internal_code": "551684",
+    "name": "كاستيلو سكر ستيفيا دايت - 100 كيس",
+    "barcode": "8437005602861",
+    "item_type": "GS1",
+    "item_code": "8437005602861",
+    "unit_type": "",
+    "price": 250.0,
+    "cost": 250.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9c/haf/51790350417950/551684_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2323",
+    "internal_code": "651467",
+    "name": "لبان منتوس الخالي من السكر بالفراولة - 17.5 جرام",
+    "barcode": "80862055",
+    "item_type": "GS1",
+    "item_code": "80862055",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651467/1759154405/651467_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2335",
+    "internal_code": "108177",
+    "name": "سكر بني ريتش ميكس - 120 كيس",
+    "barcode": "6223001260127",
+    "item_type": "GS1",
+    "item_code": "6223001260127",
+    "unit_type": "",
+    "price": 88.5,
+    "cost": 88.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2e/h85/14609962926110/108177_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2336",
+    "internal_code": "651468",
+    "name": "لبان مينتوس بيور الخالي من السكر بطعم النعناع - 17.5 جرام",
+    "barcode": "80908944",
+    "item_type": "GS1",
+    "item_code": "80908944",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651468/1745743209/651468_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2348",
+    "internal_code": "347240",
+    "name": "بف باستري فورنو بونومي مغطى بالسكر - 200 جم",
+    "barcode": "8002720001109",
+    "item_type": "GS1",
+    "item_code": "8002720001109",
+    "unit_type": "",
+    "price": 126.4,
+    "cost": 126.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/347240/1740562203/347240_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2472",
+    "internal_code": "649095",
+    "name": "حلوى النعناع الخالية من السكر سويت اند سليم بطعم الفراولة - 32 جرام",
+    "barcode": "6223004404290",
+    "item_type": "GS1",
+    "item_code": "6223004404290",
+    "unit_type": "",
+    "price": 69.5,
+    "cost": 69.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649095/1740042004/649095_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2475",
+    "internal_code": "478209",
+    "name": "سكر بني حفصه - 250 جرام",
+    "barcode": "6772504485013",
+    "item_type": "GS1",
+    "item_code": "6772504485013",
+    "unit_type": "",
+    "price": 40.3,
+    "cost": 40.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/478209/1729065603/478209_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2489",
+    "internal_code": "452833",
+    "name": "سكر دايت سويت اند سليم - 100 كيس",
+    "barcode": "6223004400155",
+    "item_type": "GS1",
+    "item_code": "6223004400155",
+    "unit_type": "",
+    "price": 112.0,
+    "cost": 112.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h12/h08/14610127257630/452833_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2512",
+    "internal_code": "355592",
+    "name": "مينتوس لبان بيور خالي من السكر بالنعناع - 28 قطعة",
+    "barcode": "80756590",
+    "item_type": "GS1",
+    "item_code": "80756590",
+    "unit_type": "",
+    "price": 133.0,
+    "cost": 133.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h05/h5d/14529851621406/355592_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2517",
+    "internal_code": "654686",
+    "name": "شوكولاتة سكرانش بلجيكية داكنة 70% - 110 جم",
+    "barcode": "6224002528797",
+    "item_type": "GS1",
+    "item_code": "6224002528797",
+    "unit_type": "",
+    "price": 189.0,
+    "cost": 189.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/654686/1748169003/654686_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2521",
+    "internal_code": "541699",
+    "name": "سويت اند سيلم سكر دايت منخفض السعرات - 50 كيس",
+    "barcode": "6223004400179",
+    "item_type": "GS1",
+    "item_code": "6223004400179",
+    "unit_type": "",
+    "price": 87.0,
+    "cost": 87.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb8/h95/14853722701854/541699_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2581",
+    "internal_code": "71341",
+    "name": "شوجر ماتش سكر دايت - 50 كيس",
+    "barcode": "6223000910689",
+    "item_type": "GS1",
+    "item_code": "6223000910689",
+    "unit_type": "",
+    "price": 85.0,
+    "cost": 85.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h56/h0e/9223700578334/71341_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2593",
+    "internal_code": "519808",
+    "name": "سكر دايت ستيفيا كاستيللو - 60 كيس",
+    "barcode": "8437005602533",
+    "item_type": "GS1",
+    "item_code": "8437005602533",
+    "unit_type": "",
+    "price": 175.0,
+    "cost": 175.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf6/hac/51790350385182/519808_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2600",
+    "internal_code": "625064",
+    "name": "مكفيتيز بسكريم بسكويت مزدوج محشو بكريمة الكاكاو - 72 جرام - 6 باكيت",
+    "barcode": "6222024107372",
+    "item_type": "GS1",
+    "item_code": "6222024107372",
+    "unit_type": "",
+    "price": 89.7,
+    "cost": 89.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/625064/1735153803/625064_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2602",
+    "internal_code": "136227",
+    "name": "شوجر ماتش سكر دايت - 300 كيس",
+    "barcode": "6223000911037",
+    "item_type": "GS1",
+    "item_code": "6223000911037",
+    "unit_type": "",
+    "price": 294.5,
+    "cost": 294.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd8/hb7/14609964466206/136227_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2640",
+    "internal_code": "407669",
+    "name": "سويت اند سليم سكر دايت بدون سعرات حرارية - 20 جرام",
+    "barcode": "6223004400070",
+    "item_type": "GS1",
+    "item_code": "6223004400070",
+    "unit_type": "",
+    "price": 37.5,
+    "cost": 37.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2d/h93/14835304366110/407669_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2664",
+    "internal_code": "616735",
+    "name": "سكرانش بار جرانولا بالمكسرات المشكلة - 30 جرام",
+    "barcode": "6224001418587",
+    "item_type": "GS1",
+    "item_code": "6224001418587",
+    "unit_type": "",
+    "price": 29.0,
+    "cost": 29.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7e/hb0/50311397310494/616735_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2670",
+    "internal_code": "616736",
+    "name": "سكرانش بار جرانولا بالشوكولاتة الداكنة - 30 جرام",
+    "barcode": "6224001418570",
+    "item_type": "GS1",
+    "item_code": "6224001418570",
+    "unit_type": "",
+    "price": 29.7,
+    "cost": 29.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h41/h9b/51860248526878/616736_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2684",
+    "internal_code": "551317",
+    "name": "سكرانش شوكولاتة بلجيكية باللوز - 35 جرام",
+    "barcode": "6224010124028",
+    "item_type": "GS1",
+    "item_code": "6224010124028",
+    "unit_type": "",
+    "price": 59.0,
+    "cost": 59.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcd/h37/31478848520222/551317_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2732",
+    "internal_code": "551323",
+    "name": "بار المكسرات سكرينش من الكاجو واللوز وبذور القرع - 40 جرام",
+    "barcode": "6224010124103",
+    "item_type": "GS1",
+    "item_code": "6224010124103",
+    "unit_type": "",
+    "price": 48.9,
+    "cost": 48.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h82/hfb/14853852528670/551323_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2772",
+    "internal_code": "629036",
+    "name": "جرازيل شوكولاتة داكنة خالية من السكر 72% كاكاو - 35 جرام",
+    "barcode": "6224001927300",
+    "item_type": "GS1",
+    "item_code": "6224001927300",
+    "unit_type": "",
+    "price": 97.9,
+    "cost": 97.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/629036/1730283003/629036_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2779",
+    "internal_code": "517228",
+    "name": "مكتيفيز بسكريم بسكويت مزدوج محشو بكريمة الكاكاو - 51 جرام - 12 باكو",
+    "barcode": "6223003807535",
+    "item_type": "GS1",
+    "item_code": "6223003807535",
+    "unit_type": "",
+    "price": 130.8,
+    "cost": 130.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/517228/1735153803/517228_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2797",
+    "internal_code": "255639",
+    "name": "شوجر ماتش سكر دايت - 75 كيس",
+    "barcode": "6223000911341",
+    "item_type": "GS1",
+    "item_code": "6223000911341",
+    "unit_type": "",
+    "price": 89.3,
+    "cost": 89.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdd/hc9/9223855439902/255639_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2873",
+    "internal_code": "625063",
+    "name": "مكفيتيز بسكريم بسكويت مزدوج محشو بكريمة الكاكاو - 72 جرام",
+    "barcode": "6222024107365",
+    "item_type": "GS1",
+    "item_code": "6222024107365",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/625063/1735142403/625063_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2912",
+    "internal_code": "637812",
+    "name": "منتوس بيور فريش لبان خالي من السكر - 20.5 جرام",
+    "barcode": "80809449",
+    "item_type": "GS1",
+    "item_code": "80809449",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637812/1750687203/637812_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3111",
+    "internal_code": "663911",
+    "name": "لبان ترايدنت بالنعناع خالي من السكر - 13.5 جم - 12 عبوة",
+    "barcode": "7622202330513",
+    "item_type": "GS1",
+    "item_code": "7622202330513",
+    "unit_type": "",
+    "price": 179.4,
+    "cost": 179.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/663911/1766655602/663911_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3296",
+    "internal_code": "667235",
+    "name": "شوكولاتة دارك ميلكاتو خالية من السكر محشوة بالكنافة والفستق - 160 جم",
+    "barcode": "6772504535732",
+    "item_type": "GS1",
+    "item_code": "6772504535732",
+    "unit_type": "",
+    "price": 258.9,
+    "cost": 258.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667235/1764685805/667235_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  }
+]

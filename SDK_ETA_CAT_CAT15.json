@@ -1,0 +1,620 @@
+[
+  {
+    "id": "prod_140",
+    "internal_code": "73708",
+    "name": "تيميز كورن فليكس - 250جم",
+    "barcode": "6221012251080",
+    "item_type": "GS1",
+    "item_code": "6221012251080",
+    "unit_type": "",
+    "price": 62.0,
+    "cost": 62.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2e/h2b/48744224358430/73708_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_276",
+    "internal_code": "517258",
+    "name": "سانتيه فيت جرانولا بالفراوله والتوت - 300 جرام",
+    "barcode": "5900617037213",
+    "item_type": "GS1",
+    "item_code": "5900617037213",
+    "unit_type": "",
+    "price": 225.5,
+    "cost": 225.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd3/h43/10072140677150/517258_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_447",
+    "internal_code": "462146",
+    "name": "سانتي كورن فليكس - 250 جرام",
+    "barcode": "5900617014948",
+    "item_type": "GS1",
+    "item_code": "5900617014948",
+    "unit_type": "",
+    "price": 91.0,
+    "cost": 91.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0a/h2f/12723470139422/462146_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_509",
+    "internal_code": "504199",
+    "name": "موسلي سانتي بالفواكه الإستوائية - 1كجم",
+    "barcode": "5900617032539",
+    "item_type": "GS1",
+    "item_code": "5900617032539",
+    "unit_type": "",
+    "price": 399.3,
+    "cost": 399.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/h76/14539573329950/504199_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_568",
+    "internal_code": "517259",
+    "name": "سانتيه فيت جرانولا بالمكسرات والكاكاو - 300 جرام",
+    "barcode": "5900617037190",
+    "item_type": "GS1",
+    "item_code": "5900617037190",
+    "unit_type": "",
+    "price": 225.5,
+    "cost": 225.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h81/h44/10072140611614/517259_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_613",
+    "internal_code": "444537",
+    "name": "كرانشي بار سانتي  موسلي بالموز المغطى بالشوكولاتة - 40 جرام",
+    "barcode": "5900617015938",
+    "item_type": "GS1",
+    "item_code": "5900617015938",
+    "unit_type": "",
+    "price": 33.5,
+    "cost": 33.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/444537/1759129205/444537_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_982",
+    "internal_code": "535516",
+    "name": "جرانولا بالمكسرات أبو عوف - 350 جم",
+    "barcode": "6223006313002",
+    "item_type": "GS1",
+    "item_code": "6223006313002",
+    "unit_type": "",
+    "price": 257.3,
+    "cost": 257.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h29/hd8/49600708247582/535516_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1210",
+    "internal_code": "658670",
+    "name": "بار الجرانولا سناكسي تشوي برقائق الشوكولاتة - 24 جرام",
+    "barcode": "6223017870365",
+    "item_type": "GS1",
+    "item_code": "6223017870365",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 9.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658670/1756297803/658670_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1248",
+    "internal_code": "658668",
+    "name": "بار الجرانولا سناكسي تشوي سمورز - 24 جرام",
+    "barcode": "6223017870396",
+    "item_type": "GS1",
+    "item_code": "6223017870396",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 9.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658668/1756297803/658668_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1309",
+    "internal_code": "647756",
+    "name": "جرانولا سادة ناتشرز وندرز - 350 جرام",
+    "barcode": "6223011434433",
+    "item_type": "GS1",
+    "item_code": "6223011434433",
+    "unit_type": "",
+    "price": 95.0,
+    "cost": 95.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647756/1741161089/647756_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1346",
+    "internal_code": "339144",
+    "name": "سانتي جرانولا بالفواكه - 350 جرام",
+    "barcode": "5900617002969",
+    "item_type": "GS1",
+    "item_code": "5900617002969",
+    "unit_type": "",
+    "price": 185.0,
+    "cost": 185.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h62/h57/14529846935582/339144_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1360",
+    "internal_code": "339143",
+    "name": "سانتي جرانولا بالمكسرات - 350جم",
+    "barcode": "5900617002976",
+    "item_type": "GS1",
+    "item_code": "5900617002976",
+    "unit_type": "",
+    "price": 144.0,
+    "cost": 144.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7f/h6f/14529846214686/339143_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1755",
+    "internal_code": "356199",
+    "name": "سانتي كرانشي موسلي بالموز والشيكولاتة - 350جم",
+    "barcode": "5900617002617",
+    "item_type": "GS1",
+    "item_code": "5900617002617",
+    "unit_type": "",
+    "price": 158.0,
+    "cost": 158.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h02/h73/14529854242846/356199_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2025",
+    "internal_code": "444536",
+    "name": "كرانشي بار سانتي موسلي بالبرقوق - 40 جرام",
+    "barcode": "5900617015976",
+    "item_type": "GS1",
+    "item_code": "5900617015976",
+    "unit_type": "",
+    "price": 33.5,
+    "cost": 33.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h41/h6e/14529919549470/444536_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2113",
+    "internal_code": "339142",
+    "name": "سانتي جرانولا بالشيكولاتة - 350جم",
+    "barcode": "5900617002983",
+    "item_type": "GS1",
+    "item_code": "5900617002983",
+    "unit_type": "",
+    "price": 158.0,
+    "cost": 158.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf6/hd7/27007630082078/339142_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2541",
+    "internal_code": "444535",
+    "name": "كرانشي بار سانتي موسلي بالتوت البرى - 40 جم",
+    "barcode": "5900617015723",
+    "item_type": "GS1",
+    "item_code": "5900617015723",
+    "unit_type": "",
+    "price": 33.5,
+    "cost": 33.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/444535/1759129205/444535_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2620",
+    "internal_code": "20636",
+    "name": "كورن فليكس تيميز - 25جم",
+    "barcode": "6221012003832",
+    "item_type": "GS1",
+    "item_code": "6221012003832",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hda/hd2/48744146763806/20636_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2827",
+    "internal_code": "494464",
+    "name": "جرانولا بار لينو فواكه متنوعة - 55 جم",
+    "barcode": "6224008245124",
+    "item_type": "GS1",
+    "item_code": "6224008245124",
+    "unit_type": "",
+    "price": 38.5,
+    "cost": 38.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/494464/1746604804/494464_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2914",
+    "internal_code": "658666",
+    "name": "بار الجرانولا سناكسي تشوي بقطع الشوكولاتة - 24 جرام",
+    "barcode": "6223017870372",
+    "item_type": "GS1",
+    "item_code": "6223017870372",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 9.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658666/1756297803/658666_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2975",
+    "internal_code": "658662",
+    "name": "بار الجرانولا سناكسي تشوي ديبس برقائق الشوكولاتة - 31 جرام",
+    "barcode": "6223017870358",
+    "item_type": "GS1",
+    "item_code": "6223017870358",
+    "unit_type": "",
+    "price": 11.0,
+    "cost": 11.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658662/1756297803/658662_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3002",
+    "internal_code": "658665",
+    "name": "بار الجرانولا سناكسي تشوي بقطع الشوكولاتة - 5 بار",
+    "barcode": "6223017872284",
+    "item_type": "GS1",
+    "item_code": "6223017872284",
+    "unit_type": "",
+    "price": 40.0,
+    "cost": 40.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658665/1756297803/658665_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3013",
+    "internal_code": "658667",
+    "name": "بار الجرانولا سناكسي سمورز - 5 بار",
+    "barcode": "6223017872314",
+    "item_type": "GS1",
+    "item_code": "6223017872314",
+    "unit_type": "",
+    "price": 40.0,
+    "cost": 40.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658667/1756297803/658667_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3047",
+    "internal_code": "658669",
+    "name": "بار الجرانولا سناكسي تشوي برقائق الشوكولاتة - 5 بار",
+    "barcode": "6223017872321",
+    "item_type": "GS1",
+    "item_code": "6223017872321",
+    "unit_type": "",
+    "price": 40.0,
+    "cost": 40.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658669/1756297803/658669_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3068",
+    "internal_code": "647757",
+    "name": "جرانولا ناتشرز وندرز بالزبيب والكرانبيري - 350 جرام",
+    "barcode": "6223011434426",
+    "item_type": "GS1",
+    "item_code": "6223011434426",
+    "unit_type": "",
+    "price": 134.0,
+    "cost": 134.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647757/1741161054/647757_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3109",
+    "internal_code": "667378",
+    "name": "جرانولا لينو اورجينال - 350 جرام",
+    "barcode": "6223011810664",
+    "item_type": "GS1",
+    "item_code": "6223011810664",
+    "unit_type": "",
+    "price": 166.4,
+    "cost": 166.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667378/1764688203/667378_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3126",
+    "internal_code": "667381",
+    "name": "جرانولا لينو ميكس بالفواكه المجففة - 350 جرام",
+    "barcode": "6223011810695",
+    "item_type": "GS1",
+    "item_code": "6223011810695",
+    "unit_type": "",
+    "price": 166.4,
+    "cost": 166.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667381/1764688203/667381_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3287",
+    "internal_code": "667379",
+    "name": "جرانولا لينو بالشوكولاتة - 350 جرام",
+    "barcode": "6223011810688",
+    "item_type": "GS1",
+    "item_code": "6223011810688",
+    "unit_type": "",
+    "price": 166.4,
+    "cost": 166.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667379/1764688203/667379_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3292",
+    "internal_code": "667380",
+    "name": "جرانولا لينو بالمكسرات - 350 جرام",
+    "barcode": "6223011810671",
+    "item_type": "GS1",
+    "item_code": "6223011810671",
+    "unit_type": "",
+    "price": 166.4,
+    "cost": 166.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667380/1765195204/667380_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

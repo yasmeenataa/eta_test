@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "prod_141",
+    "internal_code": "523592",
+    "name": "كادبوري بسكويت ديلايت بالشوكولاتة - 34 جرام",
+    "barcode": "7622210549440",
+    "item_type": "GS1",
+    "item_code": "7622210549440",
+    "unit_type": "",
+    "price": 14.5,
+    "cost": 14.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbe/h49/49727353487390/523592_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_197",
+    "internal_code": "106041",
+    "name": "ماكفيتيز بسكويت دايجيستيف لايت - 400 جرام",
+    "barcode": "6223003804602",
+    "item_type": "GS1",
+    "item_code": "6223003804602",
+    "unit_type": "",
+    "price": 65.7,
+    "cost": 65.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/106041/1735142403/106041_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_431",
+    "internal_code": "552662",
+    "name": "بروتين بار امتنان جوز الهند - 70 جرام",
+    "barcode": "6221078065126",
+    "item_type": "GS1",
+    "item_code": "6221078065126",
+    "unit_type": "",
+    "price": 59.4,
+    "cost": 59.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h08/hc9/14530726363166/552662_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_472",
+    "internal_code": "535521",
+    "name": "بروتين بار أبو عوف بالشوكولاتة والقهوة - 70 جم",
+    "barcode": "6223006312388",
+    "item_type": "GS1",
+    "item_code": "6223006312388",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 65.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc4/h44/27008280756254/535521_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_635",
+    "internal_code": "576417",
+    "name": "أبو عوف بروتين بار بسكويت بالكراميل - 70 جرام",
+    "barcode": "6223006315372",
+    "item_type": "GS1",
+    "item_code": "6223006315372",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 65.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h87/h6a/27622961840158/576417_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_692",
+    "internal_code": "660490",
+    "name": "زيت عباد الشمس سلايت - 0.675 لتر",
+    "barcode": "6223000265833",
+    "item_type": "GS1",
+    "item_code": "6223000265833",
+    "unit_type": "",
+    "price": 62.0,
+    "cost": 62.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660490/1763638805/660490_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_725",
+    "internal_code": "662467",
+    "name": "بار بروتين ريفيول ببراونيز الشوكولاتة الغامقة - 60 جرام",
+    "barcode": "6224002148018",
+    "item_type": "GS1",
+    "item_code": "6224002148018",
+    "unit_type": "",
+    "price": 75.0,
+    "cost": 75.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/662467/1759235404/662467_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_727",
+    "internal_code": "558173",
+    "name": "كوكيز بروتين براونيز جو اون - 50 جرام",
+    "barcode": "5900617039774",
+    "item_type": "GS1",
+    "item_code": "5900617039774",
+    "unit_type": "",
+    "price": 96.0,
+    "cost": 96.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h63/h64/27427315187742/558173_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_894",
+    "internal_code": "594860",
+    "name": "ذا جود هابيتس بار بروتين بالكابتشينو - 60 جرام",
+    "barcode": "6223012520128",
+    "item_type": "GS1",
+    "item_code": "6223012520128",
+    "unit_type": "",
+    "price": 65.7,
+    "cost": 65.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/594860/1730037603/594860_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_941",
+    "internal_code": "576414",
+    "name": "أبو عوف بار بروتين براونيز الشوكولاتة - 70 جرام",
+    "barcode": "6223006315341",
+    "item_type": "GS1",
+    "item_code": "6223006315341",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 65.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h20/h02/27622960791582/576414_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_974",
+    "internal_code": "485388",
+    "name": "شوكولاتة لايت كورونا، 35 جم - 12 عبوة",
+    "barcode": "6221073011357",
+    "item_type": "GS1",
+    "item_code": "6221073011357",
+    "unit_type": "",
+    "price": 299.4,
+    "cost": 299.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h89/he8/49404198780958/485388_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1033",
+    "internal_code": "41519",
+    "name": "ماكفيتيز بسكويت دايجيستيف لايت - 250 جرام",
+    "barcode": "6223003804619",
+    "item_type": "GS1",
+    "item_code": "6223003804619",
+    "unit_type": "",
+    "price": 41.0,
+    "cost": 41.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/41519/1740045603/41519_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1062",
+    "internal_code": "594859",
+    "name": "ذا جود هابيتس بوست بار بروتين بنكهة شوكولاتة فادج براوني - 60 جرام",
+    "barcode": "6223012520098",
+    "item_type": "GS1",
+    "item_code": "6223012520098",
+    "unit_type": "",
+    "price": 65.7,
+    "cost": 65.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/594859/1730037603/594859_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1206",
+    "internal_code": "638080",
+    "name": "فيت 20 سناكس بروتين بطعم المشويات المدخنة  - 60 جرام",
+    "barcode": "6224002606013",
+    "item_type": "GS1",
+    "item_code": "6224002606013",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638080/1727687403/638080_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1246",
+    "internal_code": "638078",
+    "name": "فيت 20 سناكس بروتين بطعم الفلفل الحلو - 60 جرام",
+    "barcode": "6225000538399",
+    "item_type": "GS1",
+    "item_code": "6225000538399",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638078/1727687403/638078_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1262",
+    "internal_code": "581538",
+    "name": "سويت اند سليم شراب لايت - 300 مل",
+    "barcode": "6223004401312",
+    "item_type": "GS1",
+    "item_code": "6223004401312",
+    "unit_type": "",
+    "price": 207.0,
+    "cost": 207.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h75/hae/28237499760670/581538_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1332",
+    "internal_code": "615049",
+    "name": "ذا جود هابيتس بوست بار بروتين تشيز كيك فراولة - 60 جرام",
+    "barcode": "6223012522153",
+    "item_type": "GS1",
+    "item_code": "6223012522153",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/615049/1730283003/615049_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1375",
+    "internal_code": "72984",
+    "name": "بيسكاتو ديجيستا بسكويت لايت - 210 جم",
+    "barcode": "6223001161172",
+    "item_type": "GS1",
+    "item_code": "6223001161172",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hed/h34/14596332748830/72984_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1501",
+    "internal_code": "637771",
+    "name": "بالانس بروتين شوتس سويت هيت - 70 جرام",
+    "barcode": "6222035227557",
+    "item_type": "GS1",
+    "item_code": "6222035227557",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637771/1724056803/637771_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1579",
+    "internal_code": "647944",
+    "name": "بروتين بافس فانداي بطعم حار نار - 40 جرام",
+    "barcode": "6224010154797",
+    "item_type": "GS1",
+    "item_code": "6224010154797",
+    "unit_type": "",
+    "price": 12.8,
+    "cost": 12.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647944/1738065603/647944_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1620",
+    "internal_code": "271545",
+    "name": "كورونا شوكولاتة لايت - 35 جم",
+    "barcode": "6221073011340",
+    "item_type": "GS1",
+    "item_code": "6221073011340",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf7/h38/49404196421662/271545_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1774",
+    "internal_code": "639829",
+    "name": "كادبوري ديلايت بسكويت بالشوكولاتة - 34 جرام - 9 قطغ",
+    "barcode": "7622202241017",
+    "item_type": "GS1",
+    "item_code": "7622202241017",
+    "unit_type": "",
+    "price": 127.0,
+    "cost": 127.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/639829/1731491113/639829_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1797",
+    "internal_code": "607876",
+    "name": "بالانس مقرمشات بروتين - ليمون حلو - 70 جرام",
+    "barcode": "6222035227762",
+    "item_type": "GS1",
+    "item_code": "6222035227762",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1d/h65/48623006122014/607876_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1975",
+    "internal_code": "632324",
+    "name": "ناتشورز واندرز بروتين بافس بطعم الطماطم والريحان - 60 جم",
+    "barcode": "6223011434310",
+    "item_type": "GS1",
+    "item_code": "6223011434310",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf6/hcc/63698008735774/632324_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2004",
+    "internal_code": "639501",
+    "name": "بالانس بروتين بافس بطعم سويت هيت - 70 جرام",
+    "barcode": "6222035235309",
+    "item_type": "GS1",
+    "item_code": "6222035235309",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/639501/1727357403/639501_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2036",
+    "internal_code": "647536",
+    "name": "بروتين بافس فانداي بطعم الرانش - 40 جرام",
+    "barcode": "6224010154834",
+    "item_type": "GS1",
+    "item_code": "6224010154834",
+    "unit_type": "",
+    "price": 12.8,
+    "cost": 12.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647536/1737466204/647536_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2080",
+    "internal_code": "613574",
+    "name": "أبو عوف سناكس بروتين بالطماطم والريحان - 60 جرام",
+    "barcode": "6223011431135",
+    "item_type": "GS1",
+    "item_code": "6223011431135",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3a/h1c/49654272983070/613574_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2130",
+    "internal_code": "607875",
+    "name": "بالانس مقرمشات بروتين - فلفل حلو - 70 جرام",
+    "barcode": "6222035227779",
+    "item_type": "GS1",
+    "item_code": "6222035227779",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hab/h72/48623006515230/607875_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2175",
+    "internal_code": "594858",
+    "name": "ذا جود هابيتس بوست بار بروتين بنكهة الكوكيز والكريمة - 60 جرام",
+    "barcode": "6223012520043",
+    "item_type": "GS1",
+    "item_code": "6223012520043",
+    "unit_type": "",
+    "price": 65.7,
+    "cost": 65.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/594858/1730037603/594858_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2270",
+    "internal_code": "647946",
+    "name": "بروتين بافس فانداي بطعم الكباب المشوي - 40 جرام",
+    "barcode": "6224010154827",
+    "item_type": "GS1",
+    "item_code": "6224010154827",
+    "unit_type": "",
+    "price": 12.8,
+    "cost": 12.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647946/1738582203/647946_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2287",
+    "internal_code": "642230",
+    "name": "تورتة ديلايتس - 1 قطعة",
+    "barcode": "6222035239079",
+    "item_type": "GS1",
+    "item_code": "6222035239079",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642230/1730037603/642230_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2414",
+    "internal_code": "626689",
+    "name": "حاج عرفة بروتين رينجز سناكس بطعم الفلفل الحلو - 60 جرام",
+    "barcode": "6223006255579",
+    "item_type": "GS1",
+    "item_code": "6223006255579",
+    "unit_type": "",
+    "price": 25.3,
+    "cost": 25.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h33/h63/61743447506974/626689_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2417",
+    "internal_code": "626688",
+    "name": "حاج عرفة بروتين رينجز سناكس بطعم الكريمة الحامضة - 60 جرام",
+    "barcode": "6223006255593",
+    "item_type": "GS1",
+    "item_code": "6223006255593",
+    "unit_type": "",
+    "price": 25.3,
+    "cost": 25.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h63/h5c/61743447703582/626688_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2460",
+    "internal_code": "659705",
+    "name": "فول صحيح دايمة - 500 جرام",
+    "barcode": "6224010414648",
+    "item_type": "GS1",
+    "item_code": "6224010414648",
+    "unit_type": "",
+    "price": 61.3,
+    "cost": 61.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659705/1755437403/659705_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2552",
+    "internal_code": "662464",
+    "name": "بار بروتين ريفيول بالكراميل المقرمش - 60 جرام",
+    "barcode": "6224002148025",
+    "item_type": "GS1",
+    "item_code": "6224002148025",
+    "unit_type": "",
+    "price": 75.0,
+    "cost": 75.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/662464/1759235404/662464_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2567",
+    "internal_code": "648861",
+    "name": "كريمة الشوكولاتة ناسو اوريجينال الصحية - 375 جرام",
+    "barcode": "6224002206428",
+    "item_type": "GS1",
+    "item_code": "6224002206428",
+    "unit_type": "",
+    "price": 229.4,
+    "cost": 229.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648861/1739700005/648861_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2806",
+    "internal_code": "576428",
+    "name": "بار بروتين لايت بايت بجوز الهند - 70 جرام",
+    "barcode": "6772504452961",
+    "item_type": "GS1",
+    "item_code": "6772504452961",
+    "unit_type": "",
+    "price": 89.0,
+    "cost": 89.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2e/h82/51053397540894/576428_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2985",
+    "internal_code": "560855",
+    "name": "شوكولاتة كورونا لايت - 60 جرام - 6 قطع",
+    "barcode": "6221073011746",
+    "item_type": "GS1",
+    "item_code": "6221073011746",
+    "unit_type": "",
+    "price": 231.6,
+    "cost": 231.6,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9b/h00/49404201336862/560855_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3005",
+    "internal_code": "647537",
+    "name": "بروتين بافس فانداي بطعم الطماطم والريحان - 40 جرام",
+    "barcode": "6224010154810",
+    "item_type": "GS1",
+    "item_code": "6224010154810",
+    "unit_type": "",
+    "price": 12.8,
+    "cost": 12.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647537/1737628203/647537_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3097",
+    "internal_code": "560854",
+    "name": "كورونا شوكولاتة لايت - 60 جرام",
+    "barcode": "6221073011739",
+    "item_type": "GS1",
+    "item_code": "6221073011739",
+    "unit_type": "",
+    "price": 21.0,
+    "cost": 23.1,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdnprod.mafretailproxy.com/sys-master-root/hf0/h1b/49406497194014/200Wx200H_560854_main.jpg",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3121",
+    "internal_code": "670308",
+    "name": "بروتين بار بالانس بالكراميل المقرمش - 70 جرام",
+    "barcode": "6222035253440",
+    "item_type": "GS1",
+    "item_code": "6222035253440",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/670308/1769947800/670308_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3131",
+    "internal_code": "670306",
+    "name": "بروتين بار بالانس بالقهوة والشوكولاتة - 70 جرام",
+    "barcode": "6222035259732",
+    "item_type": "GS1",
+    "item_code": "6222035259732",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/670306/1769947800/670306_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3139",
+    "internal_code": "670310",
+    "name": "بروتين بار بالانس بالكوكيز والكريمة - 70 جرام",
+    "barcode": "6222035259701",
+    "item_type": "GS1",
+    "item_code": "6222035259701",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/670310/1769947800/670310_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3187",
+    "internal_code": "667699",
+    "name": "بار بروتين زيرو ميلتي بكريمة جوز الهند - 70 جرام",
+    "barcode": "6224003818026",
+    "item_type": "GS1",
+    "item_code": "6224003818026",
+    "unit_type": "",
+    "price": 72.3,
+    "cost": 72.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667699/1764846005/667699_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3236",
+    "internal_code": "670304",
+    "name": "بروتين بار بالانس بالشوكولاتة - 70 جرام",
+    "barcode": "6222035253419",
+    "item_type": "GS1",
+    "item_code": "6222035253419",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/670304/1769947800/670304_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  }
+]

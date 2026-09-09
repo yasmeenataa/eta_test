@@ -1,0 +1,1664 @@
+[
+  {
+    "id": "prod_000",
+    "internal_code": "261781",
+    "name": "سمن طبيعى 1.5 كجم من شيراتون",
+    "barcode": "6224000405137",
+    "item_type": "GS1",
+    "item_code": "6224000405137",
+    "unit_type": "",
+    "price": 834.3,
+    "cost": 834.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/261781/1739796438/261781_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_014",
+    "internal_code": "106174",
+    "name": "سمن بلدي طبيعي من شيراتون - 800 جم",
+    "barcode": "6224000405144",
+    "item_type": "GS1",
+    "item_code": "6224000405144",
+    "unit_type": "",
+    "price": 446.3,
+    "cost": 446.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc4/h0c/15070388256798/106174_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_034",
+    "internal_code": "18921",
+    "name": "سمن بقري نقي فيرن - 1.8 كجم",
+    "barcode": "9415007006602",
+    "item_type": "GS1",
+    "item_code": "9415007006602",
+    "unit_type": "",
+    "price": 1014.3,
+    "cost": 1014.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he6/h63/15070390681630/18921_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_037",
+    "internal_code": "305567",
+    "name": "سمن نباتى كريستال - 1.5 كجم",
+    "barcode": "6222000553728",
+    "item_type": "GS1",
+    "item_code": "6222000553728",
+    "unit_type": "",
+    "price": 154.0,
+    "cost": 154.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/305567/1738681205/305567_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_040",
+    "internal_code": "376581",
+    "name": "سمن الحلوب المثالية - 2كجم",
+    "barcode": "6224000405151",
+    "item_type": "GS1",
+    "item_code": "6224000405151",
+    "unit_type": "",
+    "price": 1153.2,
+    "cost": 1153.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf1/hc3/15070394449950/376581_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_063",
+    "internal_code": "20678",
+    "name": "روابي سمن نباتي - 1.5 كجم",
+    "barcode": "6223000263051",
+    "item_type": "GS1",
+    "item_code": "6223000263051",
+    "unit_type": "",
+    "price": 155.7,
+    "cost": 155.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/20678/1750163403/20678_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_103",
+    "internal_code": "504713",
+    "name": "سمن نباتي أبيض كريستال - 700جم",
+    "barcode": "6222000553445",
+    "item_type": "GS1",
+    "item_code": "6222000553445",
+    "unit_type": "",
+    "price": 80.0,
+    "cost": 80.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/504713/1738681205/504713_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_110",
+    "internal_code": "222424",
+    "name": "سمن نقي فيرن - 1.4 كجم",
+    "barcode": "6223001351481",
+    "item_type": "GS1",
+    "item_code": "6223001351481",
+    "unit_type": "",
+    "price": 794.8,
+    "cost": 794.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h87/h6b/15070392516638/222424_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_125",
+    "internal_code": "447534",
+    "name": "سمن شيراتون - 400جم",
+    "barcode": "6224000405205",
+    "item_type": "GS1",
+    "item_code": "6224000405205",
+    "unit_type": "",
+    "price": 231.2,
+    "cost": 231.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h69/hb2/15070399496222/447534_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_153",
+    "internal_code": "612457",
+    "name": "كريستال سمن نباتي أصفر - 1 كجم",
+    "barcode": "6222000556101",
+    "item_type": "GS1",
+    "item_code": "6222000556101",
+    "unit_type": "",
+    "price": 114.0,
+    "cost": 114.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/612457/1738681205/612457_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_188",
+    "internal_code": "643116",
+    "name": "ظاظا سمن نباتى - 350 جم",
+    "barcode": "6224011298995",
+    "item_type": "GS1",
+    "item_code": "6224011298995",
+    "unit_type": "",
+    "price": 45.0,
+    "cost": 45.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/643116/1731236403/643116_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_195",
+    "internal_code": "499342",
+    "name": "روابي سمن نباتي - 2.5 كجم",
+    "barcode": "6223000263853",
+    "item_type": "GS1",
+    "item_code": "6223000263853",
+    "unit_type": "",
+    "price": 249.0,
+    "cost": 249.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/499342/1750251603/499342_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_200",
+    "internal_code": "305060",
+    "name": "فشار توب اوف ذا بوب بالزبدة - 100 جم",
+    "barcode": "3800203051369",
+    "item_type": "GS1",
+    "item_code": "3800203051369",
+    "unit_type": "",
+    "price": 52.0,
+    "cost": 52.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hec/h8c/29790683430942/305060_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_212",
+    "internal_code": "485770",
+    "name": "أبو عوف زبدة الفول السوداني - 330 جم",
+    "barcode": "6223004763762",
+    "item_type": "GS1",
+    "item_code": "6223004763762",
+    "unit_type": "",
+    "price": 100.0,
+    "cost": 128.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc6/hfa/14835413319710/485770_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_236",
+    "internal_code": "34487",
+    "name": "سمن طبيعي حلوب المثالية - 1.6 لتر",
+    "barcode": "6224000405076",
+    "item_type": "GS1",
+    "item_code": "6224000405076",
+    "unit_type": "",
+    "price": 878.3,
+    "cost": 878.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h48/hd9/15070393663518/34487_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_316",
+    "internal_code": "99260",
+    "name": "روتانا الحلوبة سمن طبيعي - 700جم",
+    "barcode": "6224000054410",
+    "item_type": "GS1",
+    "item_code": "6224000054410",
+    "unit_type": "",
+    "price": 406.7,
+    "cost": 406.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/99260/1729584603/99260_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_328",
+    "internal_code": "222425",
+    "name": "سمن فيرن - 400جم + 50جم مجانا",
+    "barcode": "6223001351498",
+    "item_type": "GS1",
+    "item_code": "6223001351498",
+    "unit_type": "",
+    "price": 260.5,
+    "cost": 260.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbf/hd6/10154514808862/222425_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_362",
+    "internal_code": "510174",
+    "name": "زبدة فول سوداني أبو عوف بالشسكولاتة الغامقة - 330 جم",
+    "barcode": "6223004766794",
+    "item_type": "GS1",
+    "item_code": "6223004766794",
+    "unit_type": "",
+    "price": 131.8,
+    "cost": 131.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf3/h88/14835477086238/510174_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_372",
+    "internal_code": "554456",
+    "name": "هيرو ديليسيا زبدة الفول السوداني كرنشي - 300 جم",
+    "barcode": "6221024993763",
+    "item_type": "GS1",
+    "item_code": "6221024993763",
+    "unit_type": "",
+    "price": 95.5,
+    "cost": 107.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/554456/1753948803/554456_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_388",
+    "internal_code": "618332",
+    "name": "دون لوبيز بسكويت بالزبدة - 350 جرام",
+    "barcode": "6224008467953",
+    "item_type": "GS1",
+    "item_code": "6224008467953",
+    "unit_type": "",
+    "price": 270.8,
+    "cost": 270.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he8/h57/50818454421534/618332_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_570",
+    "internal_code": "656724",
+    "name": "مقرمشات البروتين بالانس بنكهة زبدة العسل - 70 جرام",
+    "barcode": "6222035247920",
+    "item_type": "GS1",
+    "item_code": "6222035247920",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656724/1750339803/656724_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_634",
+    "internal_code": "447533",
+    "name": "الحلوب المثالية سمن بقري طبيعي - 400 جرام",
+    "barcode": "6224000405182",
+    "item_type": "GS1",
+    "item_code": "6224000405182",
+    "unit_type": "",
+    "price": 229.2,
+    "cost": 229.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h17/hb3/15070399430686/447533_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_668",
+    "internal_code": "548836",
+    "name": "سمن نباتي الهانم - 700 جم",
+    "barcode": "6222000551694",
+    "item_type": "GS1",
+    "item_code": "6222000551694",
+    "unit_type": "",
+    "price": 72.5,
+    "cost": 72.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9c/hb7/15173275910174/548836_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_753",
+    "internal_code": "567728",
+    "name": "سنيكرز شوكولاتة بزبدة الفول السوداني",
+    "barcode": "5900951312335",
+    "item_type": "GS1",
+    "item_code": "5900951312335",
+    "unit_type": "",
+    "price": 36.6,
+    "cost": 36.6,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8c/hc0/49111624351774/567728_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_787",
+    "internal_code": "292292",
+    "name": "سمن نباتي جولدن ميكس - 700جم",
+    "barcode": "6223001352464",
+    "item_type": "GS1",
+    "item_code": "6223001352464",
+    "unit_type": "",
+    "price": 102.0,
+    "cost": 102.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf9/hca/15070393204766/292292_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_803",
+    "internal_code": "591806",
+    "name": "إيتس إيه بووم كوكيز بقطع شوكولاتة الحليب وزبدة الفول السوداني - 3 كوكيز",
+    "barcode": "6224011288231",
+    "item_type": "GS1",
+    "item_code": "6224011288231",
+    "unit_type": "",
+    "price": 12.2,
+    "cost": 12.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf5/hb8/49771951063070/591806_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_812",
+    "internal_code": "462391",
+    "name": "كلاس ايه زبدة فول سودانى خشنة - 300 جرام",
+    "barcode": "6223000228210",
+    "item_type": "GS1",
+    "item_code": "6223000228210",
+    "unit_type": "",
+    "price": 105.9,
+    "cost": 105.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha6/h54/27411256541214/462391_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_840",
+    "internal_code": "462390",
+    "name": "كلاس ايه زبدة فول سودانى كريمى - 300 جرام",
+    "barcode": "6223000228234",
+    "item_type": "GS1",
+    "item_code": "6223000228234",
+    "unit_type": "",
+    "price": 105.9,
+    "cost": 105.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd0/he9/14835329138718/462390_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_848",
+    "internal_code": "649386",
+    "name": "بسكويت فورنو بونومي بالزبدة - 150 جرام",
+    "barcode": "8002720002205",
+    "item_type": "GS1",
+    "item_code": "8002720002205",
+    "unit_type": "",
+    "price": 160.0,
+    "cost": 160.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649386/1740658803/649386_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_912",
+    "internal_code": "658698",
+    "name": "كاندى دولسى بزبدة الكريمة - 9 قطع",
+    "barcode": "6223004354502",
+    "item_type": "GS1",
+    "item_code": "6223004354502",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658698/1754312406/658698_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_943",
+    "internal_code": "517261",
+    "name": "وافل مقرمش هيلثي ميل بالزبدة - 150 جم",
+    "barcode": "6223000228326",
+    "item_type": "GS1",
+    "item_code": "6223000228326",
+    "unit_type": "",
+    "price": 60.7,
+    "cost": 60.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h12/h15/12713911844894/517261_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_957",
+    "internal_code": "98975",
+    "name": "سمن نباتي الهانم - 1.5كجم",
+    "barcode": "6222000552486",
+    "item_type": "GS1",
+    "item_code": "6222000552486",
+    "unit_type": "",
+    "price": 151.0,
+    "cost": 151.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h12/hf7/63559000326174/98975_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_973",
+    "internal_code": "658699",
+    "name": "كاندى دولسى بزبدة الكريمة - 12 قطع",
+    "barcode": "6223004354519",
+    "item_type": "GS1",
+    "item_code": "6223004354519",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658699/1754312406/658699_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_995",
+    "internal_code": "292763",
+    "name": "جولدن ميكس سمن نباتي - 1.47 كجم",
+    "barcode": "6223001352006",
+    "item_type": "GS1",
+    "item_code": "6223001352006",
+    "unit_type": "",
+    "price": 187.3,
+    "cost": 187.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd7/hef/27007622643742/292763_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1024",
+    "internal_code": "551170",
+    "name": "كوكيز وايت كاسيل بالزبدة وشرائح الشوكولاتة - 40 جرام",
+    "barcode": "9556995203403",
+    "item_type": "GS1",
+    "item_code": "9556995203403",
+    "unit_type": "",
+    "price": 16.8,
+    "cost": 16.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd6/hd1/14596055728158/551170_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1025",
+    "internal_code": "612456",
+    "name": "كريستال سمن نباتي أبيض - 1 كجم",
+    "barcode": "6222000556996",
+    "item_type": "GS1",
+    "item_code": "6222000556996",
+    "unit_type": "",
+    "price": 114.0,
+    "cost": 114.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/612456/1738681205/612456_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1038",
+    "internal_code": "484520",
+    "name": "شوكولاتة بالزبدة كورونا، 27 جم - 12 عبوة",
+    "barcode": "6221073011449",
+    "item_type": "GS1",
+    "item_code": "6221073011449",
+    "unit_type": "",
+    "price": 299.4,
+    "cost": 299.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h80/h8c/49404199370782/484520_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1075",
+    "internal_code": "72987",
+    "name": "بيسكاتو بسكويت دانش بالزبدة - 120 جرام",
+    "barcode": "6223001160571",
+    "item_type": "GS1",
+    "item_code": "6223001160571",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8b/he5/8989377724446/72987_main.jpeg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1145",
+    "internal_code": "505823",
+    "name": "هيرو ديليسيا زبدة الفول السوداني - 300 جم",
+    "barcode": "6221024992513",
+    "item_type": "GS1",
+    "item_code": "6221024992513",
+    "unit_type": "",
+    "price": 95.5,
+    "cost": 107.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/505823/1753948803/505823_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1151",
+    "internal_code": "594857",
+    "name": "ذا جود هابيتس بار بروتين بالشوكولاتة وزبدة الفول السوداني - 60 جرام",
+    "barcode": "6223012520012",
+    "item_type": "GS1",
+    "item_code": "6223012520012",
+    "unit_type": "",
+    "price": 65.7,
+    "cost": 65.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2b/hbd/44550078955550/594857_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1188",
+    "internal_code": "491321",
+    "name": "15*جود داي بسكويت بالزبدة 32ج",
+    "barcode": "6291007908541",
+    "item_type": "GS1",
+    "item_code": "6291007908541",
+    "unit_type": "",
+    "price": 72.0,
+    "cost": 72.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h04/h82/13012494385182/491321_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1211",
+    "internal_code": "106175",
+    "name": "الحلوب المثالية سمن بقري طبيعي - 800 جرام",
+    "barcode": "6224000405069",
+    "item_type": "GS1",
+    "item_code": "6224000405069",
+    "unit_type": "",
+    "price": 443.3,
+    "cost": 443.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb5/h44/15070387994654/106175_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1487",
+    "internal_code": "19365",
+    "name": "بالسين ليبنيز بسكويت زبدة - 100جم",
+    "barcode": "4017100104503",
+    "item_type": "GS1",
+    "item_code": "4017100104503",
+    "unit_type": "",
+    "price": 105.0,
+    "cost": 105.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/hef/14786099937310/19365_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1489",
+    "internal_code": "560940",
+    "name": "العبد بسكويت بالزبدة - 18 قطعة",
+    "barcode": "6224008630579",
+    "item_type": "GS1",
+    "item_code": "6224008630579",
+    "unit_type": "",
+    "price": 60.5,
+    "cost": 60.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd3/hb2/31324835872798/560940_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1509",
+    "internal_code": "489597",
+    "name": "حلوب زمان سمن خليط - 700 جرام",
+    "barcode": "6225000152830",
+    "item_type": "GS1",
+    "item_code": "6225000152830",
+    "unit_type": "",
+    "price": 176.3,
+    "cost": 176.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc0/h3d/50521090457630/489597_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1565",
+    "internal_code": "665772",
+    "name": "رقائق بطاطس رو كرينكلز بطعم الزبدة والفلفل الأسود - 70 جم",
+    "barcode": "6223015762501",
+    "item_type": "GS1",
+    "item_code": "6223015762501",
+    "unit_type": "",
+    "price": 21.2,
+    "cost": 21.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665772/1762167606/665772_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1570",
+    "internal_code": "636603",
+    "name": "أميرة سمن نباتي أصفر - 700 جرام",
+    "barcode": "6223001357810",
+    "item_type": "GS1",
+    "item_code": "6223001357810",
+    "unit_type": "",
+    "price": 86.7,
+    "cost": 86.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/636603/1748773804/636603_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1661",
+    "internal_code": "621994",
+    "name": "ناتشورز واندرز زبدة فول سوداني بالشوكولاتة - 300 جم",
+    "barcode": "6223011433603",
+    "item_type": "GS1",
+    "item_code": "6223011433603",
+    "unit_type": "",
+    "price": 89.0,
+    "cost": 89.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/621994/1730283003/621994_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1743",
+    "internal_code": "18323",
+    "name": "سمن أميرة النباتي - 1.5 كجم",
+    "barcode": "6223001350064",
+    "item_type": "GS1",
+    "item_code": "6223001350064",
+    "unit_type": "",
+    "price": 160.0,
+    "cost": 160.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf9/h17/31257563267102/18323_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1946",
+    "internal_code": "642834",
+    "name": "بيك رولز بالزبدة والأعشاب - 45 جم",
+    "barcode": "6223000555613",
+    "item_type": "GS1",
+    "item_code": "6223000555613",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642834/1730817003/642834_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2037",
+    "internal_code": "591804",
+    "name": "بسكويت اتس ايه بوم بحبيبات حلوى ريسيز بطعم زبدة الفول السوداني - 3 بسكوتة",
+    "barcode": "6224011288019",
+    "item_type": "GS1",
+    "item_code": "6224011288019",
+    "unit_type": "",
+    "price": 6.1,
+    "cost": 6.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/591804/1773219602/591804_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2169",
+    "internal_code": "658664",
+    "name": "بار الجرانولا سناكسي تشوي بزبدة الفول السوداني - 24 جرام",
+    "barcode": "6223017870389",
+    "item_type": "GS1",
+    "item_code": "6223017870389",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 9.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658664/1756297803/658664_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2230",
+    "internal_code": "659074",
+    "name": "حلوى الزبدة سولا - 120 قطعة",
+    "barcode": "6222000916370",
+    "item_type": "GS1",
+    "item_code": "6222000916370",
+    "unit_type": "",
+    "price": 97.8,
+    "cost": 97.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659074/1753873206/659074_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2261",
+    "internal_code": "594683",
+    "name": "نيتشر وندر زبدة فول سوداني - 300 جم",
+    "barcode": "6223004761041",
+    "item_type": "GS1",
+    "item_code": "6223004761041",
+    "unit_type": "",
+    "price": 83.0,
+    "cost": 83.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5b/he1/49589109817374/594683_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2268",
+    "internal_code": "487451",
+    "name": "نيوزلاندا الحلوب سمن طبيعي خليط - 1400ج",
+    "barcode": "6225000120631",
+    "item_type": "GS1",
+    "item_code": "6225000120631",
+    "unit_type": "",
+    "price": 424.8,
+    "cost": 424.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7a/h16/15754648879134/487451_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2362",
+    "internal_code": "342054",
+    "name": "فينجر بسكويت بالزبدة - 600 جم",
+    "barcode": "8692806013272",
+    "item_type": "GS1",
+    "item_code": "8692806013272",
+    "unit_type": "",
+    "price": 150.0,
+    "cost": 150.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9c/h18/14583372316702/342054_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2383",
+    "internal_code": "271546",
+    "name": "شوكولاتة كورونا بالزبدة - 27 جم",
+    "barcode": "6221073011241",
+    "item_type": "GS1",
+    "item_code": "6221073011241",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7d/h9f/49404197339166/271546_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2409",
+    "internal_code": "659075",
+    "name": "حلوى الزبدة سولا - 55 قطعة",
+    "barcode": "6222000915878",
+    "item_type": "GS1",
+    "item_code": "6222000915878",
+    "unit_type": "",
+    "price": 47.0,
+    "cost": 47.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659075/1753873206/659075_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2425",
+    "internal_code": "52697",
+    "name": "سمن روتانا - 1.4كجم",
+    "barcode": "6224000054106",
+    "item_type": "GS1",
+    "item_code": "6224000054106",
+    "unit_type": "",
+    "price": 791.7,
+    "cost": 791.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he1/h00/15070579490846/52697_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2579",
+    "internal_code": "649388",
+    "name": "بسكويت فورنو بونومي بالزبدة مع رقائق الشوكولاتة - 150 جرام",
+    "barcode": "8002720002601",
+    "item_type": "GS1",
+    "item_code": "8002720002601",
+    "unit_type": "",
+    "price": 170.0,
+    "cost": 170.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649388/1740658803/649388_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2688",
+    "internal_code": "361562",
+    "name": "سمن الهانم - 350جم",
+    "barcode": "6222000552455",
+    "item_type": "GS1",
+    "item_code": "6222000552455",
+    "unit_type": "",
+    "price": 38.5,
+    "cost": 38.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha9/h22/10066823184414/361562_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2701",
+    "internal_code": "546283",
+    "name": "زبدة فول سوداني كريمي إيه إم أر - 340 جرام",
+    "barcode": "6224008603764",
+    "item_type": "GS1",
+    "item_code": "6224008603764",
+    "unit_type": "",
+    "price": 114.6,
+    "cost": 114.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7c/h95/14853730861086/546283_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2731",
+    "internal_code": "363153",
+    "name": "كوكيز الزبدة وايت كاسل - 45 جرام",
+    "barcode": "9556995200020",
+    "item_type": "GS1",
+    "item_code": "9556995200020",
+    "unit_type": "",
+    "price": 17.0,
+    "cost": 17.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haa/h2c/14569620439070/363153_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2819",
+    "internal_code": "72986",
+    "name": "بسكاتو جولى بسكويت بالزبدة - 140 جرام",
+    "barcode": "6223001160632",
+    "item_type": "GS1",
+    "item_code": "6223001160632",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5d/h6e/14786465628190/72986_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2882",
+    "internal_code": "97315",
+    "name": "ويرذرز اوريجينال حلوى بالزبدة - 50 جم",
+    "barcode": "40144016",
+    "item_type": "GS1",
+    "item_code": "40144016",
+    "unit_type": "",
+    "price": 37.6,
+    "cost": 37.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he1/hd6/49332898988062/97315_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2896",
+    "internal_code": "638081",
+    "name": "فيت 20 سناكس بروتين بطعم الزبدة والأعشاب  - 60 جرام",
+    "barcode": "6225000538382",
+    "item_type": "GS1",
+    "item_code": "6225000538382",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638081/1727687403/638081_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3011",
+    "internal_code": "647943",
+    "name": "ويفر لواكر تورتينا بزبدة الفول السوداني - 21 جرام",
+    "barcode": "80809265",
+    "item_type": "GS1",
+    "item_code": "80809265",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647943/1738482003/647943_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3083",
+    "internal_code": "406325",
+    "name": "سمن نباتي روابي - 350جم",
+    "barcode": "6223000263037",
+    "item_type": "GS1",
+    "item_code": "6223000263037",
+    "unit_type": "",
+    "price": 40.0,
+    "cost": 40.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h60/h4f/15070395793438/406325_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3134",
+    "internal_code": "667375",
+    "name": "زبدة فول سوداني كريمي لينو - 340 جم",
+    "barcode": "6224008245261",
+    "item_type": "GS1",
+    "item_code": "6224008245261",
+    "unit_type": "",
+    "price": 171.7,
+    "cost": 171.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667375/1764688203/667375_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3143",
+    "internal_code": "667373",
+    "name": "زبدة فول سوداني لينو عالية البروتين - 340 جم",
+    "barcode": "6224008245278",
+    "item_type": "GS1",
+    "item_code": "6224008245278",
+    "unit_type": "",
+    "price": 300.5,
+    "cost": 300.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667373/1764688203/667373_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3144",
+    "internal_code": "667692",
+    "name": "بار بروتين زيرو بنكهة زبدة الفول السوداني - 70 جم",
+    "barcode": "6224010103375",
+    "item_type": "GS1",
+    "item_code": "6224010103375",
+    "unit_type": "",
+    "price": 50.1,
+    "cost": 50.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667692/1764846005/667692_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3153",
+    "internal_code": "666158",
+    "name": "شوكولاتة الحليب ريتر ببسكويت الزبدة - 100 جرام",
+    "barcode": "4000417214003",
+    "item_type": "GS1",
+    "item_code": "4000417214003",
+    "unit_type": "",
+    "price": 143.7,
+    "cost": 143.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666158/1762423204/666158_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3174",
+    "internal_code": "667374",
+    "name": "زبدة فول سوداني لايت لينو - 340 جم",
+    "barcode": "6224008245285",
+    "item_type": "GS1",
+    "item_code": "6224008245285",
+    "unit_type": "",
+    "price": 171.7,
+    "cost": 171.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667374/1764688203/667374_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3183",
+    "internal_code": "667376",
+    "name": "زبدة فول سوداني كرانشي لينو - 340 جم",
+    "barcode": "6224008245254",
+    "item_type": "GS1",
+    "item_code": "6224008245254",
+    "unit_type": "",
+    "price": 171.7,
+    "cost": 171.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667376/1764688203/667376_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

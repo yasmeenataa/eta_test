@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "prod_047",
+    "internal_code": "658443",
+    "name": "بسكويت التمر أبو عوف - 4 بسكويت - 12 باكيت",
+    "barcode": "6223001690283",
+    "item_type": "GS1",
+    "item_code": "6223001690283",
+    "unit_type": "",
+    "price": 57.0,
+    "cost": 84.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658443/1753718403/658443_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_065",
+    "internal_code": "660034",
+    "name": "ويفرماندولين بكريمة الكاكاو - 33 جرام",
+    "barcode": "7622202350092",
+    "item_type": "GS1",
+    "item_code": "7622202350092",
+    "unit_type": "",
+    "price": 9.8,
+    "cost": 9.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660034/1755073803/660034_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_093",
+    "internal_code": "597210",
+    "name": "اولكر بسكويت محشو بالتمر - 54 جرام - 6 قطع",
+    "barcode": "6222024101622",
+    "item_type": "GS1",
+    "item_code": "6222024101622",
+    "unit_type": "",
+    "price": 36.0,
+    "cost": 40.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/597210/1735153803/597210_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_137",
+    "internal_code": "488007",
+    "name": "اولكر فينجر بسكويت سادة - 36 جرام - 12 باكو",
+    "barcode": "6223003804305",
+    "item_type": "GS1",
+    "item_code": "6223003804305",
+    "unit_type": "",
+    "price": 59.0,
+    "cost": 59.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/hfa/47467450662942/488007_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_168",
+    "internal_code": "537605",
+    "name": "بسكو مصربسكويت سادة سوبر لوكس - 12x12 قطعة",
+    "barcode": "6222001180558",
+    "item_type": "GS1",
+    "item_code": "6222001180558",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h12/hec/14951652622366/537605_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_237",
+    "internal_code": "404579",
+    "name": "ويفر كتاكيتو بالشوكولاته من الشمعدان ",
+    "barcode": "6221030000066",
+    "item_type": "GS1",
+    "item_code": "6221030000066",
+    "unit_type": "",
+    "price": 22.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbb/h8b/50143009341470/404579_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_238",
+    "internal_code": "370010",
+    "name": "بسكويت بيمبو جولد - 37جم - عبوة من 12",
+    "barcode": "6221073001204",
+    "item_type": "GS1",
+    "item_code": "6221073001204",
+    "unit_type": "",
+    "price": 72.0,
+    "cost": 72.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hab/h73/32967781122078/370010_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_245",
+    "internal_code": "347238",
+    "name": "بسكويت فورنو بونومي سافوياردي - 200 جرام",
+    "barcode": "8002720003103",
+    "item_type": "GS1",
+    "item_code": "8002720003103",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/347238/1740562203/347238_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_369",
+    "internal_code": "583115",
+    "name": "منشي بسكويت ويفر - 1 قطعة - 12 باكو",
+    "barcode": "6221073004885",
+    "item_type": "GS1",
+    "item_code": "6221073004885",
+    "unit_type": "",
+    "price": 71.4,
+    "cost": 71.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8d/h70/49404202582046/583115_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_377",
+    "internal_code": "596278",
+    "name": "تويكس رول بسكويت بالكراميل - 22.5 جرام",
+    "barcode": "6221134010671",
+    "item_type": "GS1",
+    "item_code": "6221134010671",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/596278/1724666403/596278_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_468",
+    "internal_code": "658442",
+    "name": "بسكويت التمر أبو عوف - 4 بسكويت",
+    "barcode": "6223001690269",
+    "item_type": "GS1",
+    "item_code": "6223001690269",
+    "unit_type": "",
+    "price": 4.8,
+    "cost": 7.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658442/1753718403/658442_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_560",
+    "internal_code": "179550",
+    "name": "لوتس بيسكوف بسكويت بالكراميل - 250 جرام",
+    "barcode": "5410126716016",
+    "item_type": "GS1",
+    "item_code": "5410126716016",
+    "unit_type": "",
+    "price": 172.5,
+    "cost": 172.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he0/had/10066094096414/179550_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_665",
+    "internal_code": "350055",
+    "name": "بسكويت سادة بسكو مصر ماري - 65 جم",
+    "barcode": "6222001130133",
+    "item_type": "GS1",
+    "item_code": "6222001130133",
+    "unit_type": "",
+    "price": 7.3,
+    "cost": 7.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/hcf/48744146894878/350055_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_677",
+    "internal_code": "664070",
+    "name": "ويفر ماجيك فينجرز المحشو بكريمة جوز الهند",
+    "barcode": "6222035254249",
+    "item_type": "GS1",
+    "item_code": "6222035254249",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664070/1759411804/664070_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_743",
+    "internal_code": "660035",
+    "name": "ويفر ماندولين بكريمة الكاكاو - 33 جرام - 12 قطعة",
+    "barcode": "7622202350085",
+    "item_type": "GS1",
+    "item_code": "7622202350085",
+    "unit_type": "",
+    "price": 117.0,
+    "cost": 117.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660035/1766655602/660035_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_744",
+    "internal_code": "464892",
+    "name": "بسكو مصر داتو كينج بسكويت بالتمر - 4 بسكوتة - 12 باكيت",
+    "barcode": "6222001103540",
+    "item_type": "GS1",
+    "item_code": "6222001103540",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdc/hcf/48744146829342/464892_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_763",
+    "internal_code": "103231",
+    "name": "ميربا براونيز كوكيز - 200 جم",
+    "barcode": "46214230208",
+    "item_type": "GS1",
+    "item_code": "46214230208",
+    "unit_type": "",
+    "price": 152.0,
+    "cost": 152.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf4/h51/49332892696606/103231_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_801",
+    "internal_code": "591808",
+    "name": "كوكيز إتس أ بوم ريسز - 3 قطع",
+    "barcode": "6224011288262",
+    "item_type": "GS1",
+    "item_code": "6224011288262",
+    "unit_type": "",
+    "price": 12.2,
+    "cost": 12.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h43/h86/48984284397598/591808_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_811",
+    "internal_code": "583124",
+    "name": "كورونا منشي بسكويت ويفر - طعم الفراولة",
+    "barcode": "6221073004991",
+    "item_type": "GS1",
+    "item_code": "6221073004991",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf9/hb8/49404212772894/583124_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_829",
+    "internal_code": "387408",
+    "name": "لوكر نابوليتانر ويفر - 90 جم",
+    "barcode": "8000380153442",
+    "item_type": "GS1",
+    "item_code": "8000380153442",
+    "unit_type": "",
+    "price": 96.0,
+    "cost": 96.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc0/hc3/14489236570142/387408_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_832",
+    "internal_code": "612155",
+    "name": "بسكويت نوتيلا - 3 قطع",
+    "barcode": "8000500359358",
+    "item_type": "GS1",
+    "item_code": "8000500359358",
+    "unit_type": "",
+    "price": 35.0,
+    "cost": 35.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h05/h7e/49803167105054/612155_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_860",
+    "internal_code": "436006",
+    "name": "اولكر فينجر بسكويت سادة - 36 جرام",
+    "barcode": "6223003803308",
+    "item_type": "GS1",
+    "item_code": "6223003803308",
+    "unit_type": "",
+    "price": 4.7,
+    "cost": 4.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2f/hf8/14595754786846/436006_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_861",
+    "internal_code": "665189",
+    "name": "بسكويت ماكفيتيز دايجستف بالكراميل - 28 جم",
+    "barcode": "6222024107112",
+    "item_type": "GS1",
+    "item_code": "6222024107112",
+    "unit_type": "",
+    "price": 9.6,
+    "cost": 9.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665189/1763466006/665189_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_866",
+    "internal_code": "73001",
+    "name": "بسكاتو بسكويت بكريمة الكسترد - 8 قطع",
+    "barcode": "6223001161165",
+    "item_type": "GS1",
+    "item_code": "6223001161165",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h16/h5a/9208808701982/73001_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_878",
+    "internal_code": "617259",
+    "name": "ألكر بسكويت جامبو - 96 جرام - 6 قطع",
+    "barcode": "6222024102414",
+    "item_type": "GS1",
+    "item_code": "6222024102414",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/617259/1735147803/617259_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1031",
+    "internal_code": "349400",
+    "name": "لواكر كوادراتيني ويفر بالاسبريسو - 110 جم",
+    "barcode": "8000380147144",
+    "item_type": "GS1",
+    "item_code": "8000380147144",
+    "unit_type": "",
+    "price": 160.0,
+    "cost": 160.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/349400/1728385204/349400_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1032",
+    "internal_code": "626968",
+    "name": "فريسكا شوكو ستيكس ويفر - 4 ويفر",
+    "barcode": "6223000553626",
+    "item_type": "GS1",
+    "item_code": "6223000553626",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/626968/1733149803/626968_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1043",
+    "internal_code": "537604",
+    "name": "بسكويت بسكو مصر لوكس سادة - 12 قطعة",
+    "barcode": "6222001180565",
+    "item_type": "GS1",
+    "item_code": "6222001180565",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h61/h14/48744148107294/537604_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1071",
+    "internal_code": "19398",
+    "name": "لوكر كوادراتيني نابوليتانر ويفر - 125 جم",
+    "barcode": "8000380005918",
+    "item_type": "GS1",
+    "item_code": "8000380005918",
+    "unit_type": "",
+    "price": 159.0,
+    "cost": 159.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h71/he0/14489229000734/19398_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1100",
+    "internal_code": "467307",
+    "name": "بسكويت نواعم سادة - 84 جرام - 12 قطعة",
+    "barcode": "6221030003500",
+    "item_type": "GS1",
+    "item_code": "6221030003500",
+    "unit_type": "",
+    "price": 57.0,
+    "cost": 57.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb2/h81/15474411208734/467307_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1106",
+    "internal_code": "340136",
+    "name": "ميربا براونيز كوكيز - 150 جم",
+    "barcode": "8710502260025",
+    "item_type": "GS1",
+    "item_code": "8710502260025",
+    "unit_type": "",
+    "price": 118.2,
+    "cost": 118.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1c/hd8/49347559358494/340136_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1122",
+    "internal_code": "349399",
+    "name": "لواكر كوادراتيني ويفر ميني بالاسبريسو - 110 جم",
+    "barcode": "8000380140541",
+    "item_type": "GS1",
+    "item_code": "8000380140541",
+    "unit_type": "",
+    "price": 160.0,
+    "cost": 160.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h66/h6b/14569485271070/349399_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1125",
+    "internal_code": "84928",
+    "name": "لوكر ويفر بكريمة الكاكاو - 45 جم",
+    "barcode": "80001263",
+    "item_type": "GS1",
+    "item_code": "80001263",
+    "unit_type": "",
+    "price": 48.0,
+    "cost": 48.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/84928/1759240807/84928_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1127",
+    "internal_code": "387409",
+    "name": "لوكر ويفر بكريمة الكاكاو - 90 جم",
+    "barcode": "8000380153466",
+    "item_type": "GS1",
+    "item_code": "8000380153466",
+    "unit_type": "",
+    "price": 96.0,
+    "cost": 96.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdf/hdf/14489237192734/387409_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1156",
+    "internal_code": "583118",
+    "name": "كورونا مونشي بسكويت ويفر بالكراميل - 1 قطعة",
+    "barcode": "6221073005028",
+    "item_type": "GS1",
+    "item_code": "6221073005028",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h63/h6c/49404202418206/583118_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1208",
+    "internal_code": "467308",
+    "name": "بسكويت نواعم سادة - 48 جرام",
+    "barcode": "6221030004392",
+    "item_type": "GS1",
+    "item_code": "6221030004392",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf5/h7a/15474411012126/467308_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1233",
+    "internal_code": "653797",
+    "name": "ويفر لوكر نابوليتانر  - 54 جرام",
+    "barcode": "80885559",
+    "item_type": "GS1",
+    "item_code": "80885559",
+    "unit_type": "",
+    "price": 73.0,
+    "cost": 73.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653797/1756730877/653797_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1238",
+    "internal_code": "646448",
+    "name": "سنيكرز ويفر رول - 24 جرام - 12 قطعة",
+    "barcode": "6221134010473",
+    "item_type": "GS1",
+    "item_code": "6221134010473",
+    "unit_type": "",
+    "price": 144.0,
+    "cost": 144.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646448/1735630204/646448_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1260",
+    "internal_code": "657415",
+    "name": "بسكويت أونيرو تيبكس - 18 قطعة",
+    "barcode": "6223000557174",
+    "item_type": "GS1",
+    "item_code": "6223000557174",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/657415/1752152405/657415_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1264",
+    "internal_code": "651473",
+    "name": "بسكويت ساندويتش لوتس بسكوف بالكريمة - 150 جم",
+    "barcode": "5410126006360",
+    "item_type": "GS1",
+    "item_code": "5410126006360",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651473/1759151250/651473_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1268",
+    "internal_code": "578093",
+    "name": "لواكر بسكويت مينيز ميكس - 150 جرام",
+    "barcode": "8000380184644",
+    "item_type": "GS1",
+    "item_code": "8000380184644",
+    "unit_type": "",
+    "price": 255.0,
+    "cost": 255.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/578093/1728482404/578093_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1291",
+    "internal_code": "245748",
+    "name": "لاجو بوكر ويفر بالكاكاو - 45 جم",
+    "barcode": "8004800023001",
+    "item_type": "GS1",
+    "item_code": "8004800023001",
+    "unit_type": "",
+    "price": 29.0,
+    "cost": 29.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha0/h0a/49347548577822/245748_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1307",
+    "internal_code": "576302",
+    "name": "فريسكا ويفر شوكو ستيكس - 20 جرام",
+    "barcode": "6223000495452",
+    "item_type": "GS1",
+    "item_code": "6223000495452",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha8/hb4/49986437742622/576302_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1331",
+    "internal_code": "649675",
+    "name": "بسكويت بيكيز سادة - 20 بسكوتة",
+    "barcode": "6223014381345",
+    "item_type": "GS1",
+    "item_code": "6223014381345",
+    "unit_type": "",
+    "price": 11.0,
+    "cost": 11.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649675/1740658803/649675_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1339",
+    "internal_code": "529913",
+    "name": "بسكويت نستله فيتنس كلاسيك، 30 جم - 12 عبوة",
+    "barcode": "6221007041016",
+    "item_type": "GS1",
+    "item_code": "6221007041016",
+    "unit_type": "",
+    "price": 83.4,
+    "cost": 83.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/529913/1751800203/529913_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1345",
+    "internal_code": "424133",
+    "name": "بالسن هيت بسكويت بكريمه الكاكاو - 220 جم",
+    "barcode": "4017100364174",
+    "item_type": "GS1",
+    "item_code": "4017100364174",
+    "unit_type": "",
+    "price": 175.8,
+    "cost": 175.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3e/h9d/14489440354334/424133_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1356",
+    "internal_code": "501067",
+    "name": "ويفر لاجو ميني بارتي بكريمة الكاكاو - 125 جرام",
+    "barcode": "8004800003409",
+    "item_type": "GS1",
+    "item_code": "8004800003409",
+    "unit_type": "",
+    "price": 95.0,
+    "cost": 95.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h82/h16/12723470893086/501067_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1357",
+    "internal_code": "658480",
+    "name": "بسكويت ماكفيتيز جوي بالكراميل و التوفى",
+    "barcode": "6222024106634",
+    "item_type": "GS1",
+    "item_code": "6222024106634",
+    "unit_type": "",
+    "price": 8.5,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658480/1756026004/658480_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1377",
+    "internal_code": "616717",
+    "name": "بسكو مصر نايس بسكويت بجوز الهند - 6 قطع",
+    "barcode": "6222001100341",
+    "item_type": "GS1",
+    "item_code": "6222001100341",
+    "unit_type": "",
+    "price": 5.8,
+    "cost": 5.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd9/he2/50311396261918/616717_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1384",
+    "internal_code": "95219",
+    "name": "لواكر كريمكاكاو ويفر ميني بكريمة الكاكاو - 150 جم",
+    "barcode": "8000380001040",
+    "item_type": "GS1",
+    "item_code": "8000380001040",
+    "unit_type": "",
+    "price": 255.0,
+    "cost": 255.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h02/h1b/10065718575134/95219_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1388",
+    "internal_code": "84929",
+    "name": "لوكر نابوليتانر ويفر بالجوز - 45 جم",
+    "barcode": "80001218",
+    "item_type": "GS1",
+    "item_code": "80001218",
+    "unit_type": "",
+    "price": 48.0,
+    "cost": 48.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/84929/1759240807/84929_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1438",
+    "internal_code": "628358",
+    "name": "باونتي ويفر رولز - 22.5 جم - 12 قطعة",
+    "barcode": "6221134013658",
+    "item_type": "GS1",
+    "item_code": "6221134013658",
+    "unit_type": "",
+    "price": 119.4,
+    "cost": 119.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9e/h51/62786098462750/628358_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1472",
+    "internal_code": "646426",
+    "name": "بسكويت اونيرو تي بكس - 9 بسكوتة",
+    "barcode": "6223000556351",
+    "item_type": "GS1",
+    "item_code": "6223000556351",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646426/1735038004/646426_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1515",
+    "internal_code": "649677",
+    "name": "بسكويت بيكيز ماري ساده - 27 بسكوتة",
+    "barcode": "6223014381680",
+    "item_type": "GS1",
+    "item_code": "6223014381680",
+    "unit_type": "",
+    "price": 10.5,
+    "cost": 10.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649677/1748943003/649677_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1532",
+    "internal_code": "658566",
+    "name": "بسكويت ماكفيتيز جوي بنكهه التشيز كيك توت - عبوة من 6 قطع",
+    "barcode": "6222024106610",
+    "item_type": "GS1",
+    "item_code": "6222024106610",
+    "unit_type": "",
+    "price": 55.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658566/1756026004/658566_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1536",
+    "internal_code": "644701",
+    "name": "مكفيتيز دايجيستيف بسكويت ميني - 12 قطعة",
+    "barcode": "6222024104876",
+    "item_type": "GS1",
+    "item_code": "6222024104876",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/644701/1740402004/644701_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1537",
+    "internal_code": "501069",
+    "name": "لاجو سافوياردى بسكويت فينجر - 200 جرام",
+    "barcode": "8004800008152",
+    "item_type": "GS1",
+    "item_code": "8004800008152",
+    "unit_type": "",
+    "price": 115.5,
+    "cost": 115.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha0/hba/49347561881630/501069_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1574",
+    "internal_code": "658695",
+    "name": "كوكيز أونيرو بالشوكولاته - 9 قطع",
+    "barcode": "6223000557150",
+    "item_type": "GS1",
+    "item_code": "6223000557150",
+    "unit_type": "",
+    "price": 48.0,
+    "cost": 48.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658695/1753873206/658695_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1591",
+    "internal_code": "597209",
+    "name": "اولكر بسكويت محشو بالتمر - 54 جرام",
+    "barcode": "6222024104531",
+    "item_type": "GS1",
+    "item_code": "6222024104531",
+    "unit_type": "",
+    "price": 6.8,
+    "cost": 6.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/597209/1747906203/597209_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1605",
+    "internal_code": "455899",
+    "name": "بسكويت لوكس بسكو مصر بالكاكاو - 8 قطع",
+    "barcode": "6222001180275",
+    "item_type": "GS1",
+    "item_code": "6222001180275",
+    "unit_type": "",
+    "price": 4.3,
+    "cost": 4.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h74/hcc/48744146927646/455899_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1635",
+    "internal_code": "589190",
+    "name": "بيمبو ميني جولد بسكويت - لارج - 1 قطعة",
+    "barcode": "6221073001389",
+    "item_type": "GS1",
+    "item_code": "6221073001389",
+    "unit_type": "",
+    "price": 3.5,
+    "cost": 3.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4d/h69/50421436350494/589190_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1646",
+    "internal_code": "649676",
+    "name": "بيكيز بسكويت ماري ساده - 27 بسكوتة - 6 باكو",
+    "barcode": "6223014381697",
+    "item_type": "GS1",
+    "item_code": "6223014381697",
+    "unit_type": "",
+    "price": 63.0,
+    "cost": 63.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649676/1748943003/649676_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1652",
+    "internal_code": "405750",
+    "name": "بسكويت سادة نواعم - 65 جم - 6 قطع",
+    "barcode": "6221030002091",
+    "item_type": "GS1",
+    "item_code": "6221030002091",
+    "unit_type": "",
+    "price": 39.0,
+    "cost": 39.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h08/h89/15224990924830/405750_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1664",
+    "internal_code": "657414",
+    "name": "بسكويت اونيرو تي بكس - 18 بسكوتة - 6 باكيت",
+    "barcode": "6223000557181",
+    "item_type": "GS1",
+    "item_code": "6223000557181",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/657414/1757584806/657414_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1735",
+    "internal_code": "617258",
+    "name": "اولكر فينجر بسكويت سادة جامبو - 96 جرام",
+    "barcode": "6222024102407",
+    "item_type": "GS1",
+    "item_code": "6222024102407",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/617258/1735153803/617258_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1748",
+    "internal_code": "337099",
+    "name": "بسكويت لوكس سادة من بسكو مصر - 12 قطعة",
+    "barcode": "6222001180077",
+    "item_type": "GS1",
+    "item_code": "6222001180077",
+    "unit_type": "",
+    "price": 49.0,
+    "cost": 49.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h84/he7/14595741679646/337099_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1793",
+    "internal_code": "325042",
+    "name": "بسكويت ماري تيفاني - 80جم",
+    "barcode": "6291003000102",
+    "item_type": "GS1",
+    "item_code": "6291003000102",
+    "unit_type": "",
+    "price": 22.0,
+    "cost": 22.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h32/h19/49347551723550/325042_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1820",
+    "internal_code": "646449",
+    "name": "سنيكرز ويفر رول - 24 جرام",
+    "barcode": "6221134010619",
+    "item_type": "GS1",
+    "item_code": "6221134010619",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 12.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646449/1759149004/646449_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1840",
+    "internal_code": "658487",
+    "name": "بسكويت ماكفيتيز جوي بالكراميل و التوفى - 6 عبوه",
+    "barcode": "6222024106641",
+    "item_type": "GS1",
+    "item_code": "6222024106641",
+    "unit_type": "",
+    "price": 55.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658487/1756026004/658487_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1864",
+    "internal_code": "616716",
+    "name": "بسكو مصر نايس بسكويت بجوز الهند - 6 قطع - 12 باكيت",
+    "barcode": "6222001100358",
+    "item_type": "GS1",
+    "item_code": "6222001100358",
+    "unit_type": "",
+    "price": 69.0,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/616716/1772609400/616716_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1870",
+    "internal_code": "649679",
+    "name": "بسكويت بيكيز فينجر - 9 بسكوتة",
+    "barcode": "6223014381581",
+    "item_type": "GS1",
+    "item_code": "6223014381581",
+    "unit_type": "",
+    "price": 5.6,
+    "cost": 5.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649679/1748943003/649679_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1876",
+    "internal_code": "464891",
+    "name": "بسكو مصر بسكويت داتو كينج بالتمر - 4 قطع",
+    "barcode": "6222001103526",
+    "item_type": "GS1",
+    "item_code": "6222001103526",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/heb/h78/17365643067422/464891_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2137",
+    "internal_code": "646425",
+    "name": "بسكويت اونيرو تي بكس - 9 بسكوتة - 12 قطعة",
+    "barcode": "6223000556368",
+    "item_type": "GS1",
+    "item_code": "6223000556368",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646425/1736947803/646425_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2152",
+    "internal_code": "347237",
+    "name": "بسكويت فورنو بونومي سافوياردي - 400 جرام",
+    "barcode": "8002720003257",
+    "item_type": "GS1",
+    "item_code": "8002720003257",
+    "unit_type": "",
+    "price": 200.0,
+    "cost": 200.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/347237/1740562203/347237_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2190",
+    "internal_code": "622629",
+    "name": "بسكويت أوريو - 122.5 جرام",
+    "barcode": "7622202832642",
+    "item_type": "GS1",
+    "item_code": "7622202832642",
+    "unit_type": "",
+    "price": 22.0,
+    "cost": 22.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/622629/1765893603/622629_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2201",
+    "internal_code": "583125",
+    "name": "منشي بسكويت ويفر بكريمة الفراولة - 1* 12 قطعة",
+    "barcode": "6221073005004",
+    "item_type": "GS1",
+    "item_code": "6221073005004",
+    "unit_type": "",
+    "price": 71.4,
+    "cost": 71.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h37/h8f/49404207988766/583125_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2384",
+    "internal_code": "560941",
+    "name": "العبد بسكويت بجوز الهند - 18 قطعة",
+    "barcode": "6224008630609",
+    "item_type": "GS1",
+    "item_code": "6224008630609",
+    "unit_type": "",
+    "price": 60.5,
+    "cost": 60.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5d/h7f/31478860283934/560941_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2403",
+    "internal_code": "601910",
+    "name": "فروتسي بسكويت بالتمر - 4 قطع",
+    "barcode": "6223007946087",
+    "item_type": "GS1",
+    "item_code": "6223007946087",
+    "unit_type": "",
+    "price": 9.5,
+    "cost": 9.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3c/hae/48899736371230/601910_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2445",
+    "internal_code": "652350",
+    "name": "ويفر تيترا لاتو كلاسيك محشو بكريمة الليمون - 35 جرام",
+    "barcode": "6223007633796",
+    "item_type": "GS1",
+    "item_code": "6223007633796",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652350/1756297803/652350_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2478",
+    "internal_code": "529912",
+    "name": "فيتنس بسكويت كلاسيك - 30 جم",
+    "barcode": "6221007041009",
+    "item_type": "GS1",
+    "item_code": "6221007041009",
+    "unit_type": "",
+    "price": 7.0,
+    "cost": 7.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/529912/1751800203/529912_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2501",
+    "internal_code": "644700",
+    "name": "بسكويت مكفيتيز دايجيستيف مينيز - 16 بسكوته",
+    "barcode": "6222024104869",
+    "item_type": "GS1",
+    "item_code": "6222024104869",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/644700/1759149004/644700_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2505",
+    "internal_code": "570261",
+    "name": "اكسترا بى كوكونت بسكويت بجوز الهند - 45 جم",
+    "barcode": "6223007374101",
+    "item_type": "GS1",
+    "item_code": "6223007374101",
+    "unit_type": "",
+    "price": 6.5,
+    "cost": 6.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/570261/1732629603/570261_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2706",
+    "internal_code": "456884",
+    "name": "شمعدان ميجا ويفر - 4 قطع",
+    "barcode": "6221030003623",
+    "item_type": "GS1",
+    "item_code": "6221030003623",
+    "unit_type": "",
+    "price": 8.1,
+    "cost": 8.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc4/h5e/64890744832030/456884_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2759",
+    "internal_code": "664074",
+    "name": "بسكويت نوفي سادة",
+    "barcode": "6222035254652",
+    "item_type": "GS1",
+    "item_code": "6222035254652",
+    "unit_type": "",
+    "price": 5.3,
+    "cost": 5.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664074/1759411804/664074_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2802",
+    "internal_code": "337100",
+    "name": "بسكويت لوكس سادة من بسكو مصر",
+    "barcode": "6222001180060",
+    "item_type": "GS1",
+    "item_code": "6222001180060",
+    "unit_type": "",
+    "price": 4.3,
+    "cost": 4.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h83/hd2/48744146796574/337100_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2830",
+    "internal_code": "583122",
+    "name": "كورونا مونشي بسكويت ويفر بجوز الهند - 1 قطعة",
+    "barcode": "6221073004960",
+    "item_type": "GS1",
+    "item_code": "6221073004960",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdd/h9d/49404209922078/583122_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2874",
+    "internal_code": "557087",
+    "name": "ويفر لواكر كريم نويسيت - 21 جرام",
+    "barcode": "80820956",
+    "item_type": "GS1",
+    "item_code": "80820956",
+    "unit_type": "",
+    "price": 46.5,
+    "cost": 46.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf5/h9e/14895095185438/557087_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2875",
+    "internal_code": "230349",
+    "name": "بسكويت تيفاني بكريمة الفراولة - 84جم",
+    "barcode": "6291003003165",
+    "item_type": "GS1",
+    "item_code": "6291003003165",
+    "unit_type": "",
+    "price": 17.3,
+    "cost": 17.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h32/hde/49332894564382/230349_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2891",
+    "internal_code": "563942",
+    "name": "ويفر بووالفراولة - قطعة",
+    "barcode": "6223007942904",
+    "item_type": "GS1",
+    "item_code": "6223007942904",
+    "unit_type": "",
+    "price": 5.3,
+    "cost": 5.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7f/h8e/34674254938142/563942_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2959",
+    "internal_code": "651470",
+    "name": "بسكويت ساندويتش لوتس بسكوف بالكريمة - 50 جم",
+    "barcode": "54010659",
+    "item_type": "GS1",
+    "item_code": "54010659",
+    "unit_type": "",
+    "price": 43.7,
+    "cost": 43.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651470/1742809203/651470_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2970",
+    "internal_code": "19408",
+    "name": "لوكر ويفر تورتينا  أصلي - 21 جم",
+    "barcode": "80001027",
+    "item_type": "GS1",
+    "item_code": "80001027",
+    "unit_type": "",
+    "price": 49.5,
+    "cost": 49.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1a/he0/14489229033502/19408_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2972",
+    "internal_code": "337273",
+    "name": "بسكويت بكريمة جوز الهند تيفاني - 84 جم",
+    "barcode": "6291003003219",
+    "item_type": "GS1",
+    "item_code": "6291003003219",
+    "unit_type": "",
+    "price": 17.3,
+    "cost": 17.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/337273/1735800004/337273_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2976",
+    "internal_code": "230350",
+    "name": "بسكويت تيفاني بكريمة الكسترد - 84جم",
+    "barcode": "6291003003202",
+    "item_type": "GS1",
+    "item_code": "6291003003202",
+    "unit_type": "",
+    "price": 17.3,
+    "cost": 17.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/had/hc1/49332893810718/230350_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2996",
+    "internal_code": "529914",
+    "name": "فيتنس بسكويت بالتفاح - 30 جم",
+    "barcode": "6221007041030",
+    "item_type": "GS1",
+    "item_code": "6221007041030",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 9.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/529914/1751800203/529914_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2997",
+    "internal_code": "594891",
+    "name": "بو ويفر بجوز الهند - 1 قطعة",
+    "barcode": "6223007944090",
+    "item_type": "GS1",
+    "item_code": "6223007944090",
+    "unit_type": "",
+    "price": 5.3,
+    "cost": 5.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1c/hb9/34674358288414/594891_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3012",
+    "internal_code": "652352",
+    "name": "ويفر تيترا لاتو كلاسيك محشو بكريمة المانجو - 35 جرام",
+    "barcode": "6223007633826",
+    "item_type": "GS1",
+    "item_code": "6223007633826",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652352/1756297803/652352_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3165",
+    "internal_code": "668077",
+    "name": "ويفر فرسكا بلوك بكريمة الكاكاو",
+    "barcode": "6223000555682",
+    "item_type": "GS1",
+    "item_code": "6223000555682",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/668077/1765461604/668077_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3166",
+    "internal_code": "665191",
+    "name": "بسكويت ماكفيتيز دايجستف ميني بالكراميل - 40 جم",
+    "barcode": "6222024107143",
+    "item_type": "GS1",
+    "item_code": "6222024107143",
+    "unit_type": "",
+    "price": 15.8,
+    "cost": 15.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665191/1763466006/665191_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3188",
+    "internal_code": "668078",
+    "name": "ويفر فرسكا بلوك بكريمة الكاكاو - 12 قطعة",
+    "barcode": "6223000555699",
+    "item_type": "GS1",
+    "item_code": "6223000555699",
+    "unit_type": "",
+    "price": 118.8,
+    "cost": 118.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/668078/1765461604/668078_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3204",
+    "internal_code": "669340",
+    "name": "لفائف ويفر بالشوكولاته ديدوس - 28 جرام - 12 قطعة\n\n",
+    "barcode": "6224003288478",
+    "item_type": "GS1",
+    "item_code": "6224003288478",
+    "unit_type": "",
+    "price": 166.0,
+    "cost": 166.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/669340/1769517000/669340_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3222",
+    "internal_code": "664071",
+    "name": "ويفر ماجيك فينجرز المحشو بكريمة جوز الهند - 6 قطع",
+    "barcode": "6222035254256",
+    "item_type": "GS1",
+    "item_code": "6222035254256",
+    "unit_type": "",
+    "price": 65.8,
+    "cost": 65.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664071/1759916404/664071_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3233",
+    "internal_code": "668800",
+    "name": "ويفر رول سنيكرز - 24 جرام - 5 قطع",
+    "barcode": "6221134031881",
+    "item_type": "GS1",
+    "item_code": "6221134031881",
+    "unit_type": "",
+    "price": 50.7,
+    "cost": 50.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/668800/1768115400/668800_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3237",
+    "internal_code": "669337",
+    "name": "بسكويت ديدوالاصلى بالفواكه- 16 جرام",
+    "barcode": "6224003288096",
+    "item_type": "GS1",
+    "item_code": "6224003288096",
+    "unit_type": "",
+    "price": 5.8,
+    "cost": 8.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/669337/1768738200/669337_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3240",
+    "internal_code": "669335",
+    "name": "بسكويت ديدوالاصلى بالفواكه- 16 جرام",
+    "barcode": "6224003288010",
+    "item_type": "GS1",
+    "item_code": "6224003288010",
+    "unit_type": "",
+    "price": 5.8,
+    "cost": 8.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/669335/1768738200/669335_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3251",
+    "internal_code": "669336",
+    "name": "بسكويت ديدوالاصلى بالفواكه- 16 جرام - 16 قطعة",
+    "barcode": "6224003288102",
+    "item_type": "GS1",
+    "item_code": "6224003288102",
+    "unit_type": "",
+    "price": 92.0,
+    "cost": 130.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/669336/1768738200/669336_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3262",
+    "internal_code": "665190",
+    "name": "بسكويت ماكفيتيز دايجستف جولد بالكراميل - 28 جرام - 12 عبوه",
+    "barcode": "6222024107129",
+    "item_type": "GS1",
+    "item_code": "6222024107129",
+    "unit_type": "",
+    "price": 130.8,
+    "cost": 130.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665190/1763897404/665190_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3295",
+    "internal_code": "668874",
+    "name": "بسكويت هيلثي ميل بالهيل - 70 جم",
+    "barcode": "6223000226100",
+    "item_type": "GS1",
+    "item_code": "6223000226100",
+    "unit_type": "",
+    "price": 16.4,
+    "cost": 16.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/668874/1771490400/668874_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3299",
+    "internal_code": "669328",
+    "name": "كوكيز ديدوز بالكاكاو والفواكه - 16 قطعة",
+    "barcode": "6224003288089",
+    "item_type": "GS1",
+    "item_code": "6224003288089",
+    "unit_type": "",
+    "price": 92.0,
+    "cost": 130.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/669328/1773216600/669328_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3300",
+    "internal_code": "664075",
+    "name": "بسكويت نوفي سادة - 6 قطع",
+    "barcode": "6222035254669",
+    "item_type": "GS1",
+    "item_code": "6222035254669",
+    "unit_type": "",
+    "price": 65.3,
+    "cost": 65.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664075/1760277605/664075_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

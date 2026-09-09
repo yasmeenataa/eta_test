@@ -1,0 +1,212 @@
+[
+  {
+    "id": "prod_394",
+    "internal_code": "469991",
+    "name": "ايس كريم شوكولاتة دريم - 200 جم",
+    "barcode": "6223003942854",
+    "item_type": "GS1",
+    "item_code": "6223003942854",
+    "unit_type": "",
+    "price": 46.0,
+    "cost": 46.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/469991/1748515204/469991_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_571",
+    "internal_code": "26534",
+    "name": "ايس كريم فراولة دريم - 80 جم",
+    "barcode": "6223001085935",
+    "item_type": "GS1",
+    "item_code": "6223001085935",
+    "unit_type": "",
+    "price": 23.8,
+    "cost": 23.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h55/ha4/14595739353118/26534_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_622",
+    "internal_code": "197661",
+    "name": " ايس كريم مانجو 5 مينيتس - 75 جم",
+    "barcode": "6223003290528",
+    "item_type": "GS1",
+    "item_code": "6223003290528",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/h81/32699403632670/197661_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_659",
+    "internal_code": "197664",
+    "name": "ايس كريم بالفستق من 5 مينتس - 75 جم",
+    "barcode": "6223003290542",
+    "item_type": "GS1",
+    "item_code": "6223003290542",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha9/hbf/32699405041694/197664_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_698",
+    "internal_code": "133417",
+    "name": "ايس كريم مانجو دريم - 80 جم",
+    "barcode": "6223001085942",
+    "item_type": "GS1",
+    "item_code": "6223001085942",
+    "unit_type": "",
+    "price": 23.8,
+    "cost": 23.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h93/h51/14595011313694/133417_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1679",
+    "internal_code": "365416",
+    "name": "بيبيتو حلوى جيلى شكل آيس كريم - 80 جرام",
+    "barcode": "8690146123637",
+    "item_type": "GS1",
+    "item_code": "8690146123637",
+    "unit_type": "",
+    "price": 30.0,
+    "cost": 35.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5b/h98/10778768048158/365416_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2539",
+    "internal_code": "390061",
+    "name": "ايس كريم مانجو من 5 مينتس - 200 جم",
+    "barcode": "6223003292232",
+    "item_type": "GS1",
+    "item_code": "6223003292232",
+    "unit_type": "",
+    "price": 49.3,
+    "cost": 49.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd0/hfb/32699409629214/390061_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2542",
+    "internal_code": "336729",
+    "name": "ايس كريم بالفانيليا من 5 مينتس - 200 جم",
+    "barcode": "6223003291907",
+    "item_type": "GS1",
+    "item_code": "6223003291907",
+    "unit_type": "",
+    "price": 49.3,
+    "cost": 49.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h09/h06/32699410251806/336729_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2551",
+    "internal_code": "197663",
+    "name": " ايس كريم كراميل 5 مينيتس - 80 جم",
+    "barcode": "6223003290566",
+    "item_type": "GS1",
+    "item_code": "6223003290566",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/hee/32699404714014/197663_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

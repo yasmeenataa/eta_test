@@ -1,0 +1,4226 @@
+[
+  {
+    "id": "prod_004",
+    "internal_code": "16904",
+    "name": "مكرونة اسباجتي الملكة - 400 جرام",
+    "barcode": "6223001512530",
+    "item_type": "GS1",
+    "item_code": "6223001512530",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/16904/1767522600/16904_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_006",
+    "internal_code": "46905",
+    "name": "مكرونة مرمرية الملكة - 400 جم",
+    "barcode": "6223001512479",
+    "item_type": "GS1",
+    "item_code": "6223001512479",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h95/h14/48236821512222/46905_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_020",
+    "internal_code": "16891",
+    "name": "مكرونة سباجتي ايطاليانو - 400 جرام",
+    "barcode": "6223001510000",
+    "item_type": "GS1",
+    "item_code": "6223001510000",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/16891/1750163403/16891_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_043",
+    "internal_code": "544722",
+    "name": "ايطاليانو اسباجيتي باستا - 1 كجم",
+    "barcode": "6223001513933",
+    "item_type": "GS1",
+    "item_code": "6223001513933",
+    "unit_type": "",
+    "price": 54.2,
+    "cost": 54.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha3/h2f/27538772394014/544722_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_048",
+    "internal_code": "544720",
+    "name": "ايطاليانو مكرونة مرمرية - 1 كيلو",
+    "barcode": "6223001513919",
+    "item_type": "GS1",
+    "item_code": "6223001513919",
+    "unit_type": "",
+    "price": 54.2,
+    "cost": 54.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc3/h82/14610304761886/544720_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_058",
+    "internal_code": "32842",
+    "name": "شعيرية مقلية إندومي - 80 جرام",
+    "barcode": "89686120714",
+    "item_type": "GS1",
+    "item_code": "89686120714",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7d/h7e/10065706778654/32842_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_074",
+    "internal_code": "411459",
+    "name": "ايطاليانو مكرونة فيوزيللى - 400 جم",
+    "barcode": "6223001510819",
+    "item_type": "GS1",
+    "item_code": "6223001510819",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/411459/1750251603/411459_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_075",
+    "internal_code": "16901",
+    "name": "مكرونة مرمرية إيطاليانو - 400جم",
+    "barcode": "6223001510109",
+    "item_type": "GS1",
+    "item_code": "6223001510109",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/16901/1750163403/16901_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_078",
+    "internal_code": "617928",
+    "name": "الملكة مكرونة هلالية - 400 جرام",
+    "barcode": "6223001510659",
+    "item_type": "GS1",
+    "item_code": "6223001510659",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/617928/1750251603/617928_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_086",
+    "internal_code": "411452",
+    "name": "إيطاليانو مكرونة فيتوتشيني - 400جم",
+    "barcode": "6223001510772",
+    "item_type": "GS1",
+    "item_code": "6223001510772",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8e/h2b/14609987633182/411452_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_087",
+    "internal_code": "32840",
+    "name": "نودلز إندومي بطعم الدجاج - 75 جم",
+    "barcode": "89686120196",
+    "item_type": "GS1",
+    "item_code": "89686120196",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/32840/1757845802/32840_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_089",
+    "internal_code": "32838",
+    "name": "نودلز إندومي سريعة التحضير بطعم الدجاج بالكاري - 70جم",
+    "barcode": "89686120134",
+    "item_type": "GS1",
+    "item_code": "89686120134",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2a/hc4/48061337436190/32838_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_104",
+    "internal_code": "466768",
+    "name": "نودلز إندومي سوبرمي بطعم خضار - 70 جرام",
+    "barcode": "5285000395164",
+    "item_type": "GS1",
+    "item_code": "5285000395164",
+    "unit_type": "",
+    "price": 6.8,
+    "cost": 6.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9a/hd7/17010130583582/466768_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_106",
+    "internal_code": "131615",
+    "name": "مكرونة اسباجيتى من الملكة - 1 كجم",
+    "barcode": "6223001510499",
+    "item_type": "GS1",
+    "item_code": "6223001510499",
+    "unit_type": "",
+    "price": 34.0,
+    "cost": 34.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfd/h17/48236821413918/131615_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_129",
+    "internal_code": "411458",
+    "name": "مكرونة اصداف ايطاليانو - 400 جرام",
+    "barcode": "6223001510802",
+    "item_type": "GS1",
+    "item_code": "6223001510802",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/411458/1750163403/411458_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_138",
+    "internal_code": "544721",
+    "name": "شعيرية إيطاليانو - 1 كجم",
+    "barcode": "6223001513926",
+    "item_type": "GS1",
+    "item_code": "6223001513926",
+    "unit_type": "",
+    "price": 54.2,
+    "cost": 54.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcb/h36/27538772164638/544721_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_181",
+    "internal_code": "32836",
+    "name": "نودلز اندومي بالدجاج سريعة التحضير - 70 جم",
+    "barcode": "89686120073",
+    "item_type": "GS1",
+    "item_code": "89686120073",
+    "unit_type": "",
+    "price": 6.8,
+    "cost": 6.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h08/hcd/49487043493918/32836_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_185",
+    "internal_code": "52770",
+    "name": "نودلز إندومي سريعة التحضير بطعم اللحم البقري - 70جم",
+    "barcode": "89686171372",
+    "item_type": "GS1",
+    "item_code": "89686171372",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc0/hc9/14623224332318/52770_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_228",
+    "internal_code": "482074",
+    "name": "إندومي شعيرية سريعة التحضير بطعم اللحمة - 70 جرام",
+    "barcode": "5285000396437",
+    "item_type": "GS1",
+    "item_code": "5285000396437",
+    "unit_type": "",
+    "price": 6.8,
+    "cost": 6.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h47/h54/17010133041182/482074_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_296",
+    "internal_code": "619469",
+    "name": "دون لوبيز مكرونة الشوفان - اسباجيتي - 400 جرام",
+    "barcode": "6224008467748",
+    "item_type": "GS1",
+    "item_code": "6224008467748",
+    "unit_type": "",
+    "price": 79.8,
+    "cost": 79.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5a/hb3/51327992561694/619469_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_340",
+    "internal_code": "603777",
+    "name": "جولدن رويال مكرونة مرمرية - 375 جرام",
+    "barcode": "6223005621290",
+    "item_type": "GS1",
+    "item_code": "6223005621290",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 13.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7a/h94/52427934531614/603777_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_345",
+    "internal_code": "603779",
+    "name": "جولدن رويال مكرونة فرن - 375 جرام",
+    "barcode": "6223005620903",
+    "item_type": "GS1",
+    "item_code": "6223005620903",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 13.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h69/h91/52427934466078/603779_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_380",
+    "internal_code": "411460",
+    "name": "مكرونة سربنتيني من ايطاليانو - 400 جم",
+    "barcode": "6223001510826",
+    "item_type": "GS1",
+    "item_code": "6223001510826",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/411460/1750163403/411460_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_409",
+    "internal_code": "411461",
+    "name": "ايطاليانو مكرونة خواتم - 400 جم",
+    "barcode": "6223001510833",
+    "item_type": "GS1",
+    "item_code": "6223001510833",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/411461/1750251603/411461_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_418",
+    "internal_code": "457931",
+    "name": "المطبخ مكرونة سباجيتي - 400 جم",
+    "barcode": "6223000663646",
+    "item_type": "GS1",
+    "item_code": "6223000663646",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h51/hbb/34709986082846/457931_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_420",
+    "internal_code": "355257",
+    "name": "كوب نودلز إ ندومي نودلز بطعم الكاري - 60 جم",
+    "barcode": "89686122138",
+    "item_type": "GS1",
+    "item_code": "89686122138",
+    "unit_type": "",
+    "price": 16.0,
+    "cost": 16.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6a/h4b/17010128977950/355257_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_428",
+    "internal_code": "528246",
+    "name": "ثري ستارز ايليفنت شعيرية عيدان الأرز الصينية - 400 جم",
+    "barcode": "8856429003076",
+    "item_type": "GS1",
+    "item_code": "8856429003076",
+    "unit_type": "",
+    "price": 152.0,
+    "cost": 152.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hde/hc0/14835600359454/528246_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_446",
+    "internal_code": "411456",
+    "name": "إيطاليانو مكرونة زيتي - 400جم",
+    "barcode": "6223001510789",
+    "item_type": "GS1",
+    "item_code": "6223001510789",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 24.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/411456/1750251603/411456_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_491",
+    "internal_code": "554368",
+    "name": "تيك تيك مكرونة صلصة المارينارا - 115 جم",
+    "barcode": "6224010035072",
+    "item_type": "GS1",
+    "item_code": "6224010035072",
+    "unit_type": "",
+    "price": 49.5,
+    "cost": 49.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5e/h3a/14685199761438/554368_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_510",
+    "internal_code": "46904",
+    "name": "مكرونة خواتم الملكة - 400 جرام",
+    "barcode": "6223001512158",
+    "item_type": "GS1",
+    "item_code": "6223001512158",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/46904/1750251603/46904_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_587",
+    "internal_code": "554369",
+    "name": "تيك تيك مكرونة صلصة بيضاء - 115 جم",
+    "barcode": "6224010035096",
+    "item_type": "GS1",
+    "item_code": "6224010035096",
+    "unit_type": "",
+    "price": 49.5,
+    "cost": 49.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h32/h34/14728944975902/554369_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_650",
+    "internal_code": "77384",
+    "name": "كوب نودلز إندومي بطعم الفراخ - 60جم",
+    "barcode": "89686122015",
+    "item_type": "GS1",
+    "item_code": "89686122015",
+    "unit_type": "",
+    "price": 16.0,
+    "cost": 16.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he5/hc1/17010274795550/77384_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_663",
+    "internal_code": "616937",
+    "name": "تيك تيك مكرونة سريعة التحضير - بيستو - 115 جرام",
+    "barcode": "6224010035287",
+    "item_type": "GS1",
+    "item_code": "6224010035287",
+    "unit_type": "",
+    "price": 49.5,
+    "cost": 49.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/hdb/51190629892126/616937_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_766",
+    "internal_code": "488315",
+    "name": "الملكة مكرونة لازانيا - 400جم",
+    "barcode": "6223001513339",
+    "item_type": "GS1",
+    "item_code": "6223001513339",
+    "unit_type": "",
+    "price": 27.0,
+    "cost": 27.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h09/hba/14610138857502/488315_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_839",
+    "internal_code": "648871",
+    "name": "مكرونة جولدن بريز ماك اند تشيز بكريمة البصل - 200 جم",
+    "barcode": "6224008845744",
+    "item_type": "GS1",
+    "item_code": "6224008845744",
+    "unit_type": "",
+    "price": 82.5,
+    "cost": 82.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/648871/1739700005/648871_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_845",
+    "internal_code": "561094",
+    "name": "فري مكرونة فوسيلي بالسبانخ خالية من الجلوتين - 200 جرام",
+    "barcode": "6224008845386",
+    "item_type": "GS1",
+    "item_code": "6224008845386",
+    "unit_type": "",
+    "price": 59.6,
+    "cost": 59.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h53/h13/29978962264094/561094_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_851",
+    "internal_code": "544723",
+    "name": "ايطاليانو مكرونة خواتم - 1 كجم",
+    "barcode": "6223001513940",
+    "item_type": "GS1",
+    "item_code": "6223001513940",
+    "unit_type": "",
+    "price": 54.2,
+    "cost": 54.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9c/h1b/27538772951070/544723_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_877",
+    "internal_code": "374826",
+    "name": "مكرونة سباجتي جرانورا  رقم 12 - 500 جرام",
+    "barcode": "8007290130129",
+    "item_type": "GS1",
+    "item_code": "8007290130129",
+    "unit_type": "",
+    "price": 90.7,
+    "cost": 90.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h15/h0d/50684234006558/374826_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_897",
+    "internal_code": "565260",
+    "name": "جولدن بريز مكرونة الخضروات الملونة - 400جم",
+    "barcode": "6224008845300",
+    "item_type": "GS1",
+    "item_code": "6224008845300",
+    "unit_type": "",
+    "price": 73.3,
+    "cost": 73.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h28/h8f/63474345410590/565260_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1013",
+    "internal_code": "561085",
+    "name": "لمتنا مكرونه اسباجتى -400 جم",
+    "barcode": "6224009197071",
+    "item_type": "GS1",
+    "item_code": "6224009197071",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha1/h37/15039906349086/561085_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1047",
+    "internal_code": "561083",
+    "name": "لمتنا مكرونة شعرية - 400 جم",
+    "barcode": "6224009197125",
+    "item_type": "GS1",
+    "item_code": "6224009197125",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hab/hc5/15023123726366/561083_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1055",
+    "internal_code": "375958",
+    "name": "جرانورو مكرونة فراشات - 500 جرام",
+    "barcode": "8007290330796",
+    "item_type": "GS1",
+    "item_code": "8007290330796",
+    "unit_type": "",
+    "price": 116.2,
+    "cost": 116.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcb/h8b/50684235644958/375958_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1083",
+    "internal_code": "510925",
+    "name": "لينو مكرونة الشوفان - فرن - 400 جرام",
+    "barcode": "6224008245568",
+    "item_type": "GS1",
+    "item_code": "6224008245568",
+    "unit_type": "",
+    "price": 119.9,
+    "cost": 119.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h84/h88/27008136282142/510925_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1098",
+    "internal_code": "374839",
+    "name": "جرانورو مكرونة لازانيا سيمولا - 500 جرام",
+    "barcode": "8007290331212",
+    "item_type": "GS1",
+    "item_code": "8007290331212",
+    "unit_type": "",
+    "price": 146.3,
+    "cost": 146.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h20/h7a/50777799950366/374839_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1107",
+    "internal_code": "604251",
+    "name": "جولدن ميلز مكرونة لينجويني - 500 جرام",
+    "barcode": "6221022001064",
+    "item_type": "GS1",
+    "item_code": "6221022001064",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h18/h84/47467558993950/604251_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1153",
+    "internal_code": "333031",
+    "name": "مكرونة بايب ريجينا - 400 جم",
+    "barcode": "6221022110681",
+    "item_type": "GS1",
+    "item_code": "6221022110681",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd2/h1c/27393520042014/333031_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1180",
+    "internal_code": "626982",
+    "name": "دون لوبيز مكرونة لازانيا - 400 جرام",
+    "barcode": "6224008467533",
+    "item_type": "GS1",
+    "item_code": "6224008467533",
+    "unit_type": "",
+    "price": 78.5,
+    "cost": 78.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/626982/1730283003/626982_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1186",
+    "internal_code": "604249",
+    "name": "جولدن ميلز مكرونة فيوزيللي - 500 جرام",
+    "barcode": "6221022000142",
+    "item_type": "GS1",
+    "item_code": "6221022000142",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc8/h3d/47467562500126/604249_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1354",
+    "internal_code": "603778",
+    "name": "جولدن رويال مكرونة خواتم - 375 جرام",
+    "barcode": "6223005621115",
+    "item_type": "GS1",
+    "item_code": "6223005621115",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 13.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd1/h94/52427934564382/603778_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1355",
+    "internal_code": "565259",
+    "name": "جولدن بريز مكرونة خواتم بالخضار - 400 جرام",
+    "barcode": "6224008845294",
+    "item_type": "GS1",
+    "item_code": "6224008845294",
+    "unit_type": "",
+    "price": 73.3,
+    "cost": 73.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb0/h12/29147050901534/565259_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1395",
+    "internal_code": "168794",
+    "name": "مكرونة هلالية ستار - 400 جم",
+    "barcode": "6221022111510",
+    "item_type": "GS1",
+    "item_code": "6221022111510",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb6/h96/14609967972382/168794_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1436",
+    "internal_code": "121714",
+    "name": "ستار مكرونة خواتم - 400 جرام",
+    "barcode": "6221022111428",
+    "item_type": "GS1",
+    "item_code": "6221022111428",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0b/h41/14609965809694/121714_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1462",
+    "internal_code": "561079",
+    "name": "لمتنا مكرونة فرن - 400 جم",
+    "barcode": "6224009197088",
+    "item_type": "GS1",
+    "item_code": "6224009197088",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7a/h1b/15023121334302/561079_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1468",
+    "internal_code": "561081",
+    "name": "لمتنا مكرونة خواتم - 400 جم",
+    "barcode": "6224009197095",
+    "item_type": "GS1",
+    "item_code": "6224009197095",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h67/h24/15039905759262/561081_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1516",
+    "internal_code": "434509",
+    "name": "مكرونة تويست ريجينا - 400 جم",
+    "barcode": "6221022120710",
+    "item_type": "GS1",
+    "item_code": "6221022120710",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h38/h4c/27393631256606/434509_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1544",
+    "internal_code": "492694",
+    "name": "مكرونة قواقع كبيرة ايطاليانو - 250 جم",
+    "barcode": "6223001513421",
+    "item_type": "GS1",
+    "item_code": "6223001513421",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9c/h97/9224366719006/492694_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1583",
+    "internal_code": "395193",
+    "name": "ريجينا مكرونة قواقع - 1 كجم",
+    "barcode": "6221022150533",
+    "item_type": "GS1",
+    "item_code": "6221022150533",
+    "unit_type": "",
+    "price": 57.5,
+    "cost": 57.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7b/h01/27393627553822/395193_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1589",
+    "internal_code": "550550",
+    "name": "المطبخ المصرى مكرونة مرمرية - 1كجم",
+    "barcode": "6223000663707",
+    "item_type": "GS1",
+    "item_code": "6223000663707",
+    "unit_type": "",
+    "price": 37.0,
+    "cost": 37.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h05/h3d/34709987688478/550550_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1599",
+    "internal_code": "17592",
+    "name": "مصرية مكرونة هلالية - 350 جرام",
+    "barcode": "6221022121519",
+    "item_type": "GS1",
+    "item_code": "6221022121519",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbf/he5/27393510244382/17592_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1604",
+    "internal_code": "18298",
+    "name": "صوص باستا هاينز - 365 جم",
+    "barcode": "6221033125315",
+    "item_type": "GS1",
+    "item_code": "6221033125315",
+    "unit_type": "",
+    "price": 43.6,
+    "cost": 43.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6c/h3b/14932245119006/18298_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1615",
+    "internal_code": "523394",
+    "name": "نودلز إندومي بطعم الفراخ البلدي - 70 جرام",
+    "barcode": "5285000397465",
+    "item_type": "GS1",
+    "item_code": "5285000397465",
+    "unit_type": "",
+    "price": 7.0,
+    "cost": 7.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h88/hff/15880289648670/523394_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1644",
+    "internal_code": "17587",
+    "name": "مصرية مكرونة خواتم - 350 جرام",
+    "barcode": "6221022121427",
+    "item_type": "GS1",
+    "item_code": "6221022121427",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7e/he9/27393510113310/17587_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1672",
+    "internal_code": "561080",
+    "name": "لمتنا مكرونة هلالية - 400 جم",
+    "barcode": "6224009197118",
+    "item_type": "GS1",
+    "item_code": "6224009197118",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha3/h32/15039905300510/561080_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1676",
+    "internal_code": "561084",
+    "name": "لمتنا مكرونة لسان عصقور - 400 جم",
+    "barcode": "6224009197132",
+    "item_type": "GS1",
+    "item_code": "6224009197132",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/he5/15023124119582/561084_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1681",
+    "internal_code": "251418",
+    "name": "مكرونة مرمرية الملكة - 1 كجم",
+    "barcode": "6223001510031",
+    "item_type": "GS1",
+    "item_code": "6223001510031",
+    "unit_type": "",
+    "price": 34.0,
+    "cost": 34.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h25/h0f/31370809573406/251418_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1699",
+    "internal_code": "591990",
+    "name": "يامي نودلز بالدجاج - 70 جم",
+    "barcode": "6223007943925",
+    "item_type": "GS1",
+    "item_code": "6223007943925",
+    "unit_type": "",
+    "price": 7.3,
+    "cost": 7.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcc/hc0/34674272141342/591990_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1704",
+    "internal_code": "605390",
+    "name": "مكرونة فرن شوفان الضحى - 400 جرام",
+    "barcode": "6223000663967",
+    "item_type": "GS1",
+    "item_code": "6223000663967",
+    "unit_type": "",
+    "price": 85.0,
+    "cost": 85.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h21/h68/48061338026014/605390_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1708",
+    "internal_code": "17591",
+    "name": "مكرونة ودعة مصرية - 350 جم",
+    "barcode": "6221022121526",
+    "item_type": "GS1",
+    "item_code": "6221022121526",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0b/hd1/27393510866974/17591_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1717",
+    "internal_code": "32841",
+    "name": "نودلز إندومي  بطعم الخضار - 75 جم",
+    "barcode": "89686120226",
+    "item_type": "GS1",
+    "item_code": "89686120226",
+    "unit_type": "",
+    "price": 9.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb2/h99/14623068586014/32841_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1719",
+    "internal_code": "121711",
+    "name": "مكرونة اسباجيتي ستار - 400 جم",
+    "barcode": "6221022111022",
+    "item_type": "GS1",
+    "item_code": "6221022111022",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h91/hde/14609963483166/121711_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1731",
+    "internal_code": "395188",
+    "name": "ريجينا مكرونة مرمرية - 1 كجم",
+    "barcode": "6221022150403",
+    "item_type": "GS1",
+    "item_code": "6221022150403",
+    "unit_type": "",
+    "price": 57.5,
+    "cost": 57.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h85/h68/27393626538014/395188_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1757",
+    "internal_code": "482073",
+    "name": "نودلز كيلوجز بنكهة اللحم - 70 جم",
+    "barcode": "6223006710184",
+    "item_type": "GS1",
+    "item_code": "6223006710184",
+    "unit_type": "",
+    "price": 8.0,
+    "cost": 8.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/482073/1754395203/482073_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1758",
+    "internal_code": "496625",
+    "name": "مكرونة تويست المصرية - 350جم",
+    "barcode": "6221022121144",
+    "item_type": "GS1",
+    "item_code": "6221022121144",
+    "unit_type": "",
+    "price": 19.7,
+    "cost": 19.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf9/h7a/27393650327582/496625_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1768",
+    "internal_code": "395184",
+    "name": "ريجينا مكرونة سباجتى - 1 كجم",
+    "barcode": "6221022150021",
+    "item_type": "GS1",
+    "item_code": "6221022150021",
+    "unit_type": "",
+    "price": 57.5,
+    "cost": 57.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/heb/h6e/27393626374174/395184_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1769",
+    "internal_code": "17609",
+    "name": "مكرونة هلالية ريجينا - 400جم",
+    "barcode": "6221022110513",
+    "item_type": "GS1",
+    "item_code": "6221022110513",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h61/hd1/27393510834206/17609_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1776",
+    "internal_code": "564580",
+    "name": "بساطة مكرونة خواتم - 350 جرام",
+    "barcode": "6223007940351",
+    "item_type": "GS1",
+    "item_code": "6223007940351",
+    "unit_type": "",
+    "price": 10.5,
+    "cost": 10.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h52/h8b/34674259361822/564580_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1804",
+    "internal_code": "17607",
+    "name": "مكرونة خواتم ريجينا - 400 جم",
+    "barcode": "6221022110421",
+    "item_type": "GS1",
+    "item_code": "6221022110421",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6a/h0b/27393512439838/17607_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1875",
+    "internal_code": "605309",
+    "name": "الملكة ملوكي مكرونة خواتم - 400 جرام",
+    "barcode": "6223001514510",
+    "item_type": "GS1",
+    "item_code": "6223001514510",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h41/h31/51411612663838/605309_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1877",
+    "internal_code": "319102",
+    "name": "مكرونة خواتم ستار - 1 كجم",
+    "barcode": "6221022222438",
+    "item_type": "GS1",
+    "item_code": "6221022222438",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd2/ha6/11607381770270/319102_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1883",
+    "internal_code": "251416",
+    "name": "مكرونة هلاليه الملكة - 1 كجم",
+    "barcode": "6223001512677",
+    "item_type": "GS1",
+    "item_code": "6223001512677",
+    "unit_type": "",
+    "price": 34.0,
+    "cost": 34.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hca/h47/48236822134814/251416_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1894",
+    "internal_code": "510924",
+    "name": "مكرونة اسباجيتي لينو بدقيق الشوفان - 400 جم",
+    "barcode": "6224008245582",
+    "item_type": "GS1",
+    "item_code": "6224008245582",
+    "unit_type": "",
+    "price": 119.9,
+    "cost": 119.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdc/h72/27008267845662/510924_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1898",
+    "internal_code": "72214",
+    "name": "مكرونة خواتم رويال - 1 كجم",
+    "barcode": "6224000200558",
+    "item_type": "GS1",
+    "item_code": "6224000200558",
+    "unit_type": "",
+    "price": 34.1,
+    "cost": 34.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h98/h38/52427938463774/72214_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1910",
+    "internal_code": "591323",
+    "name": "ديليسيا مصرية مكرونة خواتم - 500 جرام",
+    "barcode": "6221022000593",
+    "item_type": "GS1",
+    "item_code": "6221022000593",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/591323/1762676473/591323_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1935",
+    "internal_code": "619470",
+    "name": "دون لوبيز مكرونة الشوفان - فيوزيللي - 400 جرام",
+    "barcode": "6224008467519",
+    "item_type": "GS1",
+    "item_code": "6224008467519",
+    "unit_type": "",
+    "price": 79.8,
+    "cost": 79.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h55/hf7/51860249640990/619470_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1937",
+    "internal_code": "434511",
+    "name": "ريجينا مكرونة مكروني - 400 جرام",
+    "barcode": "6221022110414",
+    "item_type": "GS1",
+    "item_code": "6221022110414",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/h45/27393631059998/434511_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1984",
+    "internal_code": "637053",
+    "name": "ايزي باستا الضحي مكرونة الفريدو صوص - 185 جم",
+    "barcode": "6223000663240",
+    "item_type": "GS1",
+    "item_code": "6223000663240",
+    "unit_type": "",
+    "price": 21.0,
+    "cost": 21.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hde/h8a/64878671364126/637053_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1994",
+    "internal_code": "419541",
+    "name": "ستار مكرونة هلالية - 1 كجم",
+    "barcode": "6221022222469",
+    "item_type": "GS1",
+    "item_code": "6221022222469",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc7/hec/14610120245278/419541_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2011",
+    "internal_code": "589474",
+    "name": "كيلوجز نودلز بطعم الشطة المولعة - 70 جرام",
+    "barcode": "6223006710849",
+    "item_type": "GS1",
+    "item_code": "6223006710849",
+    "unit_type": "",
+    "price": 9.5,
+    "cost": 9.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/589474/1754395203/589474_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2021",
+    "internal_code": "319101",
+    "name": "ستار مكرونة مرمرية - 1 كجم",
+    "barcode": "6221022222421",
+    "item_type": "GS1",
+    "item_code": "6221022222421",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/h1e/14609979113502/319101_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2032",
+    "internal_code": "395201",
+    "name": "مصرية مكرونة فيوزيللي - 1 كجم",
+    "barcode": "6221022151615",
+    "item_type": "GS1",
+    "item_code": "6221022151615",
+    "unit_type": "",
+    "price": 46.0,
+    "cost": 46.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h43/hce/27393629356062/395201_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2047",
+    "internal_code": "600111",
+    "name": "الأصيل مكرونة اسباجيتي - 300 جرام",
+    "barcode": "6223005620279",
+    "item_type": "GS1",
+    "item_code": "6223005620279",
+    "unit_type": "",
+    "price": 8.3,
+    "cost": 8.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/600111/1747648803/600111_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2049",
+    "internal_code": "594640",
+    "name": "الضحى مكرونة ودع صغيرة - 250 جرام",
+    "barcode": "6223000663783",
+    "item_type": "GS1",
+    "item_code": "6223000663783",
+    "unit_type": "",
+    "price": 22.0,
+    "cost": 22.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h39/h64/34898540658718/594640_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2067",
+    "internal_code": "395189",
+    "name": "ريجينا مكرونة خواتم - 1 كجم",
+    "barcode": "6221022150427",
+    "item_type": "GS1",
+    "item_code": "6221022150427",
+    "unit_type": "",
+    "price": 57.5,
+    "cost": 57.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h42/h6f/27393626341406/395189_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2070",
+    "internal_code": "458683",
+    "name": "الضحى مكرونة هلالية - 400 جرام",
+    "barcode": "6223000663837",
+    "item_type": "GS1",
+    "item_code": "6223000663837",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hed/h1a/34709988114462/458683_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2078",
+    "internal_code": "637056",
+    "name": "ايزي باستا الضحى مكرونة بصوص الماك اند شيز - 185 جرام",
+    "barcode": "6223000663271",
+    "item_type": "GS1",
+    "item_code": "6223000663271",
+    "unit_type": "",
+    "price": 29.5,
+    "cost": 29.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637056/1750770005/637056_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2100",
+    "internal_code": "17610",
+    "name": "مكرونة ودعة ريجينا - 400 جم",
+    "barcode": "6221022110520",
+    "item_type": "GS1",
+    "item_code": "6221022110520",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h16/he6/27393510211614/17610_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2102",
+    "internal_code": "458682",
+    "name": "الضحى مكرونة مرمرية - 400 جرام",
+    "barcode": "6223000663820",
+    "item_type": "GS1",
+    "item_code": "6223000663820",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h63/h51/34709987098654/458682_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2119",
+    "internal_code": "637052",
+    "name": "ايزي باستا الضحى مكرونة بصوص الطماطم الإيطالي - 185 جرام",
+    "barcode": "6223000663233",
+    "item_type": "GS1",
+    "item_code": "6223000663233",
+    "unit_type": "",
+    "price": 23.5,
+    "cost": 23.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4e/h80/64878671036446/637052_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2124",
+    "internal_code": "605901",
+    "name": "ديليسيا مصرية مكرونة اسباجتي - 500 جرام",
+    "barcode": "6221022001101",
+    "item_type": "GS1",
+    "item_code": "6221022001101",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h38/h3b/48028777087006/605901_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2148",
+    "internal_code": "576203",
+    "name": "بساطة مكرونة هلالية - 1 كجم",
+    "barcode": "6223007943444",
+    "item_type": "GS1",
+    "item_code": "6223007943444",
+    "unit_type": "",
+    "price": 25.4,
+    "cost": 25.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd3/hf0/34674263818270/576203_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2184",
+    "internal_code": "637774",
+    "name": "كيلوجز نودلز بطعم الدجاج بالكاري - 75 جرام",
+    "barcode": "6223006711358",
+    "item_type": "GS1",
+    "item_code": "6223006711358",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637774/1754395203/637774_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2195",
+    "internal_code": "319099",
+    "name": "ستار مكرونة سباجيتي - 1 كجم",
+    "barcode": "6221022222407",
+    "item_type": "GS1",
+    "item_code": "6221022222407",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hed/h3d/14609978523678/319099_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2206",
+    "internal_code": "458684",
+    "name": "الضحى مكرونة سباجيتي - 400 جم",
+    "barcode": "6223000663844",
+    "item_type": "GS1",
+    "item_code": "6223000663844",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5a/h40/34709987590174/458684_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2220",
+    "internal_code": "605391",
+    "name": "مكرونة العدس الضحى - 400 جرام",
+    "barcode": "6223000663981",
+    "item_type": "GS1",
+    "item_code": "6223000663981",
+    "unit_type": "",
+    "price": 85.0,
+    "cost": 85.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h74/hdf/48061336813598/605391_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2233",
+    "internal_code": "510926",
+    "name": "لينو مكرونة الشوفان - فيوزيللي - 400 جرام",
+    "barcode": "6224008245575",
+    "item_type": "GS1",
+    "item_code": "6224008245575",
+    "unit_type": "",
+    "price": 119.9,
+    "cost": 119.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hed/h51/14786352349214/510926_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2236",
+    "internal_code": "17593",
+    "name": "مصرية مكرونة فيوزيللي - 350 جرام",
+    "barcode": "6221022121618",
+    "item_type": "GS1",
+    "item_code": "6221022121618",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb8/hd1/27393510801438/17593_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2245",
+    "internal_code": "578289",
+    "name": "خطيرة مكرونة مرمرية - 280 جرام",
+    "barcode": "6223007943741",
+    "item_type": "GS1",
+    "item_code": "6223007943741",
+    "unit_type": "",
+    "price": 9.8,
+    "cost": 9.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc1/h49/34746897268766/578289_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2269",
+    "internal_code": "600116",
+    "name": "الأصيل مكرونة هلالية - 300 جرام",
+    "barcode": "6223005620231",
+    "item_type": "GS1",
+    "item_code": "6223005620231",
+    "unit_type": "",
+    "price": 8.3,
+    "cost": 8.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6f/h07/48236826886174/600116_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2274",
+    "internal_code": "599848",
+    "name": "ديليسيا مصرية مكرونة مرمرية - 500 جرام",
+    "barcode": "6221022000616",
+    "item_type": "GS1",
+    "item_code": "6221022000616",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc8/h47/44985611911198/599848_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2300",
+    "internal_code": "561082",
+    "name": "لمتنا مكرونة مرمرية - 400 جم",
+    "barcode": "6224009197101",
+    "item_type": "GS1",
+    "item_code": "6224009197101",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdd/hbb/15023123464222/561082_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2315",
+    "internal_code": "458681",
+    "name": "الضحى مكرونة خواتم - 400 جرام",
+    "barcode": "6223000663813",
+    "item_type": "GS1",
+    "item_code": "6223000663813",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hec/h47/34709987328030/458681_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2319",
+    "internal_code": "395192",
+    "name": "ريجينا فبوزيللي باستا - 1 كجم",
+    "barcode": "6221022150618",
+    "item_type": "GS1",
+    "item_code": "6221022150618",
+    "unit_type": "",
+    "price": 57.5,
+    "cost": 57.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he4/h5a/27393626931230/395192_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2339",
+    "internal_code": "637055",
+    "name": "ايزي باستا الضحي مكرونة بصوص المشروم - 185 جم",
+    "barcode": "6223000663264",
+    "item_type": "GS1",
+    "item_code": "6223000663264",
+    "unit_type": "",
+    "price": 22.0,
+    "cost": 22.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he3/h34/64878670905374/637055_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2340",
+    "internal_code": "637775",
+    "name": "كيلوجز نودلز شعيرية مقلية - 75 جرام",
+    "barcode": "6223006711525",
+    "item_type": "GS1",
+    "item_code": "6223006711525",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637775/1754395203/637775_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2407",
+    "internal_code": "457927",
+    "name": "المطبخ مكرونة فرن - 400 جرام",
+    "barcode": "6223000663608",
+    "item_type": "GS1",
+    "item_code": "6223000663608",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h62/hef/34709985689630/457927_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2422",
+    "internal_code": "605308",
+    "name": "الملكة ملوكي مكرونة فرن - 400 جرام",
+    "barcode": "6223001514503",
+    "item_type": "GS1",
+    "item_code": "6223001514503",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h79/hcf/48236946882590/605308_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2433",
+    "internal_code": "591992",
+    "name": "يامي نودلز بطعم اللحم - 70 جم",
+    "barcode": "6223007943949",
+    "item_type": "GS1",
+    "item_code": "6223007943949",
+    "unit_type": "",
+    "price": 7.3,
+    "cost": 7.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h59/h20/34674274533406/591992_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2454",
+    "internal_code": "660222",
+    "name": "نودلز كيلوجز بطعم الدجاج المقلي الحار- 100 جرام",
+    "barcode": "6223006713116",
+    "item_type": "GS1",
+    "item_code": "6223006713116",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660222/1763638805/660222_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2488",
+    "internal_code": "395185",
+    "name": "ريجينا مكرونة شرائط - 1 كجم",
+    "barcode": "6221022150212",
+    "item_type": "GS1",
+    "item_code": "6221022150212",
+    "unit_type": "",
+    "price": 57.5,
+    "cost": 57.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4d/hc8/27393625817118/395185_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2490",
+    "internal_code": "17597",
+    "name": "ريجينا مكرونة اسباجتى - 400 جم",
+    "barcode": "6221022110025",
+    "item_type": "GS1",
+    "item_code": "6221022110025",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h82/h13/27393509720094/17597_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2504",
+    "internal_code": "605314",
+    "name": "الملكة ملوكي مكرونة سباجيتي - 400 جرام",
+    "barcode": "6223001514565",
+    "item_type": "GS1",
+    "item_code": "6223001514565",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3e/hd5/48236947406878/605314_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2508",
+    "internal_code": "355258",
+    "name": "نودلز إندومي بالخضروات - 60 جرام",
+    "barcode": "89686122169",
+    "item_type": "GS1",
+    "item_code": "89686122169",
+    "unit_type": "",
+    "price": 15.5,
+    "cost": 15.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd2/h4e/17010128879646/355258_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2561",
+    "internal_code": "605311",
+    "name": "الملكة ملوكي مكرونة هلالية - 400 جرام",
+    "barcode": "6223001514534",
+    "item_type": "GS1",
+    "item_code": "6223001514534",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc0/hcd/48236947669022/605311_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2565",
+    "internal_code": "17606",
+    "name": "مكرونة مرمرية ريجينا - 400جم",
+    "barcode": "6221022110407",
+    "item_type": "GS1",
+    "item_code": "6221022110407",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h67/h7b/27393511292958/17606_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2574",
+    "internal_code": "646075",
+    "name": "نودلز كيلوجز بنكهة الدجاج بالصوص الكوري - 140 جرام",
+    "barcode": "6223006711440",
+    "item_type": "GS1",
+    "item_code": "6223006711440",
+    "unit_type": "",
+    "price": 74.3,
+    "cost": 74.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646075/1754395203/646075_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2609",
+    "internal_code": "319103",
+    "name": "ستار مكرونة فرن - 1 كجم",
+    "barcode": "6221022222452",
+    "item_type": "GS1",
+    "item_code": "6221022222452",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2e/hcd/14609980063774/319103_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2648",
+    "internal_code": "580149",
+    "name": "ميلرز صلصة مكرونة الفريدو - 20 جرام",
+    "barcode": "6223000912874",
+    "item_type": "GS1",
+    "item_code": "6223000912874",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hed/h9f/27746756853790/580149_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2667",
+    "internal_code": "395200",
+    "name": "مصرية مكرونة فرن - 1 كيلو",
+    "barcode": "6221022151455",
+    "item_type": "GS1",
+    "item_code": "6221022151455",
+    "unit_type": "",
+    "price": 46.0,
+    "cost": 46.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h36/h5a/27393626996766/395200_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2705",
+    "internal_code": "17617",
+    "name": "مكرونة أرقام وحروف ريجينا - 400 جرام",
+    "barcode": "6221022110360",
+    "item_type": "GS1",
+    "item_code": "6221022110360",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h65/hd2/27393514733598/17617_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2711",
+    "internal_code": "561093",
+    "name": "فري مكرونة فوسيلي بالسبانخ خالية من الجلوتين - 200 جرام",
+    "barcode": "6224008845379",
+    "item_type": "GS1",
+    "item_code": "6224008845379",
+    "unit_type": "",
+    "price": 59.6,
+    "cost": 59.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfd/he0/33383753777182/561093_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2723",
+    "internal_code": "469063",
+    "name": "رويال مكرونة هلالية - 1 كجم",
+    "barcode": "6224000200510",
+    "item_type": "GS1",
+    "item_code": "6224000200510",
+    "unit_type": "",
+    "price": 34.1,
+    "cost": 34.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h13/h50/52427932041246/469063_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2729",
+    "internal_code": "72210",
+    "name": "رويال مكرونة سباجيتي - 1 كجم",
+    "barcode": "6224000200589",
+    "item_type": "GS1",
+    "item_code": "6224000200589",
+    "unit_type": "",
+    "price": 34.1,
+    "cost": 34.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h01/h3c/52427938562078/72210_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2738",
+    "internal_code": "374838",
+    "name": "جرانورو مكرونة لازانيا بالبيض - 500 جرام",
+    "barcode": "8007290231208",
+    "item_type": "GS1",
+    "item_code": "8007290231208",
+    "unit_type": "",
+    "price": 188.2,
+    "cost": 188.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc8/h79/50777799983134/374838_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2739",
+    "internal_code": "375954",
+    "name": "جرانورو مكرونة فرن رقم 26 - 500 جرام",
+    "barcode": "8007290130266",
+    "item_type": "GS1",
+    "item_code": "8007290130266",
+    "unit_type": "",
+    "price": 90.7,
+    "cost": 90.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf2/h7d/50777799819294/375954_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2755",
+    "internal_code": "591319",
+    "name": "ديليسيا مصرية مكرونة فرن - 500 جرام",
+    "barcode": "6221022000555",
+    "item_type": "GS1",
+    "item_code": "6221022000555",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/591319/1762864613/591319_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2760",
+    "internal_code": "395194",
+    "name": "مكرونة سباجيتي مصرية - 1كجم",
+    "barcode": "6221022151028",
+    "item_type": "GS1",
+    "item_code": "6221022151028",
+    "unit_type": "",
+    "price": 46.0,
+    "cost": 46.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hec/h01/27393627455518/395194_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2770",
+    "internal_code": "496627",
+    "name": "مكرونة مكروني مصرية - 350جم",
+    "barcode": "6221022121151",
+    "item_type": "GS1",
+    "item_code": "6221022121151",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h54/h00/27393651867678/496627_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2831",
+    "internal_code": "594638",
+    "name": "الضحى ميني شيف ادفنشر مكرونة - 250 جرام",
+    "barcode": "6223000663769",
+    "item_type": "GS1",
+    "item_code": "6223000663769",
+    "unit_type": "",
+    "price": 22.0,
+    "cost": 22.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hff/h26/34566778454046/594638_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2839",
+    "internal_code": "482072",
+    "name": "نودلز كيلوجز بطعم الدجاج - 70 جرام",
+    "barcode": "6223006710160",
+    "item_type": "GS1",
+    "item_code": "6223006710160",
+    "unit_type": "",
+    "price": 8.0,
+    "cost": 8.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/482072/1754395203/482072_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2846",
+    "internal_code": "604248",
+    "name": "جولدن ميلز مكرونة فرن - 500 جرام",
+    "barcode": "6221022000159",
+    "item_type": "GS1",
+    "item_code": "6221022000159",
+    "unit_type": "",
+    "price": 60.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h96/h8b/47467558731806/604248_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2862",
+    "internal_code": "395198",
+    "name": "مكرونة خواتم مصرية - 1كجم",
+    "barcode": "6221022151400",
+    "item_type": "GS1",
+    "item_code": "6221022151400",
+    "unit_type": "",
+    "price": 46.0,
+    "cost": 46.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/h68/27393626570782/395198_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2866",
+    "internal_code": "121716",
+    "name": "ستار مكرونة فرن - 400 جرام",
+    "barcode": "6221022111459",
+    "item_type": "GS1",
+    "item_code": "6221022111459",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha8/hbe/14609964269598/121716_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2868",
+    "internal_code": "168796",
+    "name": "ستار مكرونة فيوزيللي - 400 جرام",
+    "barcode": "6221022111619",
+    "item_type": "GS1",
+    "item_code": "6221022111619",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h91/h36/14786088566814/168796_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2869",
+    "internal_code": "72204",
+    "name": "رويال مكرونة مرمرية - 1كجم",
+    "barcode": "6224000200541",
+    "item_type": "GS1",
+    "item_code": "6224000200541",
+    "unit_type": "",
+    "price": 34.1,
+    "cost": 34.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf0/h38/52427938496542/72204_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2872",
+    "internal_code": "635415",
+    "name": "ريجينا مكرونة ريجاتوني - 400 جرام",
+    "barcode": "6221022002078",
+    "item_type": "GS1",
+    "item_code": "6221022002078",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h21/he3/64741137612830/635415_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2883",
+    "internal_code": "591321",
+    "name": "ديليسيا مصرية مكرونة فيوزيللي - 500 جرام",
+    "barcode": "6221022000579",
+    "item_type": "GS1",
+    "item_code": "6221022000579",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/h67/34710127542302/591321_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2886",
+    "internal_code": "591447",
+    "name": "ديليسيا مصرية مكرونة هلالية - 500 جرام",
+    "barcode": "6221022000562",
+    "item_type": "GS1",
+    "item_code": "6221022000562",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/591447/1762864654/591447_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2897",
+    "internal_code": "496626",
+    "name": "مكرونة بايب مصرية - 350جم",
+    "barcode": "6221022121137",
+    "item_type": "GS1",
+    "item_code": "6221022121137",
+    "unit_type": "",
+    "price": 19.7,
+    "cost": 19.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haa/h6c/27393650786334/496626_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2900",
+    "internal_code": "550549",
+    "name": "المطبخ المصرى مكرونة خواتم - 1كجم",
+    "barcode": "6223000663738",
+    "item_type": "GS1",
+    "item_code": "6223000663738",
+    "unit_type": "",
+    "price": 37.0,
+    "cost": 37.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/had/h88/34709989261342/550549_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2923",
+    "internal_code": "592001",
+    "name": "كايرو مكرونة فرن - 400 جرام",
+    "barcode": "6223007943956",
+    "item_type": "GS1",
+    "item_code": "6223007943956",
+    "unit_type": "",
+    "price": 13.5,
+    "cost": 13.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb9/h57/34746897694750/592001_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2930",
+    "internal_code": "591324",
+    "name": "ديليسيا مصرية مكرونة ودعة - 500 جرام",
+    "barcode": "6221022000609",
+    "item_type": "GS1",
+    "item_code": "6221022000609",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/591324/1772699737/591324_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2943",
+    "internal_code": "419540",
+    "name": "ستار مكرونة فيوزيللي - 1 كجم",
+    "barcode": "6221022222483",
+    "item_type": "GS1",
+    "item_code": "6221022222483",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h58/h06/14610119589918/419540_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2951",
+    "internal_code": "419543",
+    "name": "ستار مكرونة قواقع - 1 كجم",
+    "barcode": "6221022226023",
+    "item_type": "GS1",
+    "item_code": "6221022226023",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 38.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1e/h81/14609988059166/419543_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2963",
+    "internal_code": "470383",
+    "name": "الضحى مكرونة فيوزيللي - 400 جرام",
+    "barcode": "6223000663905",
+    "item_type": "GS1",
+    "item_code": "6223000663905",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc6/h2f/15127737204766/470383_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2964",
+    "internal_code": "395199",
+    "name": "مصرية مكرونة خواتم - 1 كجم",
+    "barcode": "6221022151424",
+    "item_type": "GS1",
+    "item_code": "6221022151424",
+    "unit_type": "",
+    "price": 46.0,
+    "cost": 46.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h54/h05/27393627357214/395199_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2968",
+    "internal_code": "605392",
+    "name": "مكرونة الخضروات الضحى - 400 جرام",
+    "barcode": "6223000663998",
+    "item_type": "GS1",
+    "item_code": "6223000663998",
+    "unit_type": "",
+    "price": 85.0,
+    "cost": 85.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h61/hd1/48061337075742/605392_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2974",
+    "internal_code": "168797",
+    "name": "ستار مكرونة هلالية - 400 جرام",
+    "barcode": "6221022111671",
+    "item_type": "GS1",
+    "item_code": "6221022111671",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha3/h3d/14609965907998/168797_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2982",
+    "internal_code": "17586",
+    "name": "مصرية مكرونة فرن - 350جم",
+    "barcode": "6221022121458",
+    "item_type": "GS1",
+    "item_code": "6221022121458",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc8/h10/27393509687326/17586_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2983",
+    "internal_code": "17585",
+    "name": "مكرونة شرايط مصرية - 350جم",
+    "barcode": "6221022121212",
+    "item_type": "GS1",
+    "item_code": "6221022121212",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4f/h5d/27393508507678/17585_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3003",
+    "internal_code": "17584",
+    "name": "مصرية مكرونة إسباجيتى - 350جم",
+    "barcode": "6221022121021",
+    "item_type": "GS1",
+    "item_code": "6221022121021",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h83/hcf/27393506541598/17584_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3007",
+    "internal_code": "576200",
+    "name": "بساطة مكرونة سباجيتي - 1 كجم",
+    "barcode": "6223007943413",
+    "item_type": "GS1",
+    "item_code": "6223007943413",
+    "unit_type": "",
+    "price": 25.4,
+    "cost": 25.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h59/hc0/34674264047646/576200_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3008",
+    "internal_code": "592007",
+    "name": "كايرو مكرونة فرن - 1 كجم",
+    "barcode": "6223007944496",
+    "item_type": "GS1",
+    "item_code": "6223007944496",
+    "unit_type": "",
+    "price": 30.0,
+    "cost": 30.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1a/h69/34674343346206/592007_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3016",
+    "internal_code": "576201",
+    "name": "بساطة مكرونة مرمرية - 1 كجم",
+    "barcode": "6223007943437",
+    "item_type": "GS1",
+    "item_code": "6223007943437",
+    "unit_type": "",
+    "price": 25.4,
+    "cost": 25.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7d/ha4/34674264899614/576201_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3023",
+    "internal_code": "591996",
+    "name": "كايرو مكرونة هلالية - 400 جرام",
+    "barcode": "6223007943963",
+    "item_type": "GS1",
+    "item_code": "6223007943963",
+    "unit_type": "",
+    "price": 13.5,
+    "cost": 13.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3a/h50/34746897432606/591996_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3026",
+    "internal_code": "637054",
+    "name": "ايزي الضحي باستا مكرونة كريمي بصوص البيستو - 185 جم",
+    "barcode": "6223000663257",
+    "item_type": "GS1",
+    "item_code": "6223000663257",
+    "unit_type": "",
+    "price": 22.0,
+    "cost": 22.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2a/h9c/64878671888414/637054_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3029",
+    "internal_code": "594639",
+    "name": "الضحى فيري تيل مكرونة - 250 جرام",
+    "barcode": "6223000663776",
+    "item_type": "GS1",
+    "item_code": "6223000663776",
+    "unit_type": "",
+    "price": 22.0,
+    "cost": 22.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h26/hba/34566776061982/594639_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3032",
+    "internal_code": "592005",
+    "name": "كايرو مكرونة مرمرية - 1 كجم",
+    "barcode": "6223007944502",
+    "item_type": "GS1",
+    "item_code": "6223007944502",
+    "unit_type": "",
+    "price": 30.0,
+    "cost": 30.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha7/h76/34674343739422/592005_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3035",
+    "internal_code": "17596",
+    "name": "مكرونة قواقع مصرية - 350 جرام",
+    "barcode": "6221022121533",
+    "item_type": "GS1",
+    "item_code": "6221022121533",
+    "unit_type": "",
+    "price": 19.5,
+    "cost": 19.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hae/h4f/27393508900894/17596_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3038",
+    "internal_code": "564579",
+    "name": "بساطة مكرونة فرن - 350 جرام",
+    "barcode": "6223007940320",
+    "item_type": "GS1",
+    "item_code": "6223007940320",
+    "unit_type": "",
+    "price": 10.5,
+    "cost": 10.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h04/hf0/34746894385182/564579_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3044",
+    "internal_code": "605310",
+    "name": "الملكة ملوكي مكرونة مرمرية - 400 جرام",
+    "barcode": "6223001514527",
+    "item_type": "GS1",
+    "item_code": "6223001514527",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3c/hd8/48236947341342/605310_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3048",
+    "internal_code": "592002",
+    "name": "كايرو مكرونة خواتم - 400 جرام",
+    "barcode": "6223007943994",
+    "item_type": "GS1",
+    "item_code": "6223007943994",
+    "unit_type": "",
+    "price": 13.5,
+    "cost": 13.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/had/hc3/34746900152350/592002_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3053",
+    "internal_code": "575600",
+    "name": "بساطة مكرونة خواتم - 350 جرام",
+    "barcode": "6223007940337",
+    "item_type": "GS1",
+    "item_code": "6223007940337",
+    "unit_type": "",
+    "price": 10.5,
+    "cost": 10.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h37/h79/34746895728670/575600_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3055",
+    "internal_code": "592008",
+    "name": "كايرو مكرونة خواتم - 1 كجم",
+    "barcode": "6223007944489",
+    "item_type": "GS1",
+    "item_code": "6223007944489",
+    "unit_type": "",
+    "price": 30.0,
+    "cost": 30.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h49/h62/34674343149598/592008_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3064",
+    "internal_code": "600115",
+    "name": "الأصيل مكرونة قلم - 300 جرام",
+    "barcode": "6223005620217",
+    "item_type": "GS1",
+    "item_code": "6223005620217",
+    "unit_type": "",
+    "price": 8.3,
+    "cost": 8.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h50/h80/45229432668190/600115_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3070",
+    "internal_code": "600113",
+    "name": "الأصيل مكرونة مرمرية - 300 جرام",
+    "barcode": "6223005620248",
+    "item_type": "GS1",
+    "item_code": "6223005620248",
+    "unit_type": "",
+    "price": 8.3,
+    "cost": 8.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0f/h60/48236827377694/600113_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3075",
+    "internal_code": "600114",
+    "name": "الأصيل مكرونة خواتم - 300 جرام",
+    "barcode": "6223005620224",
+    "item_type": "GS1",
+    "item_code": "6223005620224",
+    "unit_type": "",
+    "price": 8.3,
+    "cost": 8.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h21/h63/48236827443230/600114_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

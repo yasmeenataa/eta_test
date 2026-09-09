@@ -1,0 +1,3650 @@
+[
+  {
+    "id": "prod_017",
+    "internal_code": "552655",
+    "name": "إمتنان عسل زهور الموالح - 1 كجم",
+    "barcode": "6221078763824",
+    "item_type": "GS1",
+    "item_code": "6221078763824",
+    "unit_type": "",
+    "price": 416.3,
+    "cost": 416.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h99/ha9/14952017362974/552655_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_057",
+    "internal_code": "534858",
+    "name": "حلاوة سادة الميزان - 900 جرام",
+    "barcode": "6223000057704",
+    "item_type": "GS1",
+    "item_code": "6223000057704",
+    "unit_type": "",
+    "price": 109.0,
+    "cost": 167.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/534858/1745827804/534858_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_059",
+    "internal_code": "107939",
+    "name": "عسل أسود البوادي - 680جم",
+    "barcode": "6223000762042",
+    "item_type": "GS1",
+    "item_code": "6223000762042",
+    "unit_type": "",
+    "price": 50.2,
+    "cost": 50.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/haa/44951065788446/107939_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_077",
+    "internal_code": "286702",
+    "name": "البوادى حلاوة سادة - 970 جم",
+    "barcode": "6223000760215",
+    "item_type": "GS1",
+    "item_code": "6223000760215",
+    "unit_type": "",
+    "price": 165.2,
+    "cost": 165.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h06/hab/44951065755678/286702_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_100",
+    "internal_code": "664287",
+    "name": "سبريد ياميز البوادى بطعم الفستق و قطع من الفستق - 300 جرام",
+    "barcode": "6223000762776",
+    "item_type": "GS1",
+    "item_code": "6223000762776",
+    "unit_type": "",
+    "price": 99.0,
+    "cost": 109.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664287/1760434205/664287_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_102",
+    "internal_code": "631671",
+    "name": "تشويس دبس رمان - 700 مل",
+    "barcode": "6222004197553",
+    "item_type": "GS1",
+    "item_code": "6222004197553",
+    "unit_type": "",
+    "price": 114.5,
+    "cost": 114.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/631671/1724749803/631671_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_108",
+    "internal_code": "532530",
+    "name": "إمتنان عسل طبيعي - 450 جم",
+    "barcode": "6221078769758",
+    "item_type": "GS1",
+    "item_code": "6221078769758",
+    "unit_type": "",
+    "price": 135.0,
+    "cost": 135.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/h90/14853609062430/532530_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_113",
+    "internal_code": "262298",
+    "name": "عسل نحل طبيعي جنة سكويز - 750 جم",
+    "barcode": "6221078022396",
+    "item_type": "GS1",
+    "item_code": "6221078022396",
+    "unit_type": "",
+    "price": 159.0,
+    "cost": 159.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4f/h7b/50054012698654/262298_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_124",
+    "internal_code": "557962",
+    "name": "دريا دبس الرمان - 250 مل",
+    "barcode": "6223003395025",
+    "item_type": "GS1",
+    "item_code": "6223003395025",
+    "unit_type": "",
+    "price": 87.5,
+    "cost": 87.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2a/h77/29790932500510/557962_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_136",
+    "internal_code": "349917",
+    "name": "البوادي حلاوة سبريد - 300 جرام",
+    "barcode": "6223000760321",
+    "item_type": "GS1",
+    "item_code": "6223000760321",
+    "unit_type": "",
+    "price": 65.0,
+    "cost": 65.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/349917/1762865490/349917_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_154",
+    "internal_code": "642342",
+    "name": "عسل نوارة البرسيم سعد - 1 كجم",
+    "barcode": "6225000435742",
+    "item_type": "GS1",
+    "item_code": "6225000435742",
+    "unit_type": "",
+    "price": 193.6,
+    "cost": 193.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642342/1730710803/642342_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_157",
+    "internal_code": "552657",
+    "name": "إمتنان عسل سدر جبلي مصري - 500 جرام",
+    "barcode": "6221078769765",
+    "item_type": "GS1",
+    "item_code": "6221078769765",
+    "unit_type": "",
+    "price": 573.8,
+    "cost": 573.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hda/ha5/14952017231902/552657_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_160",
+    "internal_code": "570894",
+    "name": "الرشيدي الميزان عسل أسود - 700 جرام",
+    "barcode": "6223007430531",
+    "item_type": "GS1",
+    "item_code": "6223007430531",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/570894/1744710003/570894_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_162",
+    "internal_code": "634285",
+    "name": "عسل نوارة البرسيم جنة سكويز - 450 جرام",
+    "barcode": "6221078001346",
+    "item_type": "GS1",
+    "item_code": "6221078001346",
+    "unit_type": "",
+    "price": 107.0,
+    "cost": 107.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/634285/1750663803/634285_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_165",
+    "internal_code": "49725",
+    "name": "دبس رمان يمامة - 300 مل ",
+    "barcode": "623695000355",
+    "item_type": "GS1",
+    "item_code": "623695000355",
+    "unit_type": "",
+    "price": 129.2,
+    "cost": 129.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2f/h32/14932583677982/49725_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_184",
+    "internal_code": "625972",
+    "name": "البوادي مربى فراولة - 650 جرام",
+    "barcode": "6223000762462",
+    "item_type": "GS1",
+    "item_code": "6223000762462",
+    "unit_type": "",
+    "price": 52.5,
+    "cost": 52.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6c/hdb/52702578409502/625972_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_196",
+    "internal_code": "613877",
+    "name": "حاج عرفة عسل سدر جبلي مصري - 500 جرام",
+    "barcode": "6223006250581",
+    "item_type": "GS1",
+    "item_code": "6223006250581",
+    "unit_type": "",
+    "price": 496.8,
+    "cost": 496.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9a/h45/49771995856926/613877_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_211",
+    "internal_code": "107936",
+    "name": "عسل أسود البوادي - 355 جم",
+    "barcode": "6223000762066",
+    "item_type": "GS1",
+    "item_code": "6223000762066",
+    "unit_type": "",
+    "price": 28.5,
+    "cost": 28.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbc/h52/44951066214430/107936_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_223",
+    "internal_code": "161316",
+    "name": "البوادي حلاوة بالفستق - 305جم",
+    "barcode": "6223000760130",
+    "item_type": "GS1",
+    "item_code": "6223000760130",
+    "unit_type": "",
+    "price": 100.2,
+    "cost": 100.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/161316/1762865408/161316_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_235",
+    "internal_code": "409967",
+    "name": "فيتراك مربى فراولة كريمي - 430 جرام",
+    "barcode": "6221024008276",
+    "item_type": "GS1",
+    "item_code": "6221024008276",
+    "unit_type": "",
+    "price": 47.0,
+    "cost": 47.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/h0f/63823720742942/409967_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_242",
+    "internal_code": "601594",
+    "name": "البوادي عسل زهور الموالح - 420 جرام",
+    "barcode": "6223000762226",
+    "item_type": "GS1",
+    "item_code": "6223000762226",
+    "unit_type": "",
+    "price": 97.5,
+    "cost": 97.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb3/ha2/50930269650974/601594_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_246",
+    "internal_code": "262306",
+    "name": "عسل النباتات الطبية امتنان - 250 جرام",
+    "barcode": "6221078381196",
+    "item_type": "GS1",
+    "item_code": "6221078381196",
+    "unit_type": "",
+    "price": 88.4,
+    "cost": 88.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/262306/1724076003/262306_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_254",
+    "internal_code": "634288",
+    "name": "عسل زهور الموالح جنة - 450 جرام",
+    "barcode": "6221078001483",
+    "item_type": "GS1",
+    "item_code": "6221078001483",
+    "unit_type": "",
+    "price": 131.5,
+    "cost": 131.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/634288/1759141805/634288_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_283",
+    "internal_code": "604844",
+    "name": "مرام عسل اسود - 750 جم",
+    "barcode": "6224008467328",
+    "item_type": "GS1",
+    "item_code": "6224008467328",
+    "unit_type": "",
+    "price": 54.0,
+    "cost": 54.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h29/h87/48561038884894/604844_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_286",
+    "internal_code": "625970",
+    "name": "البوادي مربى فراولة - 190 جرام",
+    "barcode": "6223000762448",
+    "item_type": "GS1",
+    "item_code": "6223000762448",
+    "unit_type": "",
+    "price": 23.5,
+    "cost": 23.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h74/hcd/52702578835486/625970_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_298",
+    "internal_code": "664288",
+    "name": "سبريد ياميز البوادى بطعم البرتقال الكريسبى - 300جرام",
+    "barcode": "6223000762806",
+    "item_type": "GS1",
+    "item_code": "6223000762806",
+    "unit_type": "",
+    "price": 68.0,
+    "cost": 75.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664288/1760434205/664288_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_342",
+    "internal_code": "655125",
+    "name": "مربى البوادي بالفراولة - 365 جرام",
+    "barcode": "6223000762738",
+    "item_type": "GS1",
+    "item_code": "6223000762738",
+    "unit_type": "",
+    "price": 34.0,
+    "cost": 34.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/655125/1751279403/655125_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_346",
+    "internal_code": "107930",
+    "name": "البوادي حلاوة سادة - 130 جم",
+    "barcode": "6223000760024",
+    "item_type": "GS1",
+    "item_code": "6223000760024",
+    "unit_type": "",
+    "price": 28.5,
+    "cost": 28.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h94/hb8/44951065362462/107930_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_359",
+    "internal_code": "611910",
+    "name": "حاج عرفة عسل البردقوش - 500 جم",
+    "barcode": "6223006250550",
+    "item_type": "GS1",
+    "item_code": "6223006250550",
+    "unit_type": "",
+    "price": 145.9,
+    "cost": 145.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf0/hca/49844939718686/611910_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_360",
+    "internal_code": "161317",
+    "name": "البوادي حلاوة بالفستق - 305جم",
+    "barcode": "6223000760147",
+    "item_type": "GS1",
+    "item_code": "6223000760147",
+    "unit_type": "",
+    "price": 75.9,
+    "cost": 75.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha5/hbb/44951065296926/161317_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_365",
+    "internal_code": "604845",
+    "name": "مرام عسل اسود - 400 جم",
+    "barcode": "6224008467335",
+    "item_type": "GS1",
+    "item_code": "6224008467335",
+    "unit_type": "",
+    "price": 40.0,
+    "cost": 40.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/604845/1730210403/604845_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_382",
+    "internal_code": "634287",
+    "name": "عسل زهور الموالح جنة - 250 جرام",
+    "barcode": "6221078001476",
+    "item_type": "GS1",
+    "item_code": "6221078001476",
+    "unit_type": "",
+    "price": 84.5,
+    "cost": 84.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/634287/1750669204/634287_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_389",
+    "internal_code": "601589",
+    "name": "البوادي عسل زهور البرسيم - 780 جم",
+    "barcode": "6223000762196",
+    "item_type": "GS1",
+    "item_code": "6223000762196",
+    "unit_type": "",
+    "price": 181.0,
+    "cost": 181.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h81/h6d/50930270404638/601589_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_397",
+    "internal_code": "622986",
+    "name": "تشويس دبس رمان - 340 مل",
+    "barcode": "6222004198550",
+    "item_type": "GS1",
+    "item_code": "6222004198550",
+    "unit_type": "",
+    "price": 88.5,
+    "cost": 88.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/622986/1724679604/622986_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_406",
+    "internal_code": "625974",
+    "name": "البوادي مربى مشمش - 350 جرام",
+    "barcode": "6223000762516",
+    "item_type": "GS1",
+    "item_code": "6223000762516",
+    "unit_type": "",
+    "price": 35.0,
+    "cost": 38.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he3/hc5/52702577786910/625974_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_410",
+    "internal_code": "641700",
+    "name": "شمع عسل سعد  - 500 جرام",
+    "barcode": "6224002111012",
+    "item_type": "GS1",
+    "item_code": "6224002111012",
+    "unit_type": "",
+    "price": 117.7,
+    "cost": 117.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641700/1746621004/641700_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_412",
+    "internal_code": "595915",
+    "name": "البوادى حلاوة سبريد بالكراميل - 160 جرام",
+    "barcode": "6223000761731",
+    "item_type": "GS1",
+    "item_code": "6223000761731",
+    "unit_type": "",
+    "price": 35.8,
+    "cost": 35.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/595915/1750861804/595915_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_413",
+    "internal_code": "424234",
+    "name": "البوادي عسل أسود - 190 جم",
+    "barcode": "6223000762073",
+    "item_type": "GS1",
+    "item_code": "6223000762073",
+    "unit_type": "",
+    "price": 20.8,
+    "cost": 20.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h72/h7d/44951068114974/424234_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_425",
+    "internal_code": "373804",
+    "name": "البوادي حلاوة سبريد بالشوكولاتة - 160 جم",
+    "barcode": "6223000760383",
+    "item_type": "GS1",
+    "item_code": "6223000760383",
+    "unit_type": "",
+    "price": 36.5,
+    "cost": 36.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/373804/1762865476/373804_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_451",
+    "internal_code": "456516",
+    "name": "مينز اند جاسر مربى توت العليق - 340 جرام",
+    "barcode": "8008660612344",
+    "item_type": "GS1",
+    "item_code": "8008660612344",
+    "unit_type": "",
+    "price": 159.5,
+    "cost": 159.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hec/he5/14529926266910/456516_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_465",
+    "internal_code": "659662",
+    "name": "عسل نحل كريمي سادة إمتنان - 250 جم",
+    "barcode": "6221078001650",
+    "item_type": "GS1",
+    "item_code": "6221078001650",
+    "unit_type": "",
+    "price": 111.2,
+    "cost": 111.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659662/1754818203/659662_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_473",
+    "internal_code": "601587",
+    "name": "البوادي عسل البرسيم - 225 جم",
+    "barcode": "6223000762134",
+    "item_type": "GS1",
+    "item_code": "6223000762134",
+    "unit_type": "",
+    "price": 58.0,
+    "cost": 58.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hab/hb0/50930269224990/601587_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_479",
+    "internal_code": "641699",
+    "name": "شمع العسل سعد -  1000 جرام",
+    "barcode": "6224002111029",
+    "item_type": "GS1",
+    "item_code": "6224002111029",
+    "unit_type": "",
+    "price": 235.3,
+    "cost": 235.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641699/1746621004/641699_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_483",
+    "internal_code": "107934",
+    "name": "البوادي حلاوة سادة - 275جم",
+    "barcode": "6223000760062",
+    "item_type": "GS1",
+    "item_code": "6223000760062",
+    "unit_type": "",
+    "price": 55.2,
+    "cost": 55.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc5/hae/44951065624606/107934_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_486",
+    "internal_code": "465441",
+    "name": "فيتراك مربى فراولة - 230 جرام",
+    "barcode": "6221024990816",
+    "item_type": "GS1",
+    "item_code": "6221024990816",
+    "unit_type": "",
+    "price": 33.0,
+    "cost": 33.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/h91/33070170374174/465441_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_492",
+    "internal_code": "625968",
+    "name": "البوادي مربى تين - 350 جرام",
+    "barcode": "6223000762486",
+    "item_type": "GS1",
+    "item_code": "6223000762486",
+    "unit_type": "",
+    "price": 31.0,
+    "cost": 36.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf8/h7e/52702579032094/625968_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_504",
+    "internal_code": "611909",
+    "name": "حاج عرفة عسل بحبة البركة - 500 جرام",
+    "barcode": "6223006250567",
+    "item_type": "GS1",
+    "item_code": "6223006250567",
+    "unit_type": "",
+    "price": 163.4,
+    "cost": 163.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h38/ha5/50042153664542/611909_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_507",
+    "internal_code": "636971",
+    "name": "مربي دون لوبيز التين بالعسل - 450 جم",
+    "barcode": "6224008467861",
+    "item_type": "GS1",
+    "item_code": "6224008467861",
+    "unit_type": "",
+    "price": 148.9,
+    "cost": 148.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/636971/1730818804/636971_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_518",
+    "internal_code": "595916",
+    "name": "البوادي حلاوة سبريد بالكراميل - 300 جرام",
+    "barcode": "6223000761748",
+    "item_type": "GS1",
+    "item_code": "6223000761748",
+    "unit_type": "",
+    "price": 70.4,
+    "cost": 70.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/595916/1762865426/595916_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_524",
+    "internal_code": "636972",
+    "name": "دون لوبيز مربي مشمش بالعسل - 450 جم",
+    "barcode": "6224008467885",
+    "item_type": "GS1",
+    "item_code": "6224008467885",
+    "unit_type": "",
+    "price": 149.5,
+    "cost": 149.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb5/h19/64878670118942/636972_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_543",
+    "internal_code": "161320",
+    "name": "البوادي حلاوة بالسوداني - 300 جم",
+    "barcode": "6223000760178",
+    "item_type": "GS1",
+    "item_code": "6223000760178",
+    "unit_type": "",
+    "price": 59.0,
+    "cost": 59.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h79/h5b/15418221101086/161320_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_554",
+    "internal_code": "625969",
+    "name": "البوادي مربى تين - 650 جرام",
+    "barcode": "6223000762493",
+    "item_type": "GS1",
+    "item_code": "6223000762493",
+    "unit_type": "",
+    "price": 52.5,
+    "cost": 52.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb5/hc9/52702578966558/625969_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_562",
+    "internal_code": "570893",
+    "name": "الرشيدى الميزان عسل أسود - 350 جرام",
+    "barcode": "6223007430524",
+    "item_type": "GS1",
+    "item_code": "6223007430524",
+    "unit_type": "",
+    "price": 26.5,
+    "cost": 26.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/570893/1744710003/570893_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_566",
+    "internal_code": "161318",
+    "name": "البوادي حلاوة باللوز - 300 جرام",
+    "barcode": "6223000760154",
+    "item_type": "GS1",
+    "item_code": "6223000760154",
+    "unit_type": "",
+    "price": 75.9,
+    "cost": 75.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6c/hb1/44951065591838/161318_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_609",
+    "internal_code": "456518",
+    "name": "برطمان مربى الفراولة منز اند جاسر - 340 جرام",
+    "barcode": "8008660612320",
+    "item_type": "GS1",
+    "item_code": "8008660612320",
+    "unit_type": "",
+    "price": 136.8,
+    "cost": 136.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h64/hf6/10067711066142/456518_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_628",
+    "internal_code": "17421",
+    "name": "فيتراك مربى فراولة - 430 جم",
+    "barcode": "6221024030017",
+    "item_type": "GS1",
+    "item_code": "6221024030017",
+    "unit_type": "",
+    "price": 47.0,
+    "cost": 47.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd6/h92/31821435371550/17421_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_637",
+    "internal_code": "625971",
+    "name": "البوادي مربى فراولة - 350 جرام",
+    "barcode": "6223000762455",
+    "item_type": "GS1",
+    "item_code": "6223000762455",
+    "unit_type": "",
+    "price": 31.0,
+    "cost": 36.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9a/hd7/52702578540574/625971_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_652",
+    "internal_code": "633132",
+    "name": "قهوة كعكة النحل والعسل - 35 جم",
+    "barcode": "6225000614574",
+    "item_type": "GS1",
+    "item_code": "6225000614574",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h08/h88/63771338604574/633132_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_658",
+    "internal_code": "87755",
+    "name": "هيرو ديليسيا مربى الفراوله - 350 جم",
+    "barcode": "6221024270017",
+    "item_type": "GS1",
+    "item_code": "6221024270017",
+    "unit_type": "",
+    "price": 58.5,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/87755/1753951204/87755_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_674",
+    "internal_code": "406177",
+    "name": "حلاوة سادة البوادي - 745 جم",
+    "barcode": "6223000760444",
+    "item_type": "GS1",
+    "item_code": "6223000760444",
+    "unit_type": "",
+    "price": 139.2,
+    "cost": 139.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf1/h84/44951068377118/406177_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_704",
+    "internal_code": "633134",
+    "name": "كعكة عسل النحل والشوكولاتة - 35 جم",
+    "barcode": "6225000614543",
+    "item_type": "GS1",
+    "item_code": "6225000614543",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h65/h9c/63771338014750/633134_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_724",
+    "internal_code": "262289",
+    "name": "عسل نوارة البرسيم امتنان - 450 جرام",
+    "barcode": "6221078011277",
+    "item_type": "GS1",
+    "item_code": "6221078011277",
+    "unit_type": "",
+    "price": 127.5,
+    "cost": 127.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2f/h91/15632522412062/262289_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_736",
+    "internal_code": "87756",
+    "name": "هيرو ديليسيا مربى المشمش - 350 جم",
+    "barcode": "6221024270024",
+    "item_type": "GS1",
+    "item_code": "6221024270024",
+    "unit_type": "",
+    "price": 65.0,
+    "cost": 78.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/87756/1753951204/87756_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_747",
+    "internal_code": "115636",
+    "name": "هيرو ديليسيا مربى الفاكهه المشكله - 350 جم",
+    "barcode": "6221024270192",
+    "item_type": "GS1",
+    "item_code": "6221024270192",
+    "unit_type": "",
+    "price": 58.5,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/115636/1753948803/115636_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_759",
+    "internal_code": "297141",
+    "name": "يمامة دبس رمان - 750 مل",
+    "barcode": "623695000300",
+    "item_type": "GS1",
+    "item_code": "623695000300",
+    "unit_type": "",
+    "price": 272.0,
+    "cost": 272.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h14/h94/14932332773406/297141_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_764",
+    "internal_code": "642346",
+    "name": "عسل نحل بري سعد - 500 جرام",
+    "barcode": "6225000435773",
+    "item_type": "GS1",
+    "item_code": "6225000435773",
+    "unit_type": "",
+    "price": 156.0,
+    "cost": 156.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642346/1730710803/642346_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_773",
+    "internal_code": "382734",
+    "name": "البوادي حلاوة سبريد سادة - 160 جرام",
+    "barcode": "6223000760376",
+    "item_type": "GS1",
+    "item_code": "6223000760376",
+    "unit_type": "",
+    "price": 33.8,
+    "cost": 33.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/382734/1762865445/382734_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_774",
+    "internal_code": "62485",
+    "name": "جنة عسل نحل سكويز - 250 جرام",
+    "barcode": "6221078021184",
+    "item_type": "GS1",
+    "item_code": "6221078021184",
+    "unit_type": "",
+    "price": 61.0,
+    "cost": 61.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/62485/1763976134/62485_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_798",
+    "internal_code": "506184",
+    "name": "فيتراك مربى التوت الأحمر - 430 جم",
+    "barcode": "6221024992391",
+    "item_type": "GS1",
+    "item_code": "6221024992391",
+    "unit_type": "",
+    "price": 69.0,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/506184/1760439605/506184_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_799",
+    "internal_code": "325276",
+    "name": "حلاوة سبريد سادة من الرشيدي الميزان - 300 جرام",
+    "barcode": "6223000053331",
+    "item_type": "GS1",
+    "item_code": "6223000053331",
+    "unit_type": "",
+    "price": 64.8,
+    "cost": 64.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/325276/1744710003/325276_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_807",
+    "internal_code": "601592",
+    "name": "البوادي عسل زهور الربيع - 780 جرام",
+    "barcode": "6223000762202",
+    "item_type": "GS1",
+    "item_code": "6223000762202",
+    "unit_type": "",
+    "price": 181.0,
+    "cost": 181.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7b/hb7/50930269028382/601592_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_810",
+    "internal_code": "641703",
+    "name": "عسل البرسيم سعد - 500 جرام",
+    "barcode": "6224002111258",
+    "item_type": "GS1",
+    "item_code": "6224002111258",
+    "unit_type": "",
+    "price": 105.6,
+    "cost": 105.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641703/1755153003/641703_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_827",
+    "internal_code": "88091",
+    "name": "مربى هيرو ديليسيا البرتقال - 350 جم",
+    "barcode": "6221024270123",
+    "item_type": "GS1",
+    "item_code": "6221024270123",
+    "unit_type": "",
+    "price": 58.5,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/88091/1753951204/88091_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_869",
+    "internal_code": "664286",
+    "name": "حلاوه سبريد ياميز البوادى بطعم الكنافه المقرمشه - 300 جرام",
+    "barcode": "6223000762820",
+    "item_type": "GS1",
+    "item_code": "6223000762820",
+    "unit_type": "",
+    "price": 68.0,
+    "cost": 75.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664286/1760434205/664286_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_876",
+    "internal_code": "175437",
+    "name": "هيرو ديليسيا مربى توت الغابة - 350 جم",
+    "barcode": "6221024270512",
+    "item_type": "GS1",
+    "item_code": "6221024270512",
+    "unit_type": "",
+    "price": 86.0,
+    "cost": 97.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/175437/1753948803/175437_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_929",
+    "internal_code": "642340",
+    "name": "عسل زهور الموالح سعد - 500 جرام",
+    "barcode": "6225000435728",
+    "item_type": "GS1",
+    "item_code": "6225000435728",
+    "unit_type": "",
+    "price": 107.6,
+    "cost": 107.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642340/1751196603/642340_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_937",
+    "internal_code": "506183",
+    "name": "فيتراك مربى الكرز الأسود - 430 جم",
+    "barcode": "6221024992766",
+    "item_type": "GS1",
+    "item_code": "6221024992766",
+    "unit_type": "",
+    "price": 69.0,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/506183/1760439605/506183_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_951",
+    "internal_code": "115637",
+    "name": "هيرو ديليسيا مربى التين - 350 جم",
+    "barcode": "6221024270031",
+    "item_type": "GS1",
+    "item_code": "6221024270031",
+    "unit_type": "",
+    "price": 58.5,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/115637/1753948803/115637_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_960",
+    "internal_code": "642343",
+    "name": "عسل نوارة البرسيم سعد - 500 جرام",
+    "barcode": "6225000435759",
+    "item_type": "GS1",
+    "item_code": "6225000435759",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642343/1746621004/642343_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_963",
+    "internal_code": "634467",
+    "name": "فريسكا بار ويفر بالحلاوة حجم أكبر - 12 قطعة",
+    "barcode": "6223000554449",
+    "item_type": "GS1",
+    "item_code": "6223000554449",
+    "unit_type": "",
+    "price": 58.7,
+    "cost": 58.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/634467/1727095203/634467_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_968",
+    "internal_code": "500886",
+    "name": "هيرو ديليسيا عسل زهور الربيع - 650 جم",
+    "barcode": "6221024992582",
+    "item_type": "GS1",
+    "item_code": "6221024992582",
+    "unit_type": "",
+    "price": 179.0,
+    "cost": 195.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500886/1748863804/500886_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_991",
+    "internal_code": "17574",
+    "name": "الرشيدي الميزان حلاوة سادة - 120 جم",
+    "barcode": "6223000052631",
+    "item_type": "GS1",
+    "item_code": "6223000052631",
+    "unit_type": "",
+    "price": 28.0,
+    "cost": 28.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/17574/1744710003/17574_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1012",
+    "internal_code": "390347",
+    "name": "حلاوة سبريد الرشيدي الميزان - 150 جم",
+    "barcode": "6223000053539",
+    "item_type": "GS1",
+    "item_code": "6223000053539",
+    "unit_type": "",
+    "price": 33.5,
+    "cost": 33.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/390347/1744710003/390347_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1058",
+    "internal_code": "559381",
+    "name": "إمتنان عسل زهور الربيع - 125 جم",
+    "barcode": "6221078766108",
+    "item_type": "GS1",
+    "item_code": "6221078766108",
+    "unit_type": "",
+    "price": 45.5,
+    "cost": 45.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf1/h77/27008296517662/559381_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1067",
+    "internal_code": "546166",
+    "name": "حلاوة حلواني - كيلو",
+    "barcode": "6221029501253",
+    "item_type": "GS1",
+    "item_code": "6221029501253",
+    "unit_type": "",
+    "price": 169.0,
+    "cost": 169.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/had/h14/50124517474334/546166_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1077",
+    "internal_code": "175435",
+    "name": "هيرو ديليسيا مربى الكرز الاسود لايت - 320 جم",
+    "barcode": "7614200005999",
+    "item_type": "GS1",
+    "item_code": "7614200005999",
+    "unit_type": "",
+    "price": 130.0,
+    "cost": 130.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/175435/1753948803/175435_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1095",
+    "internal_code": "342384",
+    "name": "سان دالفور مربى مشمش - 284 جرام",
+    "barcode": "5014271798196",
+    "item_type": "GS1",
+    "item_code": "5014271798196",
+    "unit_type": "",
+    "price": 290.0,
+    "cost": 290.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbd/h08/14529847689246/342384_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1140",
+    "internal_code": "409969",
+    "name": "فيتراك مربى تين كريمي - 430 جرام",
+    "barcode": "6221024008290",
+    "item_type": "GS1",
+    "item_code": "6221024008290",
+    "unit_type": "",
+    "price": 47.0,
+    "cost": 47.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h98/h08/63823720546334/409969_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1158",
+    "internal_code": "500887",
+    "name": "هيرو ديليسيا عسل موالح - 650 جم",
+    "barcode": "6221024992605",
+    "item_type": "GS1",
+    "item_code": "6221024992605",
+    "unit_type": "",
+    "price": 179.0,
+    "cost": 195.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500887/1748863804/500887_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1161",
+    "internal_code": "437703",
+    "name": "مربا كوكيز برقائق الشوكولاتة البيضاء والتوت - 150 جرام",
+    "barcode": "8710502153013",
+    "item_type": "GS1",
+    "item_code": "8710502153013",
+    "unit_type": "",
+    "price": 125.4,
+    "cost": 125.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf5/hd0/49347559587870/437703_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1162",
+    "internal_code": "500879",
+    "name": "هيرو ديليسيا عسل البرسيم - 365 جم",
+    "barcode": "6221024992568",
+    "item_type": "GS1",
+    "item_code": "6221024992568",
+    "unit_type": "",
+    "price": 107.0,
+    "cost": 116.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500879/1748863804/500879_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1174",
+    "internal_code": "52688",
+    "name": "فيتراك مربى فراولة لايت - 220 جرام",
+    "barcode": "6221024220012",
+    "item_type": "GS1",
+    "item_code": "6221024220012",
+    "unit_type": "",
+    "price": 33.0,
+    "cost": 33.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf4/h3b/51361292320798/52688_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1201",
+    "internal_code": "175434",
+    "name": "هيرو ديليسيا مربى توت الغابة لايت - 320 جم",
+    "barcode": "7614200037013",
+    "item_type": "GS1",
+    "item_code": "7614200037013",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 130.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/175434/1753948803/175434_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1254",
+    "internal_code": "500876",
+    "name": "هيرو ديليسيا عسل البرسيم - 225 جم",
+    "barcode": "6221024992537",
+    "item_type": "GS1",
+    "item_code": "6221024992537",
+    "unit_type": "",
+    "price": 71.5,
+    "cost": 71.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500876/1748863804/500876_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1256",
+    "internal_code": "500878",
+    "name": "هيرو عسل زهور الموالح - 225 جم",
+    "barcode": "6221024992544",
+    "item_type": "GS1",
+    "item_code": "6221024992544",
+    "unit_type": "",
+    "price": 67.0,
+    "cost": 71.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500878/1748863804/500878_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1266",
+    "internal_code": "641702",
+    "name": "سكويز عسل زهور الموالح سعد - 500 جرام",
+    "barcode": "6224002111241",
+    "item_type": "GS1",
+    "item_code": "6224002111241",
+    "unit_type": "",
+    "price": 107.6,
+    "cost": 107.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641702/1740402004/641702_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1270",
+    "internal_code": "17573",
+    "name": "حلاوة الرشيدى الميزان سادة - 510 جرام",
+    "barcode": "6223000052655",
+    "item_type": "GS1",
+    "item_code": "6223000052655",
+    "unit_type": "",
+    "price": 95.0,
+    "cost": 108.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/17573/1744710003/17573_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1289",
+    "internal_code": "175436",
+    "name": "هيرو ديليسيا مربى التوت لايت - 320 جم",
+    "barcode": "7614200037020",
+    "item_type": "GS1",
+    "item_code": "7614200037020",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 130.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/175436/1753948803/175436_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1306",
+    "internal_code": "17427",
+    "name": "فيتراك مربى بلح - 430 جرام",
+    "barcode": "6221024010088",
+    "item_type": "GS1",
+    "item_code": "6221024010088",
+    "unit_type": "",
+    "price": 47.0,
+    "cost": 47.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h46/hf5/31821436125214/17427_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1417",
+    "internal_code": "52689",
+    "name": "مربى فيتراك مشمش لايت - 220 جم",
+    "barcode": "6221024220029",
+    "item_type": "GS1",
+    "item_code": "6221024220029",
+    "unit_type": "",
+    "price": 33.4,
+    "cost": 33.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hff/h26/63823725920286/52689_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1422",
+    "internal_code": "500880",
+    "name": "هيرو ديليسيا عسل زهور الربيع - 365 جم",
+    "barcode": "6221024920066",
+    "item_type": "GS1",
+    "item_code": "6221024920066",
+    "unit_type": "",
+    "price": 107.0,
+    "cost": 116.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500880/1748863804/500880_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1432",
+    "internal_code": "552653",
+    "name": "إمتنان عسل نوارة البرسيم - 1 كجم",
+    "barcode": "6221078763800",
+    "item_type": "GS1",
+    "item_code": "6221078763800",
+    "unit_type": "",
+    "price": 415.3,
+    "cost": 415.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha3/h9c/14853856395294/552653_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1443",
+    "internal_code": "34430",
+    "name": "حلواني اخوان مربى برتقال لايت - 380 جرام",
+    "barcode": "6221029600154",
+    "item_type": "GS1",
+    "item_code": "6221029600154",
+    "unit_type": "",
+    "price": 55.0,
+    "cost": 55.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcd/h78/14529848836126/34430_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1466",
+    "internal_code": "87752",
+    "name": "هيرو ديليسيا مربى العنبية - 350 جم",
+    "barcode": "6221024270352",
+    "item_type": "GS1",
+    "item_code": "6221024270352",
+    "unit_type": "",
+    "price": 86.0,
+    "cost": 97.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/87752/1753951204/87752_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1467",
+    "internal_code": "500881",
+    "name": "هيرو ديليسيا عسل موالح - 365 جم",
+    "barcode": "6221024992575",
+    "item_type": "GS1",
+    "item_code": "6221024992575",
+    "unit_type": "",
+    "price": 107.0,
+    "cost": 116.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500881/1748863804/500881_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1475",
+    "internal_code": "34422",
+    "name": "حلواني حلاوة سادة - 575جم",
+    "barcode": "6221029500126",
+    "item_type": "GS1",
+    "item_code": "6221029500126",
+    "unit_type": "",
+    "price": 95.0,
+    "cost": 95.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9f/hd6/14835129679902/34422_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1500",
+    "internal_code": "559380",
+    "name": "إمتنان عسل البرسيم - 125 جم",
+    "barcode": "6221078766092",
+    "item_type": "GS1",
+    "item_code": "6221078766092",
+    "unit_type": "",
+    "price": 45.5,
+    "cost": 45.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3b/h98/14895181824030/559380_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1504",
+    "internal_code": "529772",
+    "name": "حلاوة بالشوكولاتة حلواني اخوان - 575 جم",
+    "barcode": "6221029111575",
+    "item_type": "GS1",
+    "item_code": "6221029111575",
+    "unit_type": "",
+    "price": 108.0,
+    "cost": 108.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h67/h1d/27008276398110/529772_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1535",
+    "internal_code": "353035",
+    "name": "الرشيدي الميزان حلاوة سبريد بالشوكولاتة - 300 جم",
+    "barcode": "6223000053348",
+    "item_type": "GS1",
+    "item_code": "6223000053348",
+    "unit_type": "",
+    "price": 70.0,
+    "cost": 70.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/353035/1744710003/353035_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1540",
+    "internal_code": "161319",
+    "name": "حلاوة البوادي بالشيكولاتة - 275جم",
+    "barcode": "6223000760161",
+    "item_type": "GS1",
+    "item_code": "6223000760161",
+    "unit_type": "",
+    "price": 62.6,
+    "cost": 62.6,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd6/hb1/44951065559070/161319_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1573",
+    "internal_code": "665158",
+    "name": "حلاوة الرشيدي الميزان - 1350 جرام",
+    "barcode": "6223000053508",
+    "item_type": "GS1",
+    "item_code": "6223000053508",
+    "unit_type": "",
+    "price": 231.8,
+    "cost": 231.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665158/1763636405/665158_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1627",
+    "internal_code": "17580",
+    "name": "الميزان حلاوة باللوز - 230 جم",
+    "barcode": "6223000052624",
+    "item_type": "GS1",
+    "item_code": "6223000052624",
+    "unit_type": "",
+    "price": 76.0,
+    "cost": 76.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/17580/1744710003/17580_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1662",
+    "internal_code": "617145",
+    "name": "إمتنان عسل زهور الربيع - 450 جرام",
+    "barcode": "6221078111274",
+    "item_type": "GS1",
+    "item_code": "6221078111274",
+    "unit_type": "",
+    "price": 127.5,
+    "cost": 127.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h99/h56/61598666227742/617145_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1697",
+    "internal_code": "601593",
+    "name": "البوادي عسل زهور الموالح - 225جم",
+    "barcode": "6223000762219",
+    "item_type": "GS1",
+    "item_code": "6223000762219",
+    "unit_type": "",
+    "price": 58.0,
+    "cost": 58.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/h78/50930270765086/601593_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1711",
+    "internal_code": "496981",
+    "name": "الرشيدي الميزان حلاوة بالشوكولاتة - 700 جم",
+    "barcode": "6223000057698",
+    "item_type": "GS1",
+    "item_code": "6223000057698",
+    "unit_type": "",
+    "price": 150.0,
+    "cost": 150.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/496981/1744710003/496981_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1723",
+    "internal_code": "625975",
+    "name": "البوادي مربى مشمش - 650 جرام",
+    "barcode": "6223000762523",
+    "item_type": "GS1",
+    "item_code": "6223000762523",
+    "unit_type": "",
+    "price": 60.3,
+    "cost": 60.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h26/hbf/52702577590302/625975_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1728",
+    "internal_code": "634468",
+    "name": "فريسكا بار ويفر بالحلاوة حجم أكبر - 1 قطعة",
+    "barcode": "6223000554432",
+    "item_type": "GS1",
+    "item_code": "6223000554432",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h61/h78/64357423415326/634468_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1767",
+    "internal_code": "34434",
+    "name": "حلواني مربى تين - 380 جم",
+    "barcode": "6221029620114",
+    "item_type": "GS1",
+    "item_code": "6221029620114",
+    "unit_type": "",
+    "price": 45.0,
+    "cost": 45.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h35/h7c/14529848934430/34434_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1770",
+    "internal_code": "262291",
+    "name": "عسل نحل طبيعي جنة سكويز - 450 جم",
+    "barcode": "6221078022105",
+    "item_type": "GS1",
+    "item_code": "6221078022105",
+    "unit_type": "",
+    "price": 100.0,
+    "cost": 100.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdd/hda/14835120865310/262291_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1794",
+    "internal_code": "625973",
+    "name": "مربى مشمش البوادي - 190 جرام",
+    "barcode": "6223000762509",
+    "item_type": "GS1",
+    "item_code": "6223000762509",
+    "unit_type": "",
+    "price": 26.2,
+    "cost": 26.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h29/he2/52702578212894/625973_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1801",
+    "internal_code": "645637",
+    "name": "عسل نحل زهور البرسيم مرام - 950جم",
+    "barcode": "6224008467571",
+    "item_type": "GS1",
+    "item_code": "6224008467571",
+    "unit_type": "",
+    "price": 194.0,
+    "cost": 194.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/645637/1734860404/645637_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1903",
+    "internal_code": "604843",
+    "name": "مرام عسل أبيض طبيعي - 400 جرام",
+    "barcode": "6224008467281",
+    "item_type": "GS1",
+    "item_code": "6224008467281",
+    "unit_type": "",
+    "price": 100.0,
+    "cost": 100.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/604843/1730210403/604843_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1907",
+    "internal_code": "34442",
+    "name": "حلواني اخوان مربى فراولة لايت - 380 جرام",
+    "barcode": "6221029670157",
+    "item_type": "GS1",
+    "item_code": "6221029670157",
+    "unit_type": "",
+    "price": 55.0,
+    "cost": 55.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h70/hae/27007639945246/34442_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1917",
+    "internal_code": "558634",
+    "name": "بريستو دبس رمان - 275 مل",
+    "barcode": "6222021106705",
+    "item_type": "GS1",
+    "item_code": "6222021106705",
+    "unit_type": "",
+    "price": 66.8,
+    "cost": 66.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/558634/1772354884/558634_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2003",
+    "internal_code": "575385",
+    "name": "دبس الرمان يمامة - 500 مل",
+    "barcode": "5281099000163",
+    "item_type": "GS1",
+    "item_code": "5281099000163",
+    "unit_type": "",
+    "price": 271.5,
+    "cost": 271.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h93/h8d/27933570957342/575385_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2015",
+    "internal_code": "383485",
+    "name": "الرشيدي الميزان حلاوة بالشوكولاتة سبريد - 150 جرام",
+    "barcode": "6223000053522",
+    "item_type": "GS1",
+    "item_code": "6223000053522",
+    "unit_type": "",
+    "price": 36.5,
+    "cost": 36.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/383485/1744710003/383485_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2030",
+    "internal_code": "634284",
+    "name": "عسل زهرة البرسيم جنة - 250 جرام",
+    "barcode": "6221078001339",
+    "item_type": "GS1",
+    "item_code": "6221078001339",
+    "unit_type": "",
+    "price": 65.0,
+    "cost": 65.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/634284/1759140005/634284_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2071",
+    "internal_code": "570976",
+    "name": "إمتنان عسل موالح - 450 جرام",
+    "barcode": "6221078241278",
+    "item_type": "GS1",
+    "item_code": "6221078241278",
+    "unit_type": "",
+    "price": 134.0,
+    "cost": 134.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h96/h9b/16903059767326/570976_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2085",
+    "internal_code": "460445",
+    "name": "عسل زهور الربيع إمتنان - 250جم",
+    "barcode": "6221078111199",
+    "item_type": "GS1",
+    "item_code": "6221078111199",
+    "unit_type": "",
+    "price": 73.5,
+    "cost": 73.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1d/hc8/14835328974878/460445_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2180",
+    "internal_code": "471552",
+    "name": "توليدو دبس رمان - 325 مل",
+    "barcode": "6211101916075",
+    "item_type": "GS1",
+    "item_code": "6211101916075",
+    "unit_type": "",
+    "price": 38.0,
+    "cost": 45.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/471552/1759129205/471552_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2213",
+    "internal_code": "645639",
+    "name": "عسل زهور البرسيم مرام سكويز - 850جم",
+    "barcode": "6224008467274",
+    "item_type": "GS1",
+    "item_code": "6224008467274",
+    "unit_type": "",
+    "price": 190.0,
+    "cost": 190.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/645639/1734860404/645639_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2338",
+    "internal_code": "262301",
+    "name": "عسل بحبة البركة 250 جم من امتنان",
+    "barcode": "6221078091194",
+    "item_type": "GS1",
+    "item_code": "6221078091194",
+    "unit_type": "",
+    "price": 99.0,
+    "cost": 99.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h99/h91/10066471976990/262301_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2377",
+    "internal_code": "87753",
+    "name": "هيرو ديليسيا مربى التوت - 350 جم",
+    "barcode": "6221024270369",
+    "item_type": "GS1",
+    "item_code": "6221024270369",
+    "unit_type": "",
+    "price": 86.0,
+    "cost": 97.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/87753/1753951204/87753_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2386",
+    "internal_code": "52690",
+    "name": "فيتراك مربى تين لايت - 220 جرام",
+    "barcode": "6221024220036",
+    "item_type": "GS1",
+    "item_code": "6221024220036",
+    "unit_type": "",
+    "price": 33.0,
+    "cost": 33.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h28/h0c/63823725166622/52690_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2411",
+    "internal_code": "279718",
+    "name": "عسل نحل عضوي ايزيس - 250 جم",
+    "barcode": "6222003006252",
+    "item_type": "GS1",
+    "item_code": "6222003006252",
+    "unit_type": "",
+    "price": 88.8,
+    "cost": 88.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/279718/1727017204/279718_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2461",
+    "internal_code": "601588",
+    "name": "البوادي عسل زهرة البرسيم - 420 جرام",
+    "barcode": "6223000762141",
+    "item_type": "GS1",
+    "item_code": "6223000762141",
+    "unit_type": "",
+    "price": 97.5,
+    "cost": 97.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0b/hce/50930271191070/601588_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2467",
+    "internal_code": "645638",
+    "name": "عسل نحل زهور الربيع مرام - 950جم",
+    "barcode": "6224008467311",
+    "item_type": "GS1",
+    "item_code": "6224008467311",
+    "unit_type": "",
+    "price": 194.0,
+    "cost": 194.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/645638/1734860404/645638_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2495",
+    "internal_code": "625967",
+    "name": "البوادي مربى تين - 190 جرام",
+    "barcode": "6223000762479",
+    "item_type": "GS1",
+    "item_code": "6223000762479",
+    "unit_type": "",
+    "price": 23.5,
+    "cost": 23.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h12/h74/52702579392542/625967_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2496",
+    "internal_code": "642339",
+    "name": "عسل زهور الموالح سعد - 1 كجم",
+    "barcode": "6225000435711",
+    "item_type": "GS1",
+    "item_code": "6225000435711",
+    "unit_type": "",
+    "price": 204.3,
+    "cost": 204.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642339/1730710803/642339_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2503",
+    "internal_code": "175432",
+    "name": "هيرو ديليسيا مربى الفراوله لايت - 320 جم",
+    "barcode": "7614200005975",
+    "item_type": "GS1",
+    "item_code": "7614200005975",
+    "unit_type": "",
+    "price": 77.0,
+    "cost": 77.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/175432/1753948803/175432_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2510",
+    "internal_code": "643391",
+    "name": "بار حلاوة البوادى بالشوكولاتة - 19 جرام",
+    "barcode": "6223000762684",
+    "item_type": "GS1",
+    "item_code": "6223000762684",
+    "unit_type": "",
+    "price": 3.0,
+    "cost": 3.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/643391/1748163603/643391_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2525",
+    "internal_code": "450794",
+    "name": "دبس رمان فرسان - 320جم",
+    "barcode": "8690816640006",
+    "item_type": "GS1",
+    "item_code": "8690816640006",
+    "unit_type": "",
+    "price": 128.5,
+    "cost": 128.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9f/ha6/14932568735774/450794_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2546",
+    "internal_code": "402217",
+    "name": "امتنان عسل بي إميون - 170جم",
+    "barcode": "6221078301163",
+    "item_type": "GS1",
+    "item_code": "6221078301163",
+    "unit_type": "",
+    "price": 332.0,
+    "cost": 332.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5b/h14/10067111575582/402217_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2612",
+    "internal_code": "306976",
+    "name": "الميزان مربى مشمش - 700 جرام",
+    "barcode": "6223000053065",
+    "item_type": "GS1",
+    "item_code": "6223000053065",
+    "unit_type": "",
+    "price": 62.0,
+    "cost": 66.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/306976/1743075603/306976_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2746",
+    "internal_code": "641701",
+    "name": "شمع عسل السعد - 250 جرام",
+    "barcode": "6224002111081",
+    "item_type": "GS1",
+    "item_code": "6224002111081",
+    "unit_type": "",
+    "price": 76.5,
+    "cost": 76.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641701/1746621004/641701_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2815",
+    "internal_code": "87754",
+    "name": "هيرو ديليسيا مربى الكرز الاسود - 350 جم",
+    "barcode": "6221024270376",
+    "item_type": "GS1",
+    "item_code": "6221024270376",
+    "unit_type": "",
+    "price": 86.0,
+    "cost": 97.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/87754/1753951204/87754_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2860",
+    "internal_code": "655126",
+    "name": "مربى البوادي تين - 365 جرام",
+    "barcode": "6223000762721",
+    "item_type": "GS1",
+    "item_code": "6223000762721",
+    "unit_type": "",
+    "price": 34.0,
+    "cost": 34.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/655126/1751279403/655126_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2880",
+    "internal_code": "17581",
+    "name": "الرشيدي الميزان حلاوة بالفستق - 230 جم",
+    "barcode": "6223000052617",
+    "item_type": "GS1",
+    "item_code": "6223000052617",
+    "unit_type": "",
+    "price": 98.5,
+    "cost": 98.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/17581/1744710003/17581_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2932",
+    "internal_code": "500885",
+    "name": "هيرو ديليسيا عسل البرسيم - 650 جم",
+    "barcode": "6221024992599",
+    "item_type": "GS1",
+    "item_code": "6221024992599",
+    "unit_type": "",
+    "price": 195.0,
+    "cost": 195.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/500885/1748863804/500885_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2941",
+    "internal_code": "521054",
+    "name": "رقائق فطور شيريوز بالعسل - 375 جرام",
+    "barcode": "7613032222109",
+    "item_type": "GS1",
+    "item_code": "7613032222109",
+    "unit_type": "",
+    "price": 155.0,
+    "cost": 155.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/521054/1751374803/521054_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3022",
+    "internal_code": "175433",
+    "name": "هيرو ديليسيا مربى المشمش لايت - 320 جم",
+    "barcode": "7614200005951",
+    "item_type": "GS1",
+    "item_code": "7614200005951",
+    "unit_type": "",
+    "price": 87.0,
+    "cost": 87.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/175433/1753948803/175433_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3104",
+    "internal_code": "667894",
+    "name": "سبريد القهوة والكراميل ياميز - 300 جرام",
+    "barcode": "6223000762813",
+    "item_type": "GS1",
+    "item_code": "6223000762813",
+    "unit_type": "",
+    "price": 67.0,
+    "cost": 75.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667894/1767094200/667894_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3114",
+    "internal_code": "182968",
+    "name": "ازيس عسل أبيض - 900 جرام",
+    "barcode": "6223000479803",
+    "item_type": "GS1",
+    "item_code": "6223000479803",
+    "unit_type": "",
+    "price": 236.6,
+    "cost": 236.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/182968/1727017204/182968_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3117",
+    "internal_code": "667895",
+    "name": "سبريد الكرز ياميز - 300 جرام",
+    "barcode": "6223000762790",
+    "item_type": "GS1",
+    "item_code": "6223000762790",
+    "unit_type": "",
+    "price": 67.0,
+    "cost": 75.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667895/1767094200/667895_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3181",
+    "internal_code": "668079",
+    "name": "ويفر فرسكا بلوك بسبريد البسكويت",
+    "barcode": "6223000555651",
+    "item_type": "GS1",
+    "item_code": "6223000555651",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/668079/1765461604/668079_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3193",
+    "internal_code": "668080",
+    "name": "ويفر فرسكا بلوك بسبريد البسكويت - 12 قطعة",
+    "barcode": "6223000555668",
+    "item_type": "GS1",
+    "item_code": "6223000555668",
+    "unit_type": "",
+    "price": 118.8,
+    "cost": 118.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/668080/1765461604/668080_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3298",
+    "internal_code": "666460",
+    "name": "حلاوة البوادى - 350 جرام",
+    "barcode": "6223000760802",
+    "item_type": "GS1",
+    "item_code": "6223000760802",
+    "unit_type": "",
+    "price": 210.0,
+    "cost": 230.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666460/1763467206/666460_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]

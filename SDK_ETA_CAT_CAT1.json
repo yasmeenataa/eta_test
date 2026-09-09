@@ -1,0 +1,5972 @@
+[
+  {
+    "id": "prod_001",
+    "internal_code": "659609",
+    "name": "حليب نستله نيدو المجفف - 1000 جرام",
+    "barcode": "6221007043379",
+    "item_type": "GS1",
+    "item_code": "6221007043379",
+    "unit_type": "",
+    "price": 363.0,
+    "cost": 394.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659609/1755073803/659609_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_008",
+    "internal_code": "499345",
+    "name": "شوكولاتة سبريد بالبندق نوتيلا - 600 جم",
+    "barcode": "8000500179864",
+    "item_type": "GS1",
+    "item_code": "8000500179864",
+    "unit_type": "",
+    "price": 354.0,
+    "cost": 354.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hae/h9e/51742726553630/499345_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_036",
+    "internal_code": "469993",
+    "name": "سبريد شيكولاتة بالبندق دريم - 900 جم",
+    "barcode": "6223003943202",
+    "item_type": "GS1",
+    "item_code": "6223003943202",
+    "unit_type": "",
+    "price": 284.3,
+    "cost": 284.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h12/h3c/14835403816990/469993_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_064",
+    "internal_code": "488207",
+    "name": "شيبسي بالجبنة المتبلة - 65 جم",
+    "barcode": "6221031490668",
+    "item_type": "GS1",
+    "item_code": "6221031490668",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7c/h94/14835420561438/488207_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 5,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_080",
+    "internal_code": "660032",
+    "name": "شوكولاتة كادبوري ديري ميلك بالبندق - 30 جرام - 5 قطع",
+    "barcode": "7622202329661",
+    "item_type": "GS1",
+    "item_code": "7622202329661",
+    "unit_type": "",
+    "price": 130.0,
+    "cost": 141.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660032/1755073803/660032_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 10,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_082",
+    "internal_code": "652186",
+    "name": "شوكولاتة الحليب كادبوري فليك مينيز - 145 جرام",
+    "barcode": "7622202296550",
+    "item_type": "GS1",
+    "item_code": "7622202296550",
+    "unit_type": "",
+    "price": 140.0,
+    "cost": 184.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652186/1744624804/652186_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 20,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_083",
+    "internal_code": "652184",
+    "name": "شوكولاتة الحليب كادبوري ديري ميلك مينيز - 156 جرام",
+    "barcode": "7622202296499",
+    "item_type": "GS1",
+    "item_code": "7622202296499",
+    "unit_type": "",
+    "price": 140.0,
+    "cost": 183.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652184/1744815603/652184_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_085",
+    "internal_code": "660797",
+    "name": "بسكويت اوريو بالشوكولاتة والبندق - 5 بسكوتات - 43.75 جرام",
+    "barcode": "7622202831881",
+    "item_type": "GS1",
+    "item_code": "7622202831881",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660797/1765897204/660797_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_114",
+    "internal_code": "660798",
+    "name": "بسكويت أوريو بالشوكولاتة والبندق - 5 قطع",
+    "barcode": "7622202831874",
+    "item_type": "GS1",
+    "item_code": "7622202831874",
+    "unit_type": "",
+    "price": 119.4,
+    "cost": 119.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660798/1758450604/660798_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_128",
+    "internal_code": "498693",
+    "name": "بسكويت توك بالجبنة - 32جم - 12 قطعة",
+    "barcode": "7622210970411",
+    "item_type": "GS1",
+    "item_code": "7622210970411",
+    "unit_type": "",
+    "price": 96.0,
+    "cost": 96.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/498693/1766655602/498693_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_148",
+    "internal_code": "656725",
+    "name": "مسحوق حليب نيدو المدعم الغني بالألياف - 500 جرام",
+    "barcode": "6221007043232",
+    "item_type": "GS1",
+    "item_code": "6221007043232",
+    "unit_type": "",
+    "price": 213.2,
+    "cost": 213.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656725/1751202004/656725_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_152",
+    "internal_code": "548882",
+    "name": "مولتو ميني ماجنم بالشوكولاتة والبندق - 70 جرام",
+    "barcode": "6223000496343",
+    "item_type": "GS1",
+    "item_code": "6223000496343",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h66/h4e/49986436857886/548882_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_209",
+    "internal_code": "375048",
+    "name": "البوادي حلاوة سبريد بالشوكولاتة والبندق - 300 جرام",
+    "barcode": "6223000760369",
+    "item_type": "GS1",
+    "item_code": "6223000760369",
+    "unit_type": "",
+    "price": 70.0,
+    "cost": 70.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/375048/1762865462/375048_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_214",
+    "internal_code": "657295",
+    "name": "ويفرجي رولز محشوة بكريمة البندق - 4 أصابع",
+    "barcode": "6223011438356",
+    "item_type": "GS1",
+    "item_code": "6223011438356",
+    "unit_type": "",
+    "price": 6.7,
+    "cost": 6.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/657295/1755171004/657295_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_220",
+    "internal_code": "663926",
+    "name": "شوكولاتة الحليب كادبوري بالبندق - 18.5 جرام",
+    "barcode": "7622202221835",
+    "item_type": "GS1",
+    "item_code": "7622202221835",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/663926/1759916404/663926_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_248",
+    "internal_code": "376044",
+    "name": "نوتيلا  شوكولاتة سبريد بالبندق - 180 جرام",
+    "barcode": "80177425",
+    "item_type": "GS1",
+    "item_code": "80177425",
+    "unit_type": "",
+    "price": 144.3,
+    "cost": 144.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8e/h2d/50042146947102/376044_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_255",
+    "internal_code": "544805",
+    "name": "بشاميل ماجي بطعم الجبنة - 70 جرام",
+    "barcode": "6221007038122",
+    "item_type": "GS1",
+    "item_code": "6221007038122",
+    "unit_type": "",
+    "price": 13.8,
+    "cost": 13.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/544805/1751374803/544805_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_258",
+    "internal_code": "499082",
+    "name": "شوكولاتة كادبوري ديري ميلك ميني بالبندق - 156 جرام",
+    "barcode": "7622202296116",
+    "item_type": "GS1",
+    "item_code": "7622202296116",
+    "unit_type": "",
+    "price": 140.0,
+    "cost": 180.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h35/h53/49727353716766/499082_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_277",
+    "internal_code": "620312",
+    "name": "نيدو لبن بودرة - 1200 جرام",
+    "barcode": "6221007040729",
+    "item_type": "GS1",
+    "item_code": "6221007040729",
+    "unit_type": "",
+    "price": 489.2,
+    "cost": 489.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb5/h2e/51411616432158/620312_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_292",
+    "internal_code": "480728",
+    "name": "مكفتيز دايجستيف بسكويت شوكولاتة بالحليب - 200 جم",
+    "barcode": "6223003804664",
+    "item_type": "GS1",
+    "item_code": "6223003804664",
+    "unit_type": "",
+    "price": 81.5,
+    "cost": 81.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/480728/1735153803/480728_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_302",
+    "internal_code": "592973",
+    "name": "نستله الأساسي حليب مجفف - 200 جرام",
+    "barcode": "6221007040767",
+    "item_type": "GS1",
+    "item_code": "6221007040767",
+    "unit_type": "",
+    "price": 64.7,
+    "cost": 64.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/592973/1751374803/592973_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_336",
+    "internal_code": "659822",
+    "name": "خلطة البشاميل الكريمي بالجبنة كنور - 70 جرام",
+    "barcode": "6221155608109",
+    "item_type": "GS1",
+    "item_code": "6221155608109",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659822/1757584806/659822_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_379",
+    "internal_code": "626983",
+    "name": "دون لوبيز شوكولاته سبريد بالبندق - 350 جرام",
+    "barcode": "6224008467946",
+    "item_type": "GS1",
+    "item_code": "6224008467946",
+    "unit_type": "",
+    "price": 149.0,
+    "cost": 149.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb6/h81/61743450259486/626983_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_387",
+    "internal_code": "576418",
+    "name": "أبو عوف بار بروتين بالبندق - 70 جرام",
+    "barcode": "6223006315389",
+    "item_type": "GS1",
+    "item_code": "6223006315389",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 65.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3d/h5d/27622961479710/576418_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_392",
+    "internal_code": "97985",
+    "name": "كادبوري شوكولاتة بالبندق - 50 جم",
+    "barcode": "7622202204609",
+    "item_type": "GS1",
+    "item_code": "7622202204609",
+    "unit_type": "",
+    "price": 55.0,
+    "cost": 55.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/97985/1742110203/97985_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_429",
+    "internal_code": "528055",
+    "name": "مولتو ماجنوم بالشوكولاتة والبندق",
+    "barcode": "6223000495124",
+    "item_type": "GS1",
+    "item_code": "6223000495124",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2f/h88/49986434793502/528055_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_470",
+    "internal_code": "609192",
+    "name": "كورونا شوكولاتة داكنة بالبندق - 1 قطعة",
+    "barcode": "6221073002607",
+    "item_type": "GS1",
+    "item_code": "6221073002607",
+    "unit_type": "",
+    "price": 46.0,
+    "cost": 46.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4e/hc0/50066440749086/609192_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_488",
+    "internal_code": "596307",
+    "name": "نيدو حليب بودرة كامل الدسم - 900 جرام",
+    "barcode": "6221007040682",
+    "item_type": "GS1",
+    "item_code": "6221007040682",
+    "unit_type": "",
+    "price": 369.3,
+    "cost": 369.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1d/hc5/34710133669918/596307_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_493",
+    "internal_code": "664289",
+    "name": "سبريد ياميز البوادى بطعم الشوكولاته بالبندق المقرمشه - 300جرام",
+    "barcode": "6223000762837",
+    "item_type": "GS1",
+    "item_code": "6223000762837",
+    "unit_type": "",
+    "price": 99.0,
+    "cost": 112.1,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664289/1760434205/664289_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_502",
+    "internal_code": "454484",
+    "name": "فريماز سناكس بطعم الجبن والبصل - 75 جرام",
+    "barcode": "3800225340410",
+    "item_type": "GS1",
+    "item_code": "3800225340410",
+    "unit_type": "",
+    "price": 61.8,
+    "cost": 61.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h11/h23/14835321798686/454484_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_522",
+    "internal_code": "488622",
+    "name": "توداي جولديز كيك بالكاكاو وكريمة الحليب - 12 قطعة",
+    "barcode": "6224008592969",
+    "item_type": "GS1",
+    "item_code": "6224008592969",
+    "unit_type": "",
+    "price": 71.7,
+    "cost": 71.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdf/h07/10157512163358/488622_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_557",
+    "internal_code": "444534",
+    "name": "موسلي بار سانتي بالبندق واللوز- 40 جم",
+    "barcode": "5900617015716",
+    "item_type": "GS1",
+    "item_code": "5900617015716",
+    "unit_type": "",
+    "price": 33.5,
+    "cost": 33.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/444534/1759129205/444534_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_575",
+    "internal_code": "488620",
+    "name": "كيك توداي جولديز بكريمة الحليب، 1 قطعة - 12 عبوة",
+    "barcode": "6224008592976",
+    "item_type": "GS1",
+    "item_code": "6224008592976",
+    "unit_type": "",
+    "price": 71.7,
+    "cost": 71.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h93/h37/10183622098974/488620_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_590",
+    "internal_code": "317742",
+    "name": "ليندت جراند شوكولاتة داكنة بالبندق - 150جم",
+    "barcode": "7610400075770",
+    "item_type": "GS1",
+    "item_code": "7610400075770",
+    "unit_type": "",
+    "price": 588.8,
+    "cost": 588.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha9/h86/10775102750750/317742_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_603",
+    "internal_code": "554370",
+    "name": "تيك تيك مكرونة  صوص الجبنة - 115 جم",
+    "barcode": "6224010035089",
+    "item_type": "GS1",
+    "item_code": "6224010035089",
+    "unit_type": "",
+    "price": 49.5,
+    "cost": 49.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1c/h52/14685200416798/554370_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_618",
+    "internal_code": "616935",
+    "name": "ايللو جود فرانس صوص جبنة - 200 جرام",
+    "barcode": "6224010433670",
+    "item_type": "GS1",
+    "item_code": "6224010433670",
+    "unit_type": "",
+    "price": 57.0,
+    "cost": 57.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/616935/1770544468/616935_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_627",
+    "internal_code": "633934",
+    "name": "راف ويفر بكريمة البندق - 5 قطع",
+    "barcode": "6221030009571",
+    "item_type": "GS1",
+    "item_code": "6221030009571",
+    "unit_type": "",
+    "price": 83.6,
+    "cost": 83.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb4/h5e/64398160920606/633934_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_644",
+    "internal_code": "535150",
+    "name": "ويفر بالشوكولاتة وكريمة البندق كوكو لافرز، 8 قطع - 12 عبوة",
+    "barcode": "6222001109566",
+    "item_type": "GS1",
+    "item_code": "6222001109566",
+    "unit_type": "",
+    "price": 75.0,
+    "cost": 75.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2b/h04/14596036821022/535150_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_662",
+    "internal_code": "251335",
+    "name": "شيكولاتة جالكسي بالبندق - 36 جم",
+    "barcode": "6221134004953",
+    "item_type": "GS1",
+    "item_code": "6221134004953",
+    "unit_type": "",
+    "price": 35.0,
+    "cost": 35.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf5/h7d/12362648125470/251335_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_681",
+    "internal_code": "590272",
+    "name": "بيمبو بسكويت بالبندق - 12 قطعة",
+    "barcode": "6221073001747",
+    "item_type": "GS1",
+    "item_code": "6221073001747",
+    "unit_type": "",
+    "price": 63.0,
+    "cost": 63.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf1/h59/49404213428254/590272_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_689",
+    "internal_code": "645329",
+    "name": "شوكولاتة البندق بليزو جولد - 6 قطع",
+    "barcode": "6222035241706",
+    "item_type": "GS1",
+    "item_code": "6222035241706",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/645329/1736947803/645329_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_731",
+    "internal_code": "633936",
+    "name": "راف كاكاو ويفر كريمة الحليب 4+1",
+    "barcode": "6221030009618",
+    "item_type": "GS1",
+    "item_code": "6221030009618",
+    "unit_type": "",
+    "price": 83.6,
+    "cost": 83.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h04/hd2/64398164197406/633936_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_738",
+    "internal_code": "19482",
+    "name": "شوكولاتة كيندر بوينو مع الحليب والبندق - 43 جرام",
+    "barcode": "80052760",
+    "item_type": "GS1",
+    "item_code": "80052760",
+    "unit_type": "",
+    "price": 38.8,
+    "cost": 38.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6e/h49/14529663860766/19482_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_741",
+    "internal_code": "659628",
+    "name": "حلوى ايبون المحشوة بكريمة الحليب بطعم الفاكهة - 105 جرام",
+    "barcode": "6223013847088",
+    "item_type": "GS1",
+    "item_code": "6223013847088",
+    "unit_type": "",
+    "price": 19.0,
+    "cost": 22.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659628/1754389803/659628_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_749",
+    "internal_code": "631304",
+    "name": "وندر بار شوكلاتةبالحليب والنوجا واللوز - 40 جرام",
+    "barcode": "6224002528605",
+    "item_type": "GS1",
+    "item_code": "6224002528605",
+    "unit_type": "",
+    "price": 70.0,
+    "cost": 70.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h50/h9e/63283945242654/631304_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_767",
+    "internal_code": "498692",
+    "name": "بسكويت توك بالجبنة - 32جم",
+    "barcode": "7622300686154",
+    "item_type": "GS1",
+    "item_code": "7622300686154",
+    "unit_type": "",
+    "price": 8.0,
+    "cost": 8.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/498692/1767607200/498692_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_778",
+    "internal_code": "197786",
+    "name": "ميرسي شوكولاتة الحليب - 250 جرام",
+    "barcode": "4014400901405",
+    "item_type": "GS1",
+    "item_code": "4014400901405",
+    "unit_type": "",
+    "price": 300.0,
+    "cost": 346.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h44/he1/49332894498846/197786_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_816",
+    "internal_code": "616738",
+    "name": "وندر شوكولاتة داكنة بالبندق 70% كاكاو - 30 جرام",
+    "barcode": "6224001418495",
+    "item_type": "GS1",
+    "item_code": "6224001418495",
+    "unit_type": "",
+    "price": 59.0,
+    "cost": 59.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h38/hb1/50356758347806/616738_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_819",
+    "internal_code": "645328",
+    "name": "شوكولاتة البندق بليزو جولد",
+    "barcode": "6222035241690",
+    "item_type": "GS1",
+    "item_code": "6222035241690",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/645328/1734251403/645328_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_863",
+    "internal_code": "332399",
+    "name": "ديب الجبنة بوكو لوكو - 300 جرام",
+    "barcode": "5412514999940",
+    "item_type": "GS1",
+    "item_code": "5412514999940",
+    "unit_type": "",
+    "price": 199.5,
+    "cost": 199.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/332399/1742373003/332399_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_865",
+    "internal_code": "628356",
+    "name": "جلاكسي مينيتشرز شوكولاته الحليب الناعمة - 117 جرام",
+    "barcode": "6221134012279",
+    "item_type": "GS1",
+    "item_code": "6221134012279",
+    "unit_type": "",
+    "price": 130.0,
+    "cost": 150.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc7/h17/62326152560670/628356_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_901",
+    "internal_code": "494463",
+    "name": "جرانولا بار لينو بالشوكولاته بالبندق - 40 جم",
+    "barcode": "6224008245155",
+    "item_type": "GS1",
+    "item_code": "6224008245155",
+    "unit_type": "",
+    "price": 38.5,
+    "cost": 38.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he4/hee/14530103083038/494463_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_918",
+    "internal_code": "478304",
+    "name": "سبريد شيكولاتة بالبندق دريم - 250 جم",
+    "barcode": "6223003943417",
+    "item_type": "GS1",
+    "item_code": "6223003943417",
+    "unit_type": "",
+    "price": 95.1,
+    "cost": 95.1,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h99/h27/14835411353630/478304_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_923",
+    "internal_code": "477411",
+    "name": "كيك توداي جولديز بكريمة الحليب",
+    "barcode": "6224008592440",
+    "item_type": "GS1",
+    "item_code": "6224008592440",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3d/hcd/14595903684638/477411_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_928",
+    "internal_code": "490955",
+    "name": "ويفر أيون بالبندق مغطي بالشوكولاتة - 38 جم",
+    "barcode": "5201127081803",
+    "item_type": "GS1",
+    "item_code": "5201127081803",
+    "unit_type": "",
+    "price": 35.3,
+    "cost": 35.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9e/h47/27008125534238/490955_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_933",
+    "internal_code": "443236",
+    "name": "كابريس ويفر رولز بالبندق - 115 جم - 2 قطعة",
+    "barcode": "5201004523600",
+    "item_type": "GS1",
+    "item_code": "5201004523600",
+    "unit_type": "",
+    "price": 264.0,
+    "cost": 264.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h69/h11/27008056295454/443236_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_978",
+    "internal_code": "407023",
+    "name": "كتاكيتو إكسترا ويفر بالحليب - 1 قطعة",
+    "barcode": "6221030002725",
+    "item_type": "GS1",
+    "item_code": "6221030002725",
+    "unit_type": "",
+    "price": 25.5,
+    "cost": 25.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h41/had/49705416687646/407023_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_980",
+    "internal_code": "647974",
+    "name": "شوكولاتة الحليب كورونا باللوز المملح",
+    "barcode": "6221073011838",
+    "item_type": "GS1",
+    "item_code": "6221073011838",
+    "unit_type": "",
+    "price": 35.0,
+    "cost": 35.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647974/1738065603/647974_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1005",
+    "internal_code": "63890",
+    "name": "شوكولاتة الحليب بالبندق شوجتين - 100 جم",
+    "barcode": "4000607851001",
+    "item_type": "GS1",
+    "item_code": "4000607851001",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 136.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h50/hd2/14530734719006/63890_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1015",
+    "internal_code": "508851",
+    "name": "شيكولاتة بالحليب أيون - 100 جرام",
+    "barcode": "5012501010094",
+    "item_type": "GS1",
+    "item_code": "5012501010094",
+    "unit_type": "",
+    "price": 143.3,
+    "cost": 143.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf7/h47/14530266693662/508851_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1018",
+    "internal_code": "182919",
+    "name": "ليندت سويس شوكولاتة حليب كلاسيك بالبندق - 100جم",
+    "barcode": "7610400010023",
+    "item_type": "GS1",
+    "item_code": "7610400010023",
+    "unit_type": "",
+    "price": 347.1,
+    "cost": 347.1,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h20/he5/10066095177758/182919_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1022",
+    "internal_code": "636026",
+    "name": "رو رقائق بطاطس مقلية بطعم الجبنة الشيدر والبصل - 55 جم",
+    "barcode": "6223015760170",
+    "item_type": "GS1",
+    "item_code": "6223015760170",
+    "unit_type": "",
+    "price": 17.0,
+    "cost": 17.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc0/hb8/64724340441118/636026_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1039",
+    "internal_code": "630140",
+    "name": "شوكومم شيكولاتة بكريمة الحليب - 30 جم",
+    "barcode": "6224002808059",
+    "item_type": "GS1",
+    "item_code": "6224002808059",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 21.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h73/h46/63126005907486/630140_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1045",
+    "internal_code": "590881",
+    "name": "كادبوري شوكولاتة بالبندق - 30 جرام",
+    "barcode": "7622202205064",
+    "item_type": "GS1",
+    "item_code": "7622202205064",
+    "unit_type": "",
+    "price": 31.7,
+    "cost": 31.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h36/hf0/49727355093022/590881_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1054",
+    "internal_code": "496027",
+    "name": "كورونا شوكولاتة باللبن - 35 جرام",
+    "barcode": "6221073010442",
+    "item_type": "GS1",
+    "item_code": "6221073010442",
+    "unit_type": "",
+    "price": 26.5,
+    "cost": 26.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha3/hb9/26399179833374/496027_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1060",
+    "internal_code": "340137",
+    "name": "ميربا نوجاتيلي كوكيز بالبندق - 175 جم",
+    "barcode": "8710502470011",
+    "item_type": "GS1",
+    "item_code": "8710502470011",
+    "unit_type": "",
+    "price": 138.8,
+    "cost": 138.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h96/h00/49347556999198/340137_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1065",
+    "internal_code": "482615",
+    "name": "الشمعدان ويفر محشو بكريمة البندق - 6 باكيت",
+    "barcode": "6221030005030",
+    "item_type": "GS1",
+    "item_code": "6221030005030",
+    "unit_type": "",
+    "price": 79.2,
+    "cost": 79.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h04/he3/49386837082142/482615_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1070",
+    "internal_code": "545035",
+    "name": "فريسكا بلوك بسكويت بالبندق - 31 جرام - 12 قطعة",
+    "barcode": "6223000496268",
+    "item_type": "GS1",
+    "item_code": "6223000496268",
+    "unit_type": "",
+    "price": 119.0,
+    "cost": 119.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0e/h71/50124516851742/545035_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1074",
+    "internal_code": "109680",
+    "name": "شيكولاتة أيون بريك بالبندق - 200 جم",
+    "barcode": "5012501013170",
+    "item_type": "GS1",
+    "item_code": "5012501013170",
+    "unit_type": "",
+    "price": 240.0,
+    "cost": 240.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h16/h18/10066092490782/109680_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1088",
+    "internal_code": "659621",
+    "name": "رقائق البطاطس رو بجبنة الشيدروالبصل الأخضر  - 40 جرام",
+    "barcode": "6223015761818",
+    "item_type": "GS1",
+    "item_code": "6223015761818",
+    "unit_type": "",
+    "price": 13.4,
+    "cost": 13.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659621/1754389803/659621_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1091",
+    "internal_code": "628210",
+    "name": "كورونا شوكولاتة الحليب بالستيفيا",
+    "barcode": "6221073011180",
+    "item_type": "GS1",
+    "item_code": "6221073011180",
+    "unit_type": "",
+    "price": 44.0,
+    "cost": 47.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb1/hd6/62167943118878/628210_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1101",
+    "internal_code": "19404",
+    "name": "ويفر لواكر نابوليتانر بكريمة البندق - 175 جرام",
+    "barcode": "8000380007219",
+    "item_type": "GS1",
+    "item_code": "8000380007219",
+    "unit_type": "",
+    "price": 179.9,
+    "cost": 179.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8a/hd5/14489229361182/19404_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1123",
+    "internal_code": "490625",
+    "name": "لينو موسلي رقائق الشوفان مع الشوكولاتة والبندق والزبيب - 375 جرام",
+    "barcode": "6224008245049",
+    "item_type": "GS1",
+    "item_code": "6224008245049",
+    "unit_type": "",
+    "price": 146.3,
+    "cost": 146.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha6/h39/27008125108254/490625_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1130",
+    "internal_code": "526170",
+    "name": "دقيق الأرز البني سنبلة الفرات - 500 جم",
+    "barcode": "6224007972199",
+    "item_type": "GS1",
+    "item_code": "6224007972199",
+    "unit_type": "",
+    "price": 63.7,
+    "cost": 63.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h95/hc4/14610284314654/526170_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1132",
+    "internal_code": "576314",
+    "name": "جلاكسي مينيس شوكولاتة بالبندق - 162.5 جرام - 12 قطعة",
+    "barcode": "6294001832638",
+    "item_type": "GS1",
+    "item_code": "6294001832638",
+    "unit_type": "",
+    "price": 175.0,
+    "cost": 198.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfa/h18/27622957940766/576314_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1148",
+    "internal_code": "480677",
+    "name": "كتاكيتو الشمعدان بكريمة البندق اكسترا - 210 جم - 5 قطع",
+    "barcode": "6221030004811",
+    "item_type": "GS1",
+    "item_code": "6221030004811",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h67/h68/15956668416030/480677_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1157",
+    "internal_code": "44957",
+    "name": "شوكولاتة جالكسي بالحليب - 36جم - عبوة من 12",
+    "barcode": "6221134030419",
+    "item_type": "GS1",
+    "item_code": "6221134030419",
+    "unit_type": "",
+    "price": 419.4,
+    "cost": 419.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h12/h97/14569640165406/44957_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1198",
+    "internal_code": "477234",
+    "name": "ويفر بالشيكولاتة والحليب، - 5 قطع",
+    "barcode": "6221030004804",
+    "item_type": "GS1",
+    "item_code": "6221030004804",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 120.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd8/h93/16377001115678/477234_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1199",
+    "internal_code": "427913",
+    "name": "شوكولاتة كادبوري ديري ميلك بالبندق - 85 جم",
+    "barcode": "7622202278044",
+    "item_type": "GS1",
+    "item_code": "7622202278044",
+    "unit_type": "",
+    "price": 87.7,
+    "cost": 87.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/427913/1742110203/427913_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1202",
+    "internal_code": "583116",
+    "name": "مونشي ويفر بكريمة البندق",
+    "barcode": "6221073004939",
+    "item_type": "GS1",
+    "item_code": "6221073004939",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h2d/h0d/49404206252062/583116_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1209",
+    "internal_code": "63888",
+    "name": "شوكولاتة زبادي بالفراولة شوجتين - 100 جم",
+    "barcode": "4000607854705",
+    "item_type": "GS1",
+    "item_code": "4000607854705",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 136.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5d/h8d/14596334223390/63888_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1215",
+    "internal_code": "63889",
+    "name": "شوكولاتة الحليب شوجتين - 100 جم",
+    "barcode": "4000607850004",
+    "item_type": "GS1",
+    "item_code": "4000607850004",
+    "unit_type": "",
+    "price": 120.0,
+    "cost": 136.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h86/hbc/14530735964190/63889_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1216",
+    "internal_code": "545032",
+    "name": "فريسكا بلوك بسكويت ويفر بالبندق - 31 جم",
+    "barcode": "6223000496251",
+    "item_type": "GS1",
+    "item_code": "6223000496251",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h98/h44/49986436595742/545032_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1220",
+    "internal_code": "649315",
+    "name": "بافس أبو عوف بالجبنة - 40 جرام",
+    "barcode": "6223011438028",
+    "item_type": "GS1",
+    "item_code": "6223011438028",
+    "unit_type": "",
+    "price": 11.0,
+    "cost": 11.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649315/1740564003/649315_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1249",
+    "internal_code": "620310",
+    "name": "نيدو الأساسي لبن بودر - 25 جم",
+    "barcode": "6221007039037",
+    "item_type": "GS1",
+    "item_code": "6221007039037",
+    "unit_type": "",
+    "price": 8.7,
+    "cost": 8.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he7/h3b/51848384053278/620310_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1269",
+    "internal_code": "605856",
+    "name": "بيك رولز حجم عائلى بنكهة الجبنة الناتشو - 65 جرام",
+    "barcode": "6223000552100",
+    "item_type": "GS1",
+    "item_code": "6223000552100",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3e/ha6/49986445410334/605856_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1279",
+    "internal_code": "95220",
+    "name": "لواكر نابوليتانر ويفر ميني بكريمة البندق وشوكلاتة الحليب - 150 جم",
+    "barcode": "8000380001149",
+    "item_type": "GS1",
+    "item_code": "8000380001149",
+    "unit_type": "",
+    "price": 255.0,
+    "cost": 255.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h41/ha1/14489516671006/95220_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1284",
+    "internal_code": "597212",
+    "name": "اولكر ألبيلا ويفر شوكولاتة بنكهة الحليب - 21 جرام - 12 قطعة",
+    "barcode": "6222024101509",
+    "item_type": "GS1",
+    "item_code": "6222024101509",
+    "unit_type": "",
+    "price": 59.4,
+    "cost": 59.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/597212/1735147803/597212_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1287",
+    "internal_code": "471711",
+    "name": "كلاس ايه وافل بالحليب والعسل - 30 جرام",
+    "barcode": "6223000228012",
+    "item_type": "GS1",
+    "item_code": "6223000228012",
+    "unit_type": "",
+    "price": 9.5,
+    "cost": 9.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3a/h3d/10068092747806/471711_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1293",
+    "internal_code": "501068",
+    "name": "لاجو ميني بارتي ويفر بكريمة البندق - 125 جم",
+    "barcode": "8004800003416",
+    "item_type": "GS1",
+    "item_code": "8004800003416",
+    "unit_type": "",
+    "price": 95.0,
+    "cost": 95.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h51/hac/49347561422878/501068_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1310",
+    "internal_code": "635647",
+    "name": "بوبو سبريد كريمة البندق والحليب - 350 جرام",
+    "barcode": "6224010588905",
+    "item_type": "GS1",
+    "item_code": "6224010588905",
+    "unit_type": "",
+    "price": 105.4,
+    "cost": 105.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/635647/1728385204/635647_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1315",
+    "internal_code": "109670",
+    "name": "شيكولاتة أيون بريك بالحليب - 85 جرام",
+    "barcode": "5201127010865",
+    "item_type": "GS1",
+    "item_code": "5201127010865",
+    "unit_type": "",
+    "price": 111.0,
+    "cost": 111.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7c/h9a/9837363757086/109670_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1319",
+    "internal_code": "628211",
+    "name": "كورونا شوكولاتة حليب بالاستيفيا - 6 قطع",
+    "barcode": "6221073011197",
+    "item_type": "GS1",
+    "item_code": "6221073011197",
+    "unit_type": "",
+    "price": 276.0,
+    "cost": 276.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hee/h73/62249880027166/628211_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1322",
+    "internal_code": "540028",
+    "name": "فن داي بسكويت مملح مقرمش بالجبنه - 40 جم",
+    "barcode": "6224010268432",
+    "item_type": "GS1",
+    "item_code": "6224010268432",
+    "unit_type": "",
+    "price": 7.5,
+    "cost": 7.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5d/h64/14610299060254/540028_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1326",
+    "internal_code": "245749",
+    "name": "لاجو بوكر ويفر بالبندق - 45 جم",
+    "barcode": "8004800023018",
+    "item_type": "GS1",
+    "item_code": "8004800023018",
+    "unit_type": "",
+    "price": 29.0,
+    "cost": 29.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h00/h03/49347548971038/245749_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1337",
+    "internal_code": "638119",
+    "name": "شيبسي رقائق بطاطس بالجبنة المتبلة - 140 جرام",
+    "barcode": "6221333002767",
+    "item_type": "GS1",
+    "item_code": "6221333002767",
+    "unit_type": "",
+    "price": 18.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638119/1724760604/638119_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1347",
+    "internal_code": "109673",
+    "name": "شيكولاتة أيون بريك بالزبيب و اللوز و البندق - 85 جم",
+    "barcode": "5201127029867",
+    "item_type": "GS1",
+    "item_code": "5201127029867",
+    "unit_type": "",
+    "price": 111.0,
+    "cost": 111.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h49/h78/10066091737118/109673_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1349",
+    "internal_code": "413610",
+    "name": "شوكولاتة إم آند إمز بالحليب - 82 جم",
+    "barcode": "5000159503983",
+    "item_type": "GS1",
+    "item_code": "5000159503983",
+    "unit_type": "",
+    "price": 95.0,
+    "cost": 110.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h83/hbe/14529904934942/413610_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1351",
+    "internal_code": "419557",
+    "name": "كيندر جوي شوكولاتة للبنات - 20 جم",
+    "barcode": "80768258",
+    "item_type": "GS1",
+    "item_code": "80768258",
+    "unit_type": "",
+    "price": 50.3,
+    "cost": 50.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h35/h6d/14529906999326/419557_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1368",
+    "internal_code": "583117",
+    "name": "مونشي موزيك مكعبات ويفر بالبندق - 12 قطعة",
+    "barcode": "6221073004946",
+    "item_type": "GS1",
+    "item_code": "6221073004946",
+    "unit_type": "",
+    "price": 71.4,
+    "cost": 71.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h04/hc0/49404204417054/583117_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1374",
+    "internal_code": "565653",
+    "name": "ماكفيتيز بسكويت دايجستيف رقيق - طعم شوكولاتة بالحليب - 150 جرام",
+    "barcode": "8690504081913",
+    "item_type": "GS1",
+    "item_code": "8690504081913",
+    "unit_type": "",
+    "price": 96.3,
+    "cost": 96.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/565653/1735153803/565653_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1378",
+    "internal_code": "590271",
+    "name": "بيمبو بسكويت بالبندق",
+    "barcode": "6221073001730",
+    "item_type": "GS1",
+    "item_code": "6221073001730",
+    "unit_type": "",
+    "price": 5.3,
+    "cost": 5.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/h63/49404213198878/590271_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1394",
+    "internal_code": "565651",
+    "name": "مكفتيز ديجيستيف بسكويت رقيق بالكابتشينو شوكولاتة بالحليب - 150 جم",
+    "barcode": "8690504081937",
+    "item_type": "GS1",
+    "item_code": "8690504081937",
+    "unit_type": "",
+    "price": 96.3,
+    "cost": 96.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/565651/1735142403/565651_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1407",
+    "internal_code": "647978",
+    "name": "شوكولاتة الحليب كورونا بالبندق وسكر الستيفيا",
+    "barcode": "6221073012224",
+    "item_type": "GS1",
+    "item_code": "6221073012224",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 50.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647978/1738065603/647978_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1416",
+    "internal_code": "638342",
+    "name": "بيك رولز وجبات خفيفة من القمح بنكهة الجبن - 45 جرام",
+    "barcode": "6223000555033",
+    "item_type": "GS1",
+    "item_code": "6223000555033",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638342/1725271205/638342_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1429",
+    "internal_code": "659507",
+    "name": "ويفر ريف محشو بكريمة البندق بدون السكر",
+    "barcode": "6221030011758",
+    "item_type": "GS1",
+    "item_code": "6221030011758",
+    "unit_type": "",
+    "price": 17.1,
+    "cost": 17.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659507/1754389803/659507_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1435",
+    "internal_code": "485403",
+    "name": "شيكولاتة جالكسي بالحليب - 56 جم",
+    "barcode": "6221134005394",
+    "item_type": "GS1",
+    "item_code": "6221134005394",
+    "unit_type": "",
+    "price": 50.0,
+    "cost": 65.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha4/h77/14529964310558/485403_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1437",
+    "internal_code": "609193",
+    "name": "كورونا شوكولاتة داكنة بالبندق - 6 قطع",
+    "barcode": "6221073002614",
+    "item_type": "GS1",
+    "item_code": "6221073002614",
+    "unit_type": "",
+    "price": 276.0,
+    "cost": 276.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/609193/1733144404/609193_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1445",
+    "internal_code": "606744",
+    "name": "جاجوار كريشنز مقرمشات ذرة كرات - جبنة - 63 جرام ",
+    "barcode": "6222035204848",
+    "item_type": "GS1",
+    "item_code": "6222035204848",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h16/h20/48622966833182/606744_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1450",
+    "internal_code": "633961",
+    "name": "شوكلاتة جالاكسي فيوجن  بشوكلاتة الحليب والخوخ - 35 جم",
+    "barcode": "6221134012194",
+    "item_type": "GS1",
+    "item_code": "6221134012194",
+    "unit_type": "",
+    "price": 57.0,
+    "cost": 57.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h52/h2c/64096837730334/633961_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1451",
+    "internal_code": "658496",
+    "name": "ويفر البيلا المغطى بالشوكولاتة ومحشو كريمة البندق - 40 جرام",
+    "barcode": "6222024106450",
+    "item_type": "GS1",
+    "item_code": "6222024106450",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658496/1753873206/658496_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1454",
+    "internal_code": "557715",
+    "name": "رول ويفر بحشو كريمة البندق مغطي بالشيكولاتة من تشويكس، 2* 12 قطعة، 12 جرام",
+    "barcode": "6223007371131",
+    "item_type": "GS1",
+    "item_code": "6223007371131",
+    "unit_type": "",
+    "price": 47.4,
+    "cost": 47.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3a/h8a/14596328718366/557715_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1456",
+    "internal_code": "20687",
+    "name": "حلاوة حلواني بالبندق - 275جم",
+    "barcode": "6221029520131",
+    "item_type": "GS1",
+    "item_code": "6221029520131",
+    "unit_type": "",
+    "price": 75.8,
+    "cost": 75.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc2/h43/14835110314014/20687_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1476",
+    "internal_code": "576313",
+    "name": "شوكولاتة الحليب جلاكسي ميني - 162.5 جرام - 12 قطعة",
+    "barcode": "6294001832591",
+    "item_type": "GS1",
+    "item_code": "6294001832591",
+    "unit_type": "",
+    "price": 175.0,
+    "cost": 198.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h32/heb/28205766049822/576313_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1481",
+    "internal_code": "17579",
+    "name": "الرشيدي الميزان حلاوة طحينية بالبندق - 230 جم",
+    "barcode": "6223000052600",
+    "item_type": "GS1",
+    "item_code": "6223000052600",
+    "unit_type": "",
+    "price": 72.8,
+    "cost": 72.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/17579/1744710003/17579_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1491",
+    "internal_code": "614915",
+    "name": "ميني تيبو بسكويت بالبندق والشوكولاتة - 1 قطعة",
+    "barcode": "6221030009366",
+    "item_type": "GS1",
+    "item_code": "6221030009366",
+    "unit_type": "",
+    "price": 12.9,
+    "cost": 12.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6e/hdf/49899122327582/614915_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1497",
+    "internal_code": "19401",
+    "name": "بسكويت ويفر لواكر باللبن - 175 جم",
+    "barcode": "8000380007271",
+    "item_type": "GS1",
+    "item_code": "8000380007271",
+    "unit_type": "",
+    "price": 177.8,
+    "cost": 177.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4e/hb6/14489228050462/19401_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1518",
+    "internal_code": "658478",
+    "name": "بسكويت ماكفيتيز جوي بفدج البندق - 6 قطع",
+    "barcode": "6222024106665",
+    "item_type": "GS1",
+    "item_code": "6222024106665",
+    "unit_type": "",
+    "price": 8.5,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658478/1753873206/658478_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1528",
+    "internal_code": "535149",
+    "name": "كوكو لافرز ويفر الشوكولاتة بكريمة البندق - 8 قطع",
+    "barcode": "6222001109573",
+    "item_type": "GS1",
+    "item_code": "6222001109573",
+    "unit_type": "",
+    "price": 6.3,
+    "cost": 6.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5f/h17/48744148041758/535149_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1549",
+    "internal_code": "19478",
+    "name": "كيندر شوكولاتة بالحليب - 100 جم",
+    "barcode": "80177616",
+    "item_type": "GS1",
+    "item_code": "80177616",
+    "unit_type": "",
+    "price": 85.2,
+    "cost": 85.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf2/hff/52004265328670/19478_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1559",
+    "internal_code": "490047",
+    "name": "لواكر شوكولاتة بالحليب - 55 جم",
+    "barcode": "80001980",
+    "item_type": "GS1",
+    "item_code": "80001980",
+    "unit_type": "",
+    "price": 112.5,
+    "cost": 112.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3e/h36/27008125009950/490047_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1598",
+    "internal_code": "658970",
+    "name": "رقائق بطاطس رو مطبوخة بطعم الزبادي والخيار - 75 جم",
+    "barcode": "6223015762389",
+    "item_type": "GS1",
+    "item_code": "6223015762389",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658970/1754469604/658970_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1602",
+    "internal_code": "637773",
+    "name": "بالانس بروتين شوتس بطعم الجبنة الحلوة - 70 جرام",
+    "barcode": "6222035227533",
+    "item_type": "GS1",
+    "item_code": "6222035227533",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637773/1724056803/637773_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1606",
+    "internal_code": "613573",
+    "name": "أبو عوف بافس بروتين بالجبنة والتوابل - 60 جم",
+    "barcode": "6223011431081",
+    "item_type": "GS1",
+    "item_code": "6223011431081",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6a/h15/49654272786462/613573_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1634",
+    "internal_code": "542163",
+    "name": "مكفيتيز بسكويت شوفان ميني بشيكولاتة الحليب - 12 قطعة",
+    "barcode": "6223003800062",
+    "item_type": "GS1",
+    "item_code": "6223003800062",
+    "unit_type": "",
+    "price": 179.4,
+    "cost": 179.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/542163/1735153803/542163_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1663",
+    "internal_code": "251334",
+    "name": "شيكولاتة جالكسي بالحليب - 30جم",
+    "barcode": "6221134030525",
+    "item_type": "GS1",
+    "item_code": "6221134030525",
+    "unit_type": "",
+    "price": 35.0,
+    "cost": 35.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/251334/1769940230/251334_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1667",
+    "internal_code": "613586",
+    "name": "أبو عوف بريتزلز بالجبنة - 55 جم",
+    "barcode": "6223006319189",
+    "item_type": "GS1",
+    "item_code": "6223006319189",
+    "unit_type": "",
+    "price": 8.5,
+    "cost": 11.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h52/h7e/49654273703966/613586_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1696",
+    "internal_code": "597213",
+    "name": "مكفنتيز دايجستف نيبلز كرات بسكويت مغطاة بشوكولاتة الحليب - 37 جرام",
+    "barcode": "6222024101967",
+    "item_type": "GS1",
+    "item_code": "6222024101967",
+    "unit_type": "",
+    "price": 30.0,
+    "cost": 33.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/597213/1735147803/597213_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1718",
+    "internal_code": "419556",
+    "name": "كيندر جوي شوكولاتة للبنين - 20 جم",
+    "barcode": "80974482",
+    "item_type": "GS1",
+    "item_code": "80974482",
+    "unit_type": "",
+    "price": 50.3,
+    "cost": 50.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h53/h54/14529908408350/419556_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1732",
+    "internal_code": "659508",
+    "name": "ويفر ريف محشو بكريمة البندق بدون السكر - 6 قطع",
+    "barcode": "6221030012069",
+    "item_type": "GS1",
+    "item_code": "6221030012069",
+    "unit_type": "",
+    "price": 102.6,
+    "cost": 102.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659508/1754818203/659508_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1775",
+    "internal_code": "475155",
+    "name": "نيدو فرتيجرو لبن بودر - 100 جم",
+    "barcode": "6221007040743",
+    "item_type": "GS1",
+    "item_code": "6221007040743",
+    "unit_type": "",
+    "price": 45.8,
+    "cost": 45.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h44/h20/14623196282910/475155_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1791",
+    "internal_code": "305502",
+    "name": "سبريد شوكولاتة نوتيلا بالبندق - 15 جم",
+    "barcode": "80751151",
+    "item_type": "GS1",
+    "item_code": "80751151",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/305502/1759303805/305502_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1792",
+    "internal_code": "658564",
+    "name": "بسكويت ماكفيتيز جوي بنكهة فادج البندق - 6 عبوه",
+    "barcode": "6222024106672",
+    "item_type": "GS1",
+    "item_code": "6222024106672",
+    "unit_type": "",
+    "price": 55.0,
+    "cost": 60.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658564/1756026004/658564_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1795",
+    "internal_code": "643261",
+    "name": "تايجر اكسيلنس بطعم الجبنة المدخنة - 85جم",
+    "barcode": "6222035238232",
+    "item_type": "GS1",
+    "item_code": "6222035238232",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/643261/1731422403/643261_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1809",
+    "internal_code": "469641",
+    "name": "الرشيدي الميزان كريميتا كريمة الشوكولاتة بالبندق - 200 جم",
+    "barcode": "6223000055939",
+    "item_type": "GS1",
+    "item_code": "6223000055939",
+    "unit_type": "",
+    "price": 54.5,
+    "cost": 54.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h17/h28/47857080565790/469641_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1832",
+    "internal_code": "630143",
+    "name": "شوكومم بار شوكولاتة بالبندق - 30 جم",
+    "barcode": "6224002808028",
+    "item_type": "GS1",
+    "item_code": "6224002808028",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 21.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h70/hfc/62982672449566/630143_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1835",
+    "internal_code": "554213",
+    "name": "نوتيلا فيريرو بي ريدي ويفر محشو بالنوتيلا - كريما البندق مع الكاكاو",
+    "barcode": "8000500224281",
+    "item_type": "GS1",
+    "item_code": "8000500224281",
+    "unit_type": "",
+    "price": 30.0,
+    "cost": 30.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h82/h12/50333904830494/554213_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1841",
+    "internal_code": "230370",
+    "name": "تيفاني بريك كرانشي ويفر بكريمة الشوكولاتة بالحليب - 4 أصابع",
+    "barcode": "6291003203527",
+    "item_type": "GS1",
+    "item_code": "6291003203527",
+    "unit_type": "",
+    "price": 15.6,
+    "cost": 15.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/h93/49347550281758/230370_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1865",
+    "internal_code": "52703",
+    "name": "بوني حليب مكثف محلي - 397 جم",
+    "barcode": "4003490095651",
+    "item_type": "GS1",
+    "item_code": "4003490095651",
+    "unit_type": "",
+    "price": 132.3,
+    "cost": 132.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf9/h98/10065758912542/52703_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1879",
+    "internal_code": "460307",
+    "name": "فول حدائق كاليفورنيا بالخلطة اللبنانية - 400 جم",
+    "barcode": "32894018786",
+    "item_type": "GS1",
+    "item_code": "32894018786",
+    "unit_type": "",
+    "price": 27.8,
+    "cost": 27.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfd/h79/14786195259422/460307_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1891",
+    "internal_code": "646738",
+    "name": "توداى انفينيتى كيك بكريمة الحليب - 1 قطعة",
+    "barcode": "6223005615831",
+    "item_type": "GS1",
+    "item_code": "6223005615831",
+    "unit_type": "",
+    "price": 5.5,
+    "cost": 5.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646738/1735824603/646738_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1906",
+    "internal_code": "52702",
+    "name": "بوني حليب مكثف غير محلي - 410 جم",
+    "barcode": "7616100598984",
+    "item_type": "GS1",
+    "item_code": "7616100598984",
+    "unit_type": "",
+    "price": 127.0,
+    "cost": 127.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h03/h5f/14583690395678/52702_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1927",
+    "internal_code": "66667",
+    "name": "دريا حليب جوز الهند - 400 مل",
+    "barcode": "6223003395421",
+    "item_type": "GS1",
+    "item_code": "6223003395421",
+    "unit_type": "",
+    "price": 93.3,
+    "cost": 93.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha9/hd1/29791097028638/66667_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1932",
+    "internal_code": "633899",
+    "name": "بسكويت ماكس 1 بنكهة الشوكولاتة والبندق - 165 جرام",
+    "barcode": "6223007378260",
+    "item_type": "GS1",
+    "item_code": "6223007378260",
+    "unit_type": "",
+    "price": 34.6,
+    "cost": 34.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/633899/1745745005/633899_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1952",
+    "internal_code": "597211",
+    "name": "أولكر ألبيلا ويفر بشوكولاتة الحليب مع البندق - 21 جم",
+    "barcode": "6222024101493",
+    "item_type": "GS1",
+    "item_code": "6222024101493",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/597211/1735147803/597211_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1957",
+    "internal_code": "627016",
+    "name": "نوفي ماجيك بسكويت ويفر محشو بكريمة البندق",
+    "barcode": "6222035225003",
+    "item_type": "GS1",
+    "item_code": "6222035225003",
+    "unit_type": "",
+    "price": 5.0,
+    "cost": 5.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1d/h60/63607125803038/627016_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1983",
+    "internal_code": "19483",
+    "name": "كيندر شوكولاتة بالحليب - 50 جم",
+    "barcode": "80177609",
+    "item_type": "GS1",
+    "item_code": "80177609",
+    "unit_type": "",
+    "price": 43.1,
+    "cost": 43.1,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he5/h80/52004266999838/19483_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_1990",
+    "internal_code": "664650",
+    "name": "مقرمشات بريتزو ميكسي بنكهة الجبنة الحارة - 135-125 جم",
+    "barcode": "6224010802490",
+    "item_type": "GS1",
+    "item_code": "6224010802490",
+    "unit_type": "",
+    "price": 28.2,
+    "cost": 28.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664650/1760434205/664650_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2002",
+    "internal_code": "653525",
+    "name": "رقائق بطاطس تايجر بطعم الجبنة المتبلة - 53 جرام",
+    "barcode": "6222035232384",
+    "item_type": "GS1",
+    "item_code": "6222035232384",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653525/1746430203/653525_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2009",
+    "internal_code": "544801",
+    "name": "نيدو فرتيجرو لبن بودر - 25 جم",
+    "barcode": "6221007040583",
+    "item_type": "GS1",
+    "item_code": "6221007040583",
+    "unit_type": "",
+    "price": 11.2,
+    "cost": 11.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4d/h1b/15173273976862/544801_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2028",
+    "internal_code": "652347",
+    "name": "ويفر الشوكولاتة تيترا لاتو كلاسيك محشو بكريمة البندق - 50 جرام",
+    "barcode": "6223007633925",
+    "item_type": "GS1",
+    "item_code": "6223007633925",
+    "unit_type": "",
+    "price": 13.0,
+    "cost": 13.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652347/1756297803/652347_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2039",
+    "internal_code": "635550",
+    "name": "أبو عوف بريتزلز بطعم الجبنة - 250 جرام",
+    "barcode": "6223006319035",
+    "item_type": "GS1",
+    "item_code": "6223006319035",
+    "unit_type": "",
+    "price": 32.5,
+    "cost": 42.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbd/h6b/64598675947550/635550_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2092",
+    "internal_code": "544806",
+    "name": "ماجي خلطة البشاميل بالجبنة - 70 جرام - 6 قطع",
+    "barcode": "6221007038139",
+    "item_type": "GS1",
+    "item_code": "6221007038139",
+    "unit_type": "",
+    "price": 79.5,
+    "cost": 79.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h42/h16/14951914176542/544806_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2109",
+    "internal_code": "521783",
+    "name": "شوكولاتة ميلكا بالبندق - 85 جرام",
+    "barcode": "7622202209598",
+    "item_type": "GS1",
+    "item_code": "7622202209598",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdc/h05/27008268927006/521783_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2111",
+    "internal_code": "622434",
+    "name": "سبادز بطاطس شيبسي  - طعم الجبنه - 72 جرام",
+    "barcode": "6223009440903",
+    "item_type": "GS1",
+    "item_code": "6223009440903",
+    "unit_type": "",
+    "price": 18.0,
+    "cost": 18.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h26/h96/51914088513566/622434_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2117",
+    "internal_code": "107522",
+    "name": "لونا حليب مكثف محلى - 379 جرام",
+    "barcode": "6281020293236",
+    "item_type": "GS1",
+    "item_code": "6281020293236",
+    "unit_type": "",
+    "price": 101.3,
+    "cost": 101.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/107522/1726995604/107522_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2120",
+    "internal_code": "421953",
+    "name": "شيكولاتة جالكسي بالبندق - 80 جم",
+    "barcode": "6221134011845",
+    "item_type": "GS1",
+    "item_code": "6221134011845",
+    "unit_type": "",
+    "price": 72.0,
+    "cost": 90.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf1/h34/10281558147102/421953_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2121",
+    "internal_code": "396526",
+    "name": "ويفر لواكر جاردينا بالبندق - 125 جم",
+    "barcode": "8000380152704",
+    "item_type": "GS1",
+    "item_code": "8000380152704",
+    "unit_type": "",
+    "price": 272.0,
+    "cost": 272.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he9/hc3/10066841927710/396526_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2123",
+    "internal_code": "556562",
+    "name": "ويفر شيويكس بحشو كريمة البندق - 2 ستيكس - 12 جرام",
+    "barcode": "6223007371100",
+    "item_type": "GS1",
+    "item_code": "6223007371100",
+    "unit_type": "",
+    "price": 4.0,
+    "cost": 4.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h36/ha6/14584077713438/556562_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2138",
+    "internal_code": "622435",
+    "name": "سبادز بطاطس شيبسي  - نكهة تويست الجبنة - 45 جرام",
+    "barcode": "6223009440880",
+    "item_type": "GS1",
+    "item_code": "6223009440880",
+    "unit_type": "",
+    "price": 13.0,
+    "cost": 13.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h82/h99/51756402376734/622435_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2144",
+    "internal_code": "485955",
+    "name": "ميني كرواسون مولتو بالشوكولاتة وكريمة البندق - 56 جم",
+    "barcode": "6223000493922",
+    "item_type": "GS1",
+    "item_code": "6223000493922",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h76/h17/10068921745438/485955_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2145",
+    "internal_code": "514392",
+    "name": "شوكولاتة ميلكا بالحليب وبسكويت الاوريو - 100 جرام",
+    "barcode": "7622202313080",
+    "item_type": "GS1",
+    "item_code": "7622202313080",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf1/h26/10072179343390/514392_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2155",
+    "internal_code": "639500",
+    "name": "بالانس بروتين بافس بطعم الجبنة - 70 جرام",
+    "barcode": "6222035235293",
+    "item_type": "GS1",
+    "item_code": "6222035235293",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/639500/1727357403/639500_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2178",
+    "internal_code": "488623",
+    "name": "كيك توداي جولديز بالكاكاو وكريمة الحليب - 1 قطعة",
+    "barcode": "6224008592631",
+    "item_type": "GS1",
+    "item_code": "6224008592631",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h13/hbb/14595911221278/488623_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2187",
+    "internal_code": "247660",
+    "name": "  مهلبية الحليب 5 مينتس - 90 جرام",
+    "barcode": "6223003291082",
+    "item_type": "GS1",
+    "item_code": "6223003291082",
+    "unit_type": "",
+    "price": 25.3,
+    "cost": 25.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/247660/1750860003/247660_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2202",
+    "internal_code": "653079",
+    "name": "سناكس كراش مونستر بطعم  الأربع جبن الحار  - 70 جرام",
+    "barcode": "6224002606204",
+    "item_type": "GS1",
+    "item_code": "6224002606204",
+    "unit_type": "",
+    "price": 18.8,
+    "cost": 18.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653079/1749733203/653079_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2207",
+    "internal_code": "590635",
+    "name": "كراكس شيبس بطعم الجبنة - 105 جرام",
+    "barcode": "6224009892204",
+    "item_type": "GS1",
+    "item_code": "6224009892204",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h72/h48/49172154351646/590635_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2209",
+    "internal_code": "632491",
+    "name": "تولا ويفر بشوكولاتة الحليب والكراميل - 2 ويفر",
+    "barcode": "6294017124895",
+    "item_type": "GS1",
+    "item_code": "6294017124895",
+    "unit_type": "",
+    "price": 9.8,
+    "cost": 9.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h38/h4a/63675116716062/632491_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2242",
+    "internal_code": "657021",
+    "name": "رقائق بطاطس كادووه بالجبنة المتبلة - 50-60 جم",
+    "barcode": "6224001681080",
+    "item_type": "GS1",
+    "item_code": "6224001681080",
+    "unit_type": "",
+    "price": 9.5,
+    "cost": 9.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/657021/1756123026/657021_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2249",
+    "internal_code": "84926",
+    "name": "ويفر لواكر بكريمة الحليب - 45 جم",
+    "barcode": "80001270",
+    "item_type": "GS1",
+    "item_code": "80001270",
+    "unit_type": "",
+    "price": 48.0,
+    "cost": 48.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he8/h36/14489515622430/84926_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2252",
+    "internal_code": "536776",
+    "name": "أصابع بسكويت فن داي المملحة بالجبنه - 40 جم",
+    "barcode": "6224010268241",
+    "item_type": "GS1",
+    "item_code": "6224010268241",
+    "unit_type": "",
+    "price": 5.5,
+    "cost": 5.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h36/hfc/13012503756830/536776_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2255",
+    "internal_code": "653905",
+    "name": "شوكولاتة كادبوري ديري ميلك بالبندق - 160 جرام",
+    "barcode": "7622202229619",
+    "item_type": "GS1",
+    "item_code": "7622202229619",
+    "unit_type": "",
+    "price": 136.5,
+    "cost": 136.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653905/1756041004/653905_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2293",
+    "internal_code": "636680",
+    "name": "تايم كريب ويفر بكريمة البندق - 65 جرام",
+    "barcode": "8691066104553",
+    "item_type": "GS1",
+    "item_code": "8691066104553",
+    "unit_type": "",
+    "price": 32.0,
+    "cost": 42.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/636680/1724140803/636680_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2301",
+    "internal_code": "641567",
+    "name": "بسكويت الفانيليا أونيرو شوكو لافا المحشو بكريمة البندق - 3 قطع",
+    "barcode": "6223000555828",
+    "item_type": "GS1",
+    "item_code": "6223000555828",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641567/1729418403/641567_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2306",
+    "internal_code": "628863",
+    "name": "سبادز بطاطس شيبسي - بطعم الجبنه - 94 جرام",
+    "barcode": "6223009441252",
+    "item_type": "GS1",
+    "item_code": "6223009441252",
+    "unit_type": "",
+    "price": 24.0,
+    "cost": 24.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbc/h1f/62443045814302/628863_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2344",
+    "internal_code": "659626",
+    "name": "حلوى ايبون المحشوة بكريمة الحليب بطعم الفاكهة - 50 جرام",
+    "barcode": "6223013847071",
+    "item_type": "GS1",
+    "item_code": "6223013847071",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 13.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659626/1763638805/659626_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2345",
+    "internal_code": "646467",
+    "name": "سناكس جاكوار برايم بطعم الجبنة الحلوة - 100 جرام",
+    "barcode": "6222035238546",
+    "item_type": "GS1",
+    "item_code": "6222035238546",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646467/1735208476/646467_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2358",
+    "internal_code": "480731",
+    "name": "مكفيتيز دايجستف بسكويت بالشوكولاتة والحليب - 28 جرام",
+    "barcode": "6223003803568",
+    "item_type": "GS1",
+    "item_code": "6223003803568",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/480731/1735147803/480731_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2363",
+    "internal_code": "556561",
+    "name": "رول ويفر شيويكس بالبندق - 12 جرام",
+    "barcode": "6223007370950",
+    "item_type": "GS1",
+    "item_code": "6223007370950",
+    "unit_type": "",
+    "price": 2.6,
+    "cost": 2.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha8/h37/14596329078814/556561_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2364",
+    "internal_code": "634130",
+    "name": "فن داي فشار بالجبنة - 75 جرام",
+    "barcode": "6224010267879",
+    "item_type": "GS1",
+    "item_code": "6224010267879",
+    "unit_type": "",
+    "price": 11.8,
+    "cost": 11.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha7/hd6/64248402771998/634130_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2371",
+    "internal_code": "519766",
+    "name": "بونكي مقرمشات شكل كرات بنكهة الجبنة - 60 جرام",
+    "barcode": "6223000228517",
+    "item_type": "GS1",
+    "item_code": "6223000228517",
+    "unit_type": "",
+    "price": 12.0,
+    "cost": 12.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hec/hcd/14835489767454/519766_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2374",
+    "internal_code": "626687",
+    "name": "حاج عرفة بروتين رينجز سناكس بطعم الجبنة - 60 جرام",
+    "barcode": "6223006255586",
+    "item_type": "GS1",
+    "item_code": "6223006255586",
+    "unit_type": "",
+    "price": 25.3,
+    "cost": 25.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h79/h09/61743448096798/626687_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2378",
+    "internal_code": "542261",
+    "name": "فن داي اصابع خبز مع كريمة البندق والحليب - 33 جرام",
+    "barcode": "6224010588776",
+    "item_type": "GS1",
+    "item_code": "6224010588776",
+    "unit_type": "",
+    "price": 24.7,
+    "cost": 24.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcf/h92/13012509491230/542261_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2398",
+    "internal_code": "574650",
+    "name": "ميلكا بابلي شوكولاتة بالحليب - 90 جرام",
+    "barcode": "7622202209550",
+    "item_type": "GS1",
+    "item_code": "7622202209550",
+    "unit_type": "",
+    "price": 109.0,
+    "cost": 109.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h92/h69/17582770389022/574650_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2416",
+    "internal_code": "652359",
+    "name": "ويفر تيترا لاتو كلاسيك محشو بكريمة الفراولة والزبادي - 35 جم - 12 قطعة",
+    "barcode": "6223007633888",
+    "item_type": "GS1",
+    "item_code": "6223007633888",
+    "unit_type": "",
+    "price": 69.0,
+    "cost": 69.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652359/1756297803/652359_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2420",
+    "internal_code": "664647",
+    "name": "مقرمشات بريتزو ميكسي بنكهة جبنة الناتشو - 70-80 جم",
+    "barcode": "6224010802421",
+    "item_type": "GS1",
+    "item_code": "6224010802421",
+    "unit_type": "",
+    "price": 19.3,
+    "cost": 19.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664647/1760434205/664647_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2428",
+    "internal_code": "603957",
+    "name": "مكفيتيز نيبلز حبيبات شوكولاتة الحليب - 110جرام",
+    "barcode": "8690504037736",
+    "item_type": "GS1",
+    "item_code": "8690504037736",
+    "unit_type": "",
+    "price": 90.0,
+    "cost": 90.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/603957/1735153803/603957_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2440",
+    "internal_code": "652324",
+    "name": "شوكولاتة حليب تيترا بالكراميل - 37 جم",
+    "barcode": "6223007634069",
+    "item_type": "GS1",
+    "item_code": "6223007634069",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652324/1756297803/652324_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2450",
+    "internal_code": "659629",
+    "name": "حلوى ايبون المحشوة بكريمة الحليب بطعم الفاكهة - 300 جرام",
+    "barcode": "6223013847095",
+    "item_type": "GS1",
+    "item_code": "6223013847095",
+    "unit_type": "",
+    "price": 52.0,
+    "cost": 55.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659629/1754818203/659629_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2463",
+    "internal_code": "652355",
+    "name": "ويفر تيترا لاتو كلاسيك محشو بكريمة البندق - 35 جرام",
+    "barcode": "6223007633833",
+    "item_type": "GS1",
+    "item_code": "6223007633833",
+    "unit_type": "",
+    "price": 8.0,
+    "cost": 8.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652355/1756297803/652355_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2473",
+    "internal_code": "628380",
+    "name": "كورونا شوكولاتة بالحليب والكراميل المملح",
+    "barcode": "6221073011210",
+    "item_type": "GS1",
+    "item_code": "6221073011210",
+    "unit_type": "",
+    "price": 47.5,
+    "cost": 47.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8f/hbf/62326154690590/628380_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2484",
+    "internal_code": "395918",
+    "name": "كيت كات شانكي شوكولاتة بالحليب - 40 جم",
+    "barcode": "6294003582678",
+    "item_type": "GS1",
+    "item_code": "6294003582678",
+    "unit_type": "",
+    "price": 34.7,
+    "cost": 34.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/395918/1751374803/395918_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2502",
+    "internal_code": "651644",
+    "name": "شوكولاتة الحليب بالبندق ريليفنت ديليشيز - 70 جرام",
+    "barcode": "6223006534612",
+    "item_type": "GS1",
+    "item_code": "6223006534612",
+    "unit_type": "",
+    "price": 61.9,
+    "cost": 61.9,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651644/1744624804/651644_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2529",
+    "internal_code": "533057",
+    "name": "أقراص الجبن بالكمون هيلثى سناك - 40 جرام",
+    "barcode": "6224009431014",
+    "item_type": "GS1",
+    "item_code": "6224009431014",
+    "unit_type": "",
+    "price": 26.0,
+    "cost": 26.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h71/h8e/14530497642526/533057_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2548",
+    "internal_code": "454482",
+    "name": "فريماز سناكس بطعم الجبنة والبصل - 30 جرام",
+    "barcode": "3800225340434",
+    "item_type": "GS1",
+    "item_code": "3800225340434",
+    "unit_type": "",
+    "price": 29.5,
+    "cost": 29.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf8/h38/14835322388510/454482_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2559",
+    "internal_code": "637769",
+    "name": "جاكوار ووندر بوبس فشار بطعم الجبنة البارميزان - 45 جرام",
+    "barcode": "6222035233312",
+    "item_type": "GS1",
+    "item_code": "6222035233312",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637769/1724056803/637769_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2576",
+    "internal_code": "576425",
+    "name": "لايت بايت بروتين بار بالبندق - 60 جرام",
+    "barcode": "6772504452244",
+    "item_type": "GS1",
+    "item_code": "6772504452244",
+    "unit_type": "",
+    "price": 89.0,
+    "cost": 89.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hbd/h8c/51053397213214/576425_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2582",
+    "internal_code": "492104",
+    "name": "بريتزو ميني ستيكس بالجبنة - 70 جم",
+    "barcode": "6223001200277",
+    "item_type": "GS1",
+    "item_code": "6223001200277",
+    "unit_type": "",
+    "price": 18.5,
+    "cost": 18.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8d/h74/49273757466654/492104_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2590",
+    "internal_code": "266089",
+    "name": "فول مدمس لبناني هارفست - 400 جم",
+    "barcode": "6223001060765",
+    "item_type": "GS1",
+    "item_code": "6223001060765",
+    "unit_type": "",
+    "price": 24.5,
+    "cost": 24.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he5/hc4/14786150760478/266089_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2598",
+    "internal_code": "651645",
+    "name": "شوكولاتة الحليب باللوز ريليفانت ديليشيز - 70 جرام",
+    "barcode": "6223006534636",
+    "item_type": "GS1",
+    "item_code": "6223006534636",
+    "unit_type": "",
+    "price": 72.2,
+    "cost": 72.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651645/1744624804/651645_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2603",
+    "internal_code": "653536",
+    "name": "رقائق بطاطس تايجر اكسلانس بطعم الزبادي والأعشاب - 104 جرام",
+    "barcode": "6222035246305",
+    "item_type": "GS1",
+    "item_code": "6222035246305",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653536/1749733203/653536_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2604",
+    "internal_code": "533065",
+    "name": "اقراص بالجبن مع الليمون هيلثى سناك - 40 جرام",
+    "barcode": "6224009431038",
+    "item_type": "GS1",
+    "item_code": "6224009431038",
+    "unit_type": "",
+    "price": 26.0,
+    "cost": 26.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hab/h2b/14530498428958/533065_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2606",
+    "internal_code": "614913",
+    "name": "ميني تيبو بسكويت بكريمة بالحليب والشوكولاتة - 1 قطعة",
+    "barcode": "6221030009373",
+    "item_type": "GS1",
+    "item_code": "6221030009373",
+    "unit_type": "",
+    "price": 12.9,
+    "cost": 12.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h58/hcb/49899121934366/614913_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2611",
+    "internal_code": "404581",
+    "name": "كتاكيتو ويفر إكستر بالبندق - 1 قطعة",
+    "barcode": "6221030002183",
+    "item_type": "GS1",
+    "item_code": "6221030002183",
+    "unit_type": "",
+    "price": 26.8,
+    "cost": 26.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h59/hd7/45438938775582/404581_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2618",
+    "internal_code": "646450",
+    "name": "اقراص بيستو بالجبن هيلثى كراكرز - 40 جرام",
+    "barcode": "6224009431502",
+    "item_type": "GS1",
+    "item_code": "6224009431502",
+    "unit_type": "",
+    "price": 26.0,
+    "cost": 26.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646450/1746694803/646450_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2622",
+    "internal_code": "660362",
+    "name": "شوكولاتة وندر بالحليب والفراولة خالية من السكر - 30 جم",
+    "barcode": "6224003676084",
+    "item_type": "GS1",
+    "item_code": "6224003676084",
+    "unit_type": "",
+    "price": 65.0,
+    "cost": 65.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660362/1756026004/660362_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2629",
+    "internal_code": "651646",
+    "name": "شوكولاتة الحليب ريليفانت ديليشيز - 70 جرام",
+    "barcode": "6223006534650",
+    "item_type": "GS1",
+    "item_code": "6223006534650",
+    "unit_type": "",
+    "price": 51.5,
+    "cost": 51.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651646/1744626604/651646_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2675",
+    "internal_code": "642634",
+    "name": "ووندر بار شوكولاتة بالحليب بدون سكر - 30 جم",
+    "barcode": "6224002528827",
+    "item_type": "GS1",
+    "item_code": "6224002528827",
+    "unit_type": "",
+    "price": 64.8,
+    "cost": 64.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/642634/1730817003/642634_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2683",
+    "internal_code": "534982",
+    "name": "فن داي بوبو كريمة البندق والكاكاو - 350 جرام",
+    "barcode": "6224010588622",
+    "item_type": "GS1",
+    "item_code": "6224010588622",
+    "unit_type": "",
+    "price": 105.4,
+    "cost": 105.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb3/h8a/14853610176542/534982_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2741",
+    "internal_code": "109671",
+    "name": "ايون بريك شوكولاتة بالبندق - 85 جرام",
+    "barcode": "5201127013866",
+    "item_type": "GS1",
+    "item_code": "5201127013866",
+    "unit_type": "",
+    "price": 111.0,
+    "cost": 111.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb2/h89/27007482429470/109671_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2754",
+    "internal_code": "591325",
+    "name": "توداى جولديز بالعسل واللبن - 30 جرام",
+    "barcode": "6223005610195",
+    "item_type": "GS1",
+    "item_code": "6223005610195",
+    "unit_type": "",
+    "price": 5.5,
+    "cost": 5.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9f/h86/34566774652958/591325_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2765",
+    "internal_code": "653800",
+    "name": "ويفر لواكر بريك 3 بالشوكولاتة والبندق - 19 جرام",
+    "barcode": "80940272",
+    "item_type": "GS1",
+    "item_code": "80940272",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653800/1759323605/653800_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2775",
+    "internal_code": "580148",
+    "name": "ميلرز خلطة صوص المكرونة بالجبنة - 20 جرام",
+    "barcode": "6223000912867",
+    "item_type": "GS1",
+    "item_code": "6223000912867",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb6/hde/27746755182622/580148_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2785",
+    "internal_code": "340139",
+    "name": "تيفاني بيج بريك بسكويت مقرمش بكريمة شوكولاتة الحليب - 31 جرام",
+    "barcode": "6291003204999",
+    "item_type": "GS1",
+    "item_code": "6291003204999",
+    "unit_type": "",
+    "price": 15.6,
+    "cost": 15.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hed/hd7/49347554869278/340139_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2803",
+    "internal_code": "498437",
+    "name": "تيفاني بيج بريك بسكويت مقرمش بالكراميل مغطى بكريمة شوكولاتة الحليب - 20 جرام",
+    "barcode": "6291003084034",
+    "item_type": "GS1",
+    "item_code": "6291003084034",
+    "unit_type": "",
+    "price": 8.5,
+    "cost": 8.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1f/hdc/49347562831902/498437_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2822",
+    "internal_code": "373796",
+    "name": "تيفاني بريك ريزو ويفر بكريمة شوكولاتة الحليب - 30 جرام",
+    "barcode": "6291003081903",
+    "item_type": "GS1",
+    "item_code": "6291003081903",
+    "unit_type": "",
+    "price": 15.6,
+    "cost": 15.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h70/h1f/49347556081694/373796_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2829",
+    "internal_code": "508852",
+    "name": "شيكولاتة أيون بالبندق - 100جم",
+    "barcode": "5201127013095",
+    "item_type": "GS1",
+    "item_code": "5201127013095",
+    "unit_type": "",
+    "price": 143.3,
+    "cost": 143.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hda/h04/10070006857758/508852_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2832",
+    "internal_code": "647940",
+    "name": "بوبو كون ويفر بالشوكولاته والبندق وكريمة الفراولة - 25 جرام",
+    "barcode": "6224010588752",
+    "item_type": "GS1",
+    "item_code": "6224010588752",
+    "unit_type": "",
+    "price": 11.8,
+    "cost": 11.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647940/1738065603/647940_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2833",
+    "internal_code": "540027",
+    "name": "فن داى كراكرز بالجبنه - 40 جم",
+    "barcode": "6224010268456",
+    "item_type": "GS1",
+    "item_code": "6224010268456",
+    "unit_type": "",
+    "price": 7.5,
+    "cost": 7.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/540027/1748853004/540027_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2841",
+    "internal_code": "614943",
+    "name": "ميني تيبو بسكويت بالبندق والشوكولاتة - 6 قطع",
+    "barcode": "6221030009380",
+    "item_type": "GS1",
+    "item_code": "6221030009380",
+    "unit_type": "",
+    "price": 77.1,
+    "cost": 77.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hf3/h4c/49899222466590/614943_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2845",
+    "internal_code": "647979",
+    "name": "شوكولاتة الحليب كورونا بالبندق وسكر الستيفيا- 6 قطع",
+    "barcode": "6221073012231",
+    "item_type": "GS1",
+    "item_code": "6221073012231",
+    "unit_type": "",
+    "price": 300.0,
+    "cost": 300.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/647979/1738834203/647979_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2849",
+    "internal_code": "327897",
+    "name": "7بيك أب بسكويت شوكولاتة بالحليب - 28 جم",
+    "barcode": "4017100248214",
+    "item_type": "GS1",
+    "item_code": "4017100248214",
+    "unit_type": "",
+    "price": 34.0,
+    "cost": 34.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd9/he3/14489232539678/327897_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2854",
+    "internal_code": "635555",
+    "name": "فن داي فشار بالجبنة - 25 جرام",
+    "barcode": "6224002810182",
+    "item_type": "GS1",
+    "item_code": "6224002810182",
+    "unit_type": "",
+    "price": 7.1,
+    "cost": 7.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h00/h65/64598675750942/635555_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2878",
+    "internal_code": "638079",
+    "name": "فيت 20 سناكس بروتين بطعم الجبنة والهالبينو  - 60 جرام",
+    "barcode": "6224002606037",
+    "item_type": "GS1",
+    "item_code": "6224002606037",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638079/1727687403/638079_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2892",
+    "internal_code": "656690",
+    "name": "سناكس القمح بيك ستيكس بطعم الجبنة - 60 جم",
+    "barcode": "6223000556931",
+    "item_type": "GS1",
+    "item_code": "6223000556931",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/656690/1751202004/656690_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2895",
+    "internal_code": "636032",
+    "name": "رو رقائق بطاطس مقلية بطعم الجبنة الشيدر والبصل - 90 جم",
+    "barcode": "6223015760248",
+    "item_type": "GS1",
+    "item_code": "6223015760248",
+    "unit_type": "",
+    "price": 25.0,
+    "cost": 25.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h82/h69/64724342734878/636032_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2898",
+    "internal_code": "117482",
+    "name": "شوكولاتة ميلكا ألباين بالحليب - 98 جم",
+    "barcode": "7622202211102",
+    "item_type": "GS1",
+    "item_code": "7622202211102",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h8d/h61/13652795293726/117482_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2903",
+    "internal_code": "652361",
+    "name": "ويفر تيترا لاتو كلاسيك محشو بكريمة البندق - 35 جم - 12 قطعة",
+    "barcode": "6223007633864",
+    "item_type": "GS1",
+    "item_code": "6223007633864",
+    "unit_type": "",
+    "price": 90.0,
+    "cost": 90.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652361/1756297803/652361_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2905",
+    "internal_code": "658497",
+    "name": "ويفر البيلا المغطى بالشوكولاتة ومحشو كريمة البندق - 40 جم - 6 باكو",
+    "barcode": "6222024106467",
+    "item_type": "GS1",
+    "item_code": "6222024106467",
+    "unit_type": "",
+    "price": 57.0,
+    "cost": 57.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/658497/1756632605/658497_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2910",
+    "internal_code": "423356",
+    "name": "ليندت ليندور شوكولاتة حليب - 38 جرام",
+    "barcode": "4000539363108",
+    "item_type": "GS1",
+    "item_code": "4000539363108",
+    "unit_type": "",
+    "price": 95.8,
+    "cost": 95.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb3/h12/9257223094302/423356_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2919",
+    "internal_code": "638082",
+    "name": "فيت 20 سناكس بروتين بطعم الجبنة  - 60 جرام",
+    "barcode": "6225000538375",
+    "item_type": "GS1",
+    "item_code": "6225000538375",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/638082/1727687403/638082_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2936",
+    "internal_code": "19481",
+    "name": "دوبلو شوكولاتة بالبندق - 26 جم",
+    "barcode": "80052357",
+    "item_type": "GS1",
+    "item_code": "80052357",
+    "unit_type": "",
+    "price": 40.0,
+    "cost": 40.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7e/h46/14583368024094/19481_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2950",
+    "internal_code": "651472",
+    "name": "بسكويت ساندويتش لوتس بسكوف بكريمة شوكولاتة الحليب - 150 جم",
+    "barcode": "5410126006353",
+    "item_type": "GS1",
+    "item_code": "5410126006353",
+    "unit_type": "",
+    "price": 110.0,
+    "cost": 110.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/651472/1742729403/651472_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2953",
+    "internal_code": "612444",
+    "name": "إيتس إيه بووم كوكيز بقطع شوكولاتة الحليب - 2 كوكيز",
+    "barcode": "6224011288491",
+    "item_type": "GS1",
+    "item_code": "6224011288491",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hea/h0c/49771983568926/612444_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2979",
+    "internal_code": "84980",
+    "name": "لوكر جاردينا ويفر بالبندق - 38 جم",
+    "barcode": "80001287",
+    "item_type": "GS1",
+    "item_code": "80001287",
+    "unit_type": "",
+    "price": 57.8,
+    "cost": 57.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/heb/27008402784286/84980_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2989",
+    "internal_code": "653061",
+    "name": "شوكولاتة الحليب جلاكسي كوكيز كرامبل - 36 جم",
+    "barcode": "6285835001413",
+    "item_type": "GS1",
+    "item_code": "6285835001413",
+    "unit_type": "",
+    "price": 35.0,
+    "cost": 35.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/653061/1749733203/653061_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_2995",
+    "internal_code": "632326",
+    "name": "ناتشورز واندرز بروتين بافس بطعم الجبنة والتوابل - 60 جم",
+    "barcode": "6223011434303",
+    "item_type": "GS1",
+    "item_code": "6223011434303",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5e/hd0/63698008637470/632326_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3037",
+    "internal_code": "487640",
+    "name": "بسكويت الشوفان مكفتيز الذهبي بنكهة الشوكولاتة بالحليب - 28.5 جم",
+    "barcode": "6223003803834",
+    "item_type": "GS1",
+    "item_code": "6223003803834",
+    "unit_type": "",
+    "price": 10.0,
+    "cost": 10.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/487640/1735142403/487640_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3072",
+    "internal_code": "652322",
+    "name": "شوكولاتة الحليب تيترا - 37 جم",
+    "barcode": "6223007634045",
+    "item_type": "GS1",
+    "item_code": "6223007634045",
+    "unit_type": "",
+    "price": 16.5,
+    "cost": 16.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652322/1756297803/652322_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3079",
+    "internal_code": "652323",
+    "name": "شوكولاتة الحليب بالبندق تيترا - 37 جم",
+    "barcode": "6223007634052",
+    "item_type": "GS1",
+    "item_code": "6223007634052",
+    "unit_type": "",
+    "price": 19.0,
+    "cost": 19.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652323/1756297803/652323_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3085",
+    "internal_code": "660549",
+    "name": "رقائق بطاطس إيجل بالجبنة الفرنسية - 150-160 جرام",
+    "barcode": "6224010415850",
+    "item_type": "GS1",
+    "item_code": "6224010415850",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660549/1756297803/660549_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3088",
+    "internal_code": "652353",
+    "name": "ويفر تيترا لاتو كلاسيك محشو بكريمة الفراولة والزبادي - 35 جرام",
+    "barcode": "6223007633819",
+    "item_type": "GS1",
+    "item_code": "6223007633819",
+    "unit_type": "",
+    "price": 6.0,
+    "cost": 6.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652353/1756297803/652353_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3098",
+    "internal_code": "667062",
+    "name": "اصابع بسكويت بالسن بنكهة الشوكولاته والحليب - 27.5 جم",
+    "barcode": "4017100210556",
+    "item_type": "GS1",
+    "item_code": "4017100210556",
+    "unit_type": "",
+    "price": 43.9,
+    "cost": 43.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667062/1763467206/667062_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3102",
+    "internal_code": "423286",
+    "name": "رقائق بطاطس برينجلز بطعم الجبنة - 165 جرام",
+    "barcode": "5053990106981",
+    "item_type": "GS1",
+    "item_code": "5053990106981",
+    "unit_type": "",
+    "price": 159.0,
+    "cost": 159.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/423286/1767254400/423286_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3105",
+    "internal_code": "666413",
+    "name": "شوكولاتة كادبوري ديري ميلك بكريمة البندق - 105 جم",
+    "barcode": "7622202368233",
+    "item_type": "GS1",
+    "item_code": "7622202368233",
+    "unit_type": "",
+    "price": 119.1,
+    "cost": 119.1,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666413/1766325584/666413_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3108",
+    "internal_code": "667568",
+    "name": "شوكولاتة بيضاء ريتر سبورت بالبندق الكامل - 100 جرام",
+    "barcode": "4000417013002",
+    "item_type": "GS1",
+    "item_code": "4000417013002",
+    "unit_type": "",
+    "price": 143.7,
+    "cost": 143.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667568/1764844204/667568_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3127",
+    "internal_code": "666202",
+    "name": "شوكولاتة كادبوري ديري ميلك بكريمة البندق - 136.5 جم - 13 قطعة شوكولاتة",
+    "barcode": "7622202376160",
+    "item_type": "GS1",
+    "item_code": "7622202376160",
+    "unit_type": "",
+    "price": 257.8,
+    "cost": 257.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666202/1765893603/666202_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3128",
+    "internal_code": "667061",
+    "name": "بسكويت ليبنز فن بايتس بالحليب - 100 جرام",
+    "barcode": "4017100144318",
+    "item_type": "GS1",
+    "item_code": "4017100144318",
+    "unit_type": "",
+    "price": 132.7,
+    "cost": 132.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667061/1763467206/667061_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3137",
+    "internal_code": "663927",
+    "name": "شوكولاتة الحليب كادبوري بالبندق - 18.5 جرام - 12 قطعة",
+    "barcode": "7622202221828",
+    "item_type": "GS1",
+    "item_code": "7622202221828",
+    "unit_type": "",
+    "price": 178.3,
+    "cost": 178.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/663927/1765893603/663927_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3141",
+    "internal_code": "667700",
+    "name": "بار بروتين زيرو ميلتي بكريمة البندق - 70 جرام",
+    "barcode": "6224003818033",
+    "item_type": "GS1",
+    "item_code": "6224003818033",
+    "unit_type": "",
+    "price": 72.3,
+    "cost": 72.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667700/1764846005/667700_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3147",
+    "internal_code": "666149",
+    "name": "شوكولاتة الحليب ريتر سبورت ألباين - 100 جرام",
+    "barcode": "4000417018007",
+    "item_type": "GS1",
+    "item_code": "4000417018007",
+    "unit_type": "",
+    "price": 143.7,
+    "cost": 143.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666149/1762423204/666149_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3148",
+    "internal_code": "666161",
+    "name": "شوكولاتة الحليب ريتر سبورت سمارتيز - 100 جرام",
+    "barcode": "4000417620613",
+    "item_type": "GS1",
+    "item_code": "4000417620613",
+    "unit_type": "",
+    "price": 147.0,
+    "cost": 147.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666161/1762423204/666161_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3156",
+    "internal_code": "666156",
+    "name": "شوكولاتة الحليب ريتر سبورت باللوز الكامل - 100 جرام",
+    "barcode": "4000417023001",
+    "item_type": "GS1",
+    "item_code": "4000417023001",
+    "unit_type": "",
+    "price": 157.3,
+    "cost": 157.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666156/1762423204/666156_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3160",
+    "internal_code": "363147",
+    "name": "اصابع ويفر لاجو رول بريك بحشو بكريمة البندق - 80 جرام",
+    "barcode": "8004800005267",
+    "item_type": "GS1",
+    "item_code": "8004800005267",
+    "unit_type": "",
+    "price": 78.6,
+    "cost": 78.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h02/hdc/10610314838046/363147_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3169",
+    "internal_code": "292515",
+    "name": "شوكولاتة كورونا بالبندق - 35 جرام",
+    "barcode": "6221073010435",
+    "item_type": "GS1",
+    "item_code": "6221073010435",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 25.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h98/h86/27007621693470/292515_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3172",
+    "internal_code": "667978",
+    "name": "سبريد البندق ياميز - 300 جرام",
+    "barcode": "6223000762851",
+    "item_type": "GS1",
+    "item_code": "6223000762851",
+    "unit_type": "",
+    "price": 190.0,
+    "cost": 205.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667978/1767094200/667978_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3185",
+    "internal_code": "612443",
+    "name": "كوكيز ايتس ايه يوم هيرشيز كيسز بشوكولاتة الحليب - 2 كوكيز - 12 قطعة",
+    "barcode": "6224011288507",
+    "item_type": "GS1",
+    "item_code": "6224011288507",
+    "unit_type": "",
+    "price": 126.2,
+    "cost": 126.2,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h7f/hec/51939334783006/612443_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3186",
+    "internal_code": "666301",
+    "name": "بار بروتين ريفيول بالشوكولاتة والبندق - 60 جم",
+    "barcode": "6224002148063",
+    "item_type": "GS1",
+    "item_code": "6224002148063",
+    "unit_type": "",
+    "price": 69.0,
+    "cost": 69.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666301/1763301605/666301_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3194",
+    "internal_code": "666165",
+    "name": "شوكولاتة الحليب ريتر سبورت كرانشي ديو كريمة مقرمشة وشوكو كرانش - 218 جرام",
+    "barcode": "4000417663016",
+    "item_type": "GS1",
+    "item_code": "4000417663016",
+    "unit_type": "",
+    "price": 344.5,
+    "cost": 344.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666165/1762693204/666165_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3195",
+    "internal_code": "666157",
+    "name": "شوكولاتة الحليب الفاخرة ريتر سبورت 35% كاكاو - 100 جرام",
+    "barcode": "4000417021007",
+    "item_type": "GS1",
+    "item_code": "4000417021007",
+    "unit_type": "",
+    "price": 143.7,
+    "cost": 143.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666157/1762423204/666157_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3200",
+    "internal_code": "666159",
+    "name": "شوكولاتة الحليب ريتر سبورت بالبندق المفروم - 100 جرام",
+    "barcode": "4000417222008",
+    "item_type": "GS1",
+    "item_code": "4000417222008",
+    "unit_type": "",
+    "price": 151.0,
+    "cost": 151.0,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666159/1762423204/666159_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3217",
+    "internal_code": "670291",
+    "name": "بارجالاكسي كنافة بالفستق والشوكولاتة بالحليب - 90 جرام",
+    "barcode": "6294001850793",
+    "item_type": "GS1",
+    "item_code": "6294001850793",
+    "unit_type": "",
+    "price": 282.8,
+    "cost": 282.8,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/670291/1768117200/670291_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3225",
+    "internal_code": "576755",
+    "name": "شرائح بطاطس ميجا بطعم الكريمة الحامضة والجبنة - 50 جم",
+    "barcode": "4810279000429",
+    "item_type": "GS1",
+    "item_code": "4810279000429",
+    "unit_type": "",
+    "price": 55.9,
+    "cost": 55.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/576755/1769598000/576755_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3230",
+    "internal_code": "667361",
+    "name": "حلقات الشوفان كراش مونستر  بطعم الليمون بالجبنه - 50 جم",
+    "barcode": "6224002606259",
+    "item_type": "GS1",
+    "item_code": "6224002606259",
+    "unit_type": "",
+    "price": 14.3,
+    "cost": 14.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667361/1764685805/667361_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3245",
+    "internal_code": "299923",
+    "name": "ويفر لاجو بليسير بكريمة الشوكولاتة والبندق - 38 جم",
+    "barcode": "80073864",
+    "item_type": "GS1",
+    "item_code": "80073864",
+    "unit_type": "",
+    "price": 33.8,
+    "cost": 33.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/299923/1773219602/299923_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3256",
+    "internal_code": "665727",
+    "name": "هوت شوكليت سويت آند سليم بالبندق - 25 جرام",
+    "barcode": "6223004404351",
+    "item_type": "GS1",
+    "item_code": "6223004404351",
+    "unit_type": "",
+    "price": 20.5,
+    "cost": 20.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665727/1763466006/665727_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3266",
+    "internal_code": "666155",
+    "name": "شوكولاتة دارك ريتر سبورت بالبندق الكامل - 100 جرام",
+    "barcode": "4000417224002",
+    "item_type": "GS1",
+    "item_code": "4000417224002",
+    "unit_type": "",
+    "price": 157.3,
+    "cost": 157.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666155/1762695004/666155_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3271",
+    "internal_code": "666153",
+    "name": "شوكولاتة الحليب ريتر سبورت بالبندق الكامل المحمص المقرمش - 100 جرام",
+    "barcode": "4000417019004",
+    "item_type": "GS1",
+    "item_code": "4000417019004",
+    "unit_type": "",
+    "price": 157.3,
+    "cost": 157.3,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666153/1762423204/666153_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3275",
+    "internal_code": "667703",
+    "name": "شوكولاتة دارك زيرو بالبندق محلاة بالستيفيا - 85 جم",
+    "barcode": "6224003814462",
+    "item_type": "GS1",
+    "item_code": "6224003814462",
+    "unit_type": "",
+    "price": 83.4,
+    "cost": 83.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667703/1764846005/667703_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3277",
+    "internal_code": "668081",
+    "name": "رقائق بيك رولز ميكس جبنه - 108 جرام",
+    "barcode": "6223000559338",
+    "item_type": "GS1",
+    "item_code": "6223000559338",
+    "unit_type": "",
+    "price": 20.8,
+    "cost": 20.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/668081/1765881003/668081_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3279",
+    "internal_code": "666150",
+    "name": "شوكولاتة الحليب ريتر سبورت بالزبيب والبندق - 100 جرام",
+    "barcode": "4000417022004",
+    "item_type": "GS1",
+    "item_code": "4000417022004",
+    "unit_type": "",
+    "price": 147.5,
+    "cost": 147.5,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666150/1762423204/666150_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3280",
+    "internal_code": "667697",
+    "name": "شوكولاتة زيرو بالحليب وقطع البندق محلاه بالستيفيا - 85 جم",
+    "barcode": "6224003814332",
+    "item_type": "GS1",
+    "item_code": "6224003814332",
+    "unit_type": "",
+    "price": 83.4,
+    "cost": 83.4,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/667697/1764846005/667697_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 30,
+    "reorder_level": 5,
+    "tax_profile": []
+  },
+  {
+    "id": "prod_3283",
+    "internal_code": "666160",
+    "name": "شوكولاتة الحليب ريتر سبورت بالزبادي والفراولة - 100 جرام",
+    "barcode": "4000417237002",
+    "item_type": "GS1",
+    "item_code": "4000417237002",
+    "unit_type": "",
+    "price": 143.7,
+    "cost": 143.7,
+    "tax_rate": 0.0,
+    "tax_type": "",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/666160/1762423204/666160_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 10,
+    "reorder_level": 5,
+    "tax_profile": []
+  }
+]

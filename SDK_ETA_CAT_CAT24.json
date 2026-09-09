@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "prod_053",
+    "internal_code": "108157",
+    "name": "وادي فود زيت زيتون بكر ممتاز - 2 لتر",
+    "barcode": "6223000190418",
+    "item_type": "GS1",
+    "item_code": "6223000190418",
+    "unit_type": "",
+    "price": 1630.0,
+    "cost": 1630.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h77/h07/14622858739742/108157_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_123",
+    "internal_code": "216691",
+    "name": "زيت زيتون بكر بورجس - 750 مل",
+    "barcode": "8410179200811",
+    "item_type": "GS1",
+    "item_code": "8410179200811",
+    "unit_type": "",
+    "price": 674.0,
+    "cost": 674.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hde/h85/14622865260574/216691_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_133",
+    "internal_code": "529127",
+    "name": "زيت زيتون بكر ممتاز زيتونة - 500مل",
+    "barcode": "6224009685011",
+    "item_type": "GS1",
+    "item_code": "6224009685011",
+    "unit_type": "",
+    "price": 327.2,
+    "cost": 327.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h62/h5f/14623325421598/529127_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_135",
+    "internal_code": "17384",
+    "name": "وادي فوود طماطم مجففة بزيت الزيتون - 325 جرام",
+    "barcode": "6223000192061",
+    "item_type": "GS1",
+    "item_code": "6223000192061",
+    "unit_type": "",
+    "price": 160.5,
+    "cost": 160.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h03/hbc/14786090369054/17384_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_156",
+    "internal_code": "529129",
+    "name": "زيتونة زيت زيتون بكر ممتاز - 1 لتر",
+    "barcode": "6224009685165",
+    "item_type": "GS1",
+    "item_code": "6224009685165",
+    "unit_type": "",
+    "price": 610.0,
+    "cost": 610.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h17/h07/14623324962846/529129_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_179",
+    "internal_code": "43254",
+    "name": "تونة ريو ماري في زيت زيتون - 160 جم",
+    "barcode": "8004030044005",
+    "item_type": "GS1",
+    "item_code": "8004030044005",
+    "unit_type": "",
+    "price": 246.5,
+    "cost": 246.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h68/hbb/14786176286750/43254_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_206",
+    "internal_code": "505580",
+    "name": "زيت زيتون بكر ممتاز وادي فود - 500 مل + زيت زيتون بكر - 250 مل",
+    "barcode": "6223000198650",
+    "item_type": "GS1",
+    "item_code": "6223000198650",
+    "unit_type": "",
+    "price": 482.5,
+    "cost": 482.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0c/hc7/14623211651102/505580_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_221",
+    "internal_code": "34494",
+    "name": "وادي فود زيتون أسود طبيعي - 1 كجم",
+    "barcode": "6223000191385",
+    "item_type": "GS1",
+    "item_code": "6223000191385",
+    "unit_type": "",
+    "price": 175.8,
+    "cost": 175.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfe/h85/14786158657566/34494_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_224",
+    "internal_code": "201698",
+    "name": "وادي فود زيت زيتون بكر - 500 مل",
+    "barcode": "6223000190449",
+    "item_type": "GS1",
+    "item_code": "6223000190449",
+    "unit_type": "",
+    "price": 445.0,
+    "cost": 445.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb7/he8/14622864474142/201698_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_226",
+    "internal_code": "43257",
+    "name": "تونة ريو مارى بزيت الزيتون - 80 جم ",
+    "barcode": "8004030344938",
+    "item_type": "GS1",
+    "item_code": "8004030344938",
+    "unit_type": "",
+    "price": 366.8,
+    "cost": 366.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h25/he5/14786175598622/43257_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_244",
+    "internal_code": "54655",
+    "name": "زيت زيتون كلاسيك بورجيس - 500 مل",
+    "barcode": "8410179200828",
+    "item_type": "GS1",
+    "item_code": "8410179200828",
+    "unit_type": "",
+    "price": 419.5,
+    "cost": 419.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h11/hce/14623343607838/54655_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_253",
+    "internal_code": "633909",
+    "name": "زيت زيتون بكر ممتاز نايل جاردن - 1 لتر",
+    "barcode": "6224009377015",
+    "item_type": "GS1",
+    "item_code": "6224009377015",
+    "unit_type": "",
+    "price": 818.0,
+    "cost": 818.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h86/h94/64269334183966/633909_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_256",
+    "internal_code": "625778",
+    "name": "هارفست فول مدمس بزيت الزيتون - 400 جم",
+    "barcode": "6223001062615",
+    "item_type": "GS1",
+    "item_code": "6223001062615",
+    "unit_type": "",
+    "price": 20.8,
+    "cost": 20.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hdc/h0d/62891928092702/625778_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_262",
+    "internal_code": "484517",
+    "name": "مخلل مشكل تشويس - 3.7 كجم",
+    "barcode": "6222004111382",
+    "item_type": "GS1",
+    "item_code": "6222004111382",
+    "unit_type": "",
+    "price": 121.0,
+    "cost": 121.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h93/h6a/13215866781726/484517_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_264",
+    "internal_code": "21193",
+    "name": "زيت زيتون بكر وادي فود - 250 مل",
+    "barcode": "6223000190135",
+    "item_type": "GS1",
+    "item_code": "6223000190135",
+    "unit_type": "",
+    "price": 253.2,
+    "cost": 253.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h48/h86/14622865227806/21193_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_280",
+    "internal_code": "474776",
+    "name": "زيت زيتون بكر بورجيس - 125 مل",
+    "barcode": "8410179200927",
+    "item_type": "GS1",
+    "item_code": "8410179200927",
+    "unit_type": "",
+    "price": 104.2,
+    "cost": 104.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h49/h37/14623196905502/474776_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_311",
+    "internal_code": "660200",
+    "name": "زيت زيتون بكر ممتاز زيتونة - 500 مل",
+    "barcode": "6224009685301",
+    "item_type": "GS1",
+    "item_code": "6224009685301",
+    "unit_type": "",
+    "price": 373.0,
+    "cost": 373.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660200/1755786603/660200_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_317",
+    "internal_code": "484518",
+    "name": "مخلل مشكل بالكاري تشويس - 3.7 كجم",
+    "barcode": "6222004111481",
+    "item_type": "GS1",
+    "item_code": "6222004111481",
+    "unit_type": "",
+    "price": 115.5,
+    "cost": 115.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/484518/1748512804/484518_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_332",
+    "internal_code": "633915",
+    "name": "مخلل مشكل نايل جاردن - 1200 جم",
+    "barcode": "6224010915619",
+    "item_type": "GS1",
+    "item_code": "6224010915619",
+    "unit_type": "",
+    "price": 80.7,
+    "cost": 80.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h6d/h56/64269336838174/633915_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_366",
+    "internal_code": "17378",
+    "name": "وادي فوود زيتون أخضر شرائح - 650 جم",
+    "barcode": "6223000191293",
+    "item_type": "GS1",
+    "item_code": "6223000191293",
+    "unit_type": "",
+    "price": 129.0,
+    "cost": 129.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h29/hc6/14786090074142/17378_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_461",
+    "internal_code": "603893",
+    "name": "إيجي صن زيت زيتون بكر - 1 لتر",
+    "barcode": "6224009685226",
+    "item_type": "GS1",
+    "item_code": "6224009685226",
+    "unit_type": "",
+    "price": 622.5,
+    "cost": 622.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h75/h31/49010371854366/603893_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_462",
+    "internal_code": "426285",
+    "name": "زيت زيتون اكسترا لايت بورجيس - 500 مل",
+    "barcode": "8410179300825",
+    "item_type": "GS1",
+    "item_code": "8410179300825",
+    "unit_type": "",
+    "price": 397.7,
+    "cost": 397.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0a/h3b/14623080972318/426285_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_511",
+    "internal_code": "649763",
+    "name": "مخلل نايل جاردن مشكل على الطريقة اليونانية - 680 جرام",
+    "barcode": "6224010915732",
+    "item_type": "GS1",
+    "item_code": "6224010915732",
+    "unit_type": "",
+    "price": 68.2,
+    "cost": 68.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/649763/1740907804/649763_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_514",
+    "internal_code": "665840",
+    "name": "شرائح زيتون أسود حدائق النيل - 680 جرام",
+    "barcode": "6224009377473",
+    "item_type": "GS1",
+    "item_code": "6224009377473",
+    "unit_type": "",
+    "price": 137.4,
+    "cost": 137.4,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/665840/1763368204/665840_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_528",
+    "internal_code": "17393",
+    "name": "وادي فوود ليمون مخلل - 650 جم",
+    "barcode": "6223000191170",
+    "item_type": "GS1",
+    "item_code": "6223000191170",
+    "unit_type": "",
+    "price": 40.5,
+    "cost": 40.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha5/h3d/14786091974686/17393_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_532",
+    "internal_code": "21178",
+    "name": "وادي فود زيت زيتون بكر ممتاز - 250 مل",
+    "barcode": "6223000190029",
+    "item_type": "GS1",
+    "item_code": "6223000190029",
+    "unit_type": "",
+    "price": 312.5,
+    "cost": 312.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha8/he2/14622864605214/21178_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_551",
+    "internal_code": "603892",
+    "name": "إيجي صن زيت زيتون بكر - 0.5 لتر",
+    "barcode": "6224009685219",
+    "item_type": "GS1",
+    "item_code": "6224009685219",
+    "unit_type": "",
+    "price": 317.3,
+    "cost": 317.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0a/h09/49217539735582/603892_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_610",
+    "internal_code": "633910",
+    "name": "زيت زيتون بكر ممتاز نايل جاردن - 500 مل",
+    "barcode": "6224009377022",
+    "item_type": "GS1",
+    "item_code": "6224009377022",
+    "unit_type": "",
+    "price": 428.3,
+    "cost": 428.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hb8/h41/64269336215582/633910_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_616",
+    "internal_code": "21199",
+    "name": "وادى فود زيت زيتون بكر ممتاز - 500 مل",
+    "barcode": "6223000190036",
+    "item_type": "GS1",
+    "item_code": "6223000190036",
+    "unit_type": "",
+    "price": 548.8,
+    "cost": 548.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h52/he2/14622864637982/21199_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_630",
+    "internal_code": "533323",
+    "name": "زيت زيتون امتنان - 250 مل",
+    "barcode": "6221078769574",
+    "item_type": "GS1",
+    "item_code": "6221078769574",
+    "unit_type": "",
+    "price": 285.0,
+    "cost": 285.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h33/h98/12976520298526/533323_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_647",
+    "internal_code": "382254",
+    "name": "وادي فوود زيتون أسود شرائح - 650 جرام",
+    "barcode": "6223000190586",
+    "item_type": "GS1",
+    "item_code": "6223000190586",
+    "unit_type": "",
+    "price": 142.0,
+    "cost": 142.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hec/h0a/14786165276702/382254_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_653",
+    "internal_code": "108155",
+    "name": "زيت زيتون بكر وادي فود - 1 لتر",
+    "barcode": "6223000190401",
+    "item_type": "GS1",
+    "item_code": "6223000190401",
+    "unit_type": "",
+    "price": 823.8,
+    "cost": 823.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h75/h0a/14622858674206/108155_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_661",
+    "internal_code": "633911",
+    "name": "زيت زيتون ممتاز نايل جاردن - 250 مل",
+    "barcode": "6224009377039",
+    "item_type": "GS1",
+    "item_code": "6224009377039",
+    "unit_type": "",
+    "price": 224.0,
+    "cost": 224.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h92/ha4/64269337002014/633911_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_675",
+    "internal_code": "26019",
+    "name": "زيت زيتون صافي رافائيل سالغادو - 250 مل",
+    "barcode": "8420701101134",
+    "item_type": "GS1",
+    "item_code": "8420701101134",
+    "unit_type": "",
+    "price": 371.3,
+    "cost": 371.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9e/h24/14623065407518/26019_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_702",
+    "internal_code": "635770",
+    "name": "هايزنز كاتشب طماطم بطعم المخلل - 125 جرام",
+    "barcode": "6221033001633",
+    "item_type": "GS1",
+    "item_code": "6221033001633",
+    "unit_type": "",
+    "price": 23.0,
+    "cost": 23.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h71/h6b/64598678339614/635770_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_712",
+    "internal_code": "646775",
+    "name": "نايل جاردن زيتون كالاماتا مخلى - 680 جم",
+    "barcode": "6224010915183",
+    "item_type": "GS1",
+    "item_code": "6224010915183",
+    "unit_type": "",
+    "price": 176.3,
+    "cost": 176.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646775/1735824603/646775_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_722",
+    "internal_code": "492377",
+    "name": "زيت زيتون بكر نايل جاردن - 1 لتر",
+    "barcode": "6224009377046",
+    "item_type": "GS1",
+    "item_code": "6224009377046",
+    "unit_type": "",
+    "price": 710.0,
+    "cost": 710.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/492377/1729584603/492377_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_729",
+    "internal_code": "652960",
+    "name": "معجون زيتون اخضر ايليادا - 135 جرام",
+    "barcode": "5201043113657",
+    "item_type": "GS1",
+    "item_code": "5201043113657",
+    "unit_type": "",
+    "price": 104.7,
+    "cost": 104.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/652960/1745829603/652960_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_734",
+    "internal_code": "472162",
+    "name": "زيتون اسود تشويس - 720 جم",
+    "barcode": "6222004110910",
+    "item_type": "GS1",
+    "item_code": "6222004110910",
+    "unit_type": "",
+    "price": 134.1,
+    "cost": 134.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h79/h1e/15127737729054/472162_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_760",
+    "internal_code": "34495",
+    "name": "وادي فوود زيتون أخضر - 1 كجم",
+    "barcode": "6223000191392",
+    "item_type": "GS1",
+    "item_code": "6223000191392",
+    "unit_type": "",
+    "price": 124.0,
+    "cost": 124.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h5a/h74/14786158100510/34495_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_776",
+    "internal_code": "527247",
+    "name": "تشويس مخلل قرنبيط مع جزر - 2.5 كيلو",
+    "barcode": "6222004111757",
+    "item_type": "GS1",
+    "item_code": "6222004111757",
+    "unit_type": "",
+    "price": 81.9,
+    "cost": 81.9,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc9/hc5/14786366275614/527247_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_783",
+    "internal_code": "345522",
+    "name": "فول مدمس بزيت الزيتون هارفست - 400 جم",
+    "barcode": "6223001060932",
+    "item_type": "GS1",
+    "item_code": "6223001060932",
+    "unit_type": "",
+    "price": 24.5,
+    "cost": 24.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc7/he5/14786159378462/345522_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_793",
+    "internal_code": "492376",
+    "name": "نايل جاردن زيت زيتون بكر -  500 مل",
+    "barcode": "6224009377053",
+    "item_type": "GS1",
+    "item_code": "6224009377053",
+    "unit_type": "",
+    "price": 359.0,
+    "cost": 359.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/492376/1729584603/492376_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_841",
+    "internal_code": "472168",
+    "name": "زيتون كلماتا تشويس - 720جم",
+    "barcode": "6222004110903",
+    "item_type": "GS1",
+    "item_code": "6222004110903",
+    "unit_type": "",
+    "price": 156.1,
+    "cost": 156.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hab/h54/14786205253662/472168_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_874",
+    "internal_code": "569970",
+    "name": "هارفست فول بالليمون المخلل - 400 جرام",
+    "barcode": "6223001062295",
+    "item_type": "GS1",
+    "item_code": "6223001062295",
+    "unit_type": "",
+    "price": 22.3,
+    "cost": 24.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h41/he5/17317505073182/569970_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_904",
+    "internal_code": "633914",
+    "name": "زيت زيتون بكر ممتازنايل جاردن - 250 مل",
+    "barcode": "6224009377831",
+    "item_type": "GS1",
+    "item_code": "6224009377831",
+    "unit_type": "",
+    "price": 219.3,
+    "cost": 219.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/633914/1730732405/633914_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_988",
+    "internal_code": "641085",
+    "name": "زيتون كالاماتا مخلل دون لوبيز - 720جم",
+    "barcode": "6224008467441",
+    "item_type": "GS1",
+    "item_code": "6224008467441",
+    "unit_type": "",
+    "price": 131.5,
+    "cost": 131.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641085/1728563404/641085_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1069",
+    "internal_code": "523544",
+    "name": "وافل مقرمش هيلثي ميل بزيت زيتون والزعتر - 150 جرام",
+    "barcode": "6223000228852",
+    "item_type": "GS1",
+    "item_code": "6223000228852",
+    "unit_type": "",
+    "price": 60.7,
+    "cost": 60.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1b/h07/12713911418910/523544_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1086",
+    "internal_code": "617587",
+    "name": "سينا ليمون مخلل - 1200 جرام",
+    "barcode": "6221053020706",
+    "item_type": "GS1",
+    "item_code": "6221053020706",
+    "unit_type": "",
+    "price": 67.1,
+    "cost": 67.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h49/hfe/51190632480798/617587_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1165",
+    "internal_code": "646773",
+    "name": "نايل جاردن زيتون اخضر مقطع - 680 جم",
+    "barcode": "6224009377459",
+    "item_type": "GS1",
+    "item_code": "6224009377459",
+    "unit_type": "",
+    "price": 113.0,
+    "cost": 113.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646773/1735824603/646773_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1222",
+    "internal_code": "34496",
+    "name": "وادي فود مخلل مشكل - 1 كجم",
+    "barcode": "6223000191408",
+    "item_type": "GS1",
+    "item_code": "6223000191408",
+    "unit_type": "",
+    "price": 54.0,
+    "cost": 54.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h51/h18/14786157510686/34496_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1297",
+    "internal_code": "17941",
+    "name": "صافي زيت زيتون بكر ممتاز - 750 مل",
+    "barcode": "6221053000241",
+    "item_type": "GS1",
+    "item_code": "6221053000241",
+    "unit_type": "",
+    "price": 593.0,
+    "cost": 593.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h65/h08/50818450685982/17941_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1389",
+    "internal_code": "664105",
+    "name": "رقائق البطاطس تايجر إكسلنس بنكهة طماطم مخلله و جبنه كريمى - 90 جرام",
+    "barcode": "6222035254720",
+    "item_type": "GS1",
+    "item_code": "6222035254720",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/664105/1759411804/664105_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1514",
+    "internal_code": "17391",
+    "name": "فلفل مخلل وادي فود - 625 جرام",
+    "barcode": "6223000191200",
+    "item_type": "GS1",
+    "item_code": "6223000191200",
+    "unit_type": "",
+    "price": 42.0,
+    "cost": 42.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h75/h44/14786091778078/17391_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1586",
+    "internal_code": "529126",
+    "name": "زيتونة زيت زيتون بكر ممتاز - 250 مل",
+    "barcode": "6225000348394",
+    "item_type": "GS1",
+    "item_code": "6225000348394",
+    "unit_type": "",
+    "price": 169.5,
+    "cost": 169.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/h03/14623324864542/529126_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1671",
+    "internal_code": "17380",
+    "name": "وادي فوود زيتون أخضر مخلي - 650 جم",
+    "barcode": "6223000191439",
+    "item_type": "GS1",
+    "item_code": "6223000191439",
+    "unit_type": "",
+    "price": 128.0,
+    "cost": 128.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hef/hab/12784060694558/17380_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1734",
+    "internal_code": "417127",
+    "name": "زيت زيتون بكر ممتاز وادي فوود - 500مل",
+    "barcode": "6223000190630",
+    "item_type": "GS1",
+    "item_code": "6223000190630",
+    "unit_type": "",
+    "price": 481.5,
+    "cost": 481.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha0/h35/14623078547486/417127_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1746",
+    "internal_code": "454337",
+    "name": "أمريكانا فول مدمس بزيت الزيتون - 400 جم",
+    "barcode": "32894022066",
+    "item_type": "GS1",
+    "item_code": "32894022066",
+    "unit_type": "",
+    "price": 24.0,
+    "cost": 26.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h1e/h72/27393636892702/454337_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1788",
+    "internal_code": "660202",
+    "name": "زيت زيتون بكرإيجي صن - 250 مل",
+    "barcode": "6224009685202",
+    "item_type": "GS1",
+    "item_code": "6224009685202",
+    "unit_type": "",
+    "price": 160.3,
+    "cost": 160.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660202/1755786603/660202_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1827",
+    "internal_code": "17379",
+    "name": "وادي فود زيتون أسود طبيعي - 650 جرام",
+    "barcode": "6223000191125",
+    "item_type": "GS1",
+    "item_code": "6223000191125",
+    "unit_type": "",
+    "price": 124.0,
+    "cost": 124.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hc3/hbf/14786090237982/17379_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1849",
+    "internal_code": "87268",
+    "name": "زيتون كلاماتا برطمان - 1 كجم ",
+    "barcode": "6223000191569",
+    "item_type": "GS1",
+    "item_code": "6223000191569",
+    "unit_type": "",
+    "price": 185.3,
+    "cost": 185.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h02/hc5/14786468347934/87268_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1886",
+    "internal_code": "17377",
+    "name": "وادي فوود زيتون أخضر طبيعي - 650 جرام",
+    "barcode": "6223000191118",
+    "item_type": "GS1",
+    "item_code": "6223000191118",
+    "unit_type": "",
+    "price": 99.5,
+    "cost": 99.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h4c/h9e/50042145734686/17377_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1888",
+    "internal_code": "417126",
+    "name": "وادي فود زيت زيتون بكر ممتاز - 250 مل",
+    "barcode": "6223000190623",
+    "item_type": "GS1",
+    "item_code": "6223000190623",
+    "unit_type": "",
+    "price": 269.0,
+    "cost": 269.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hcf/h2c/14623077793822/417126_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1904",
+    "internal_code": "634870",
+    "name": "تيرا ديليسا سبراي زيت زيتون بكر ممتاز - 200 مل",
+    "barcode": "6191509909476",
+    "item_type": "GS1",
+    "item_code": "6191509909476",
+    "unit_type": "",
+    "price": 476.3,
+    "cost": 476.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/634870/1759312805/634870_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1929",
+    "internal_code": "17374",
+    "name": "زيتون اسود مفروم من وادي فود - 300 جم",
+    "barcode": "6223000192160",
+    "item_type": "GS1",
+    "item_code": "6223000192160",
+    "unit_type": "",
+    "price": 27.1,
+    "cost": 27.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h81/h59/14786091122718/17374_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1944",
+    "internal_code": "472173",
+    "name": "زيتون دولسي تشويس - 720 جم",
+    "barcode": "6222004111085",
+    "item_type": "GS1",
+    "item_code": "6222004111085",
+    "unit_type": "",
+    "price": 91.0,
+    "cost": 91.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h63/h2e/14786199617566/472173_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1956",
+    "internal_code": "576077",
+    "name": "سينا زيتون أخضر - 1200 جم",
+    "barcode": "6221053021062",
+    "item_type": "GS1",
+    "item_code": "6221053021062",
+    "unit_type": "",
+    "price": 104.6,
+    "cost": 104.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hac/h15/28674539356190/576077_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1961",
+    "internal_code": "621722",
+    "name": "بيك رولز وجبات خفيفة من القمح بنكهة الزيتون - 65 جرام",
+    "barcode": "6223000553053",
+    "item_type": "GS1",
+    "item_code": "6223000553053",
+    "unit_type": "",
+    "price": 15.0,
+    "cost": 15.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h37/h3b/51411617447966/621722_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_1972",
+    "internal_code": "641086",
+    "name": "شرائح زيتون اخضر مخلل دون لوبيز - 720جم",
+    "barcode": "6224008467427",
+    "item_type": "GS1",
+    "item_code": "6224008467427",
+    "unit_type": "",
+    "price": 115.0,
+    "cost": 115.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641086/1728563404/641086_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2016",
+    "internal_code": "87274",
+    "name": "وادي فوود زيتون أسود مفروم بالشطة - 300 جم",
+    "barcode": "6223000192054",
+    "item_type": "GS1",
+    "item_code": "6223000192054",
+    "unit_type": "",
+    "price": 27.1,
+    "cost": 27.1,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h3a/hcf/14786468642846/87274_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2053",
+    "internal_code": "529128",
+    "name": "زيت زيتون بكر ممتاز زيتونة - 1 لتر",
+    "barcode": "6225000348349",
+    "item_type": "GS1",
+    "item_code": "6225000348349",
+    "unit_type": "",
+    "price": 644.2,
+    "cost": 644.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h21/h63/14623325552670/529128_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2079",
+    "internal_code": "659691",
+    "name": "رقائق البطاطس المطبوخة تايجر بطعم المخلل والجبن",
+    "barcode": "6222035252474",
+    "item_type": "GS1",
+    "item_code": "6222035252474",
+    "unit_type": "",
+    "price": 20.0,
+    "cost": 20.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/659691/1755437403/659691_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2097",
+    "internal_code": "274437",
+    "name": "وادي فود مخلل مشكل - 3.78 كجم",
+    "barcode": "6223000193662",
+    "item_type": "GS1",
+    "item_code": "6223000193662",
+    "unit_type": "",
+    "price": 101.5,
+    "cost": 101.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hd1/hbd/14786150989854/274437_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2107",
+    "internal_code": "484519",
+    "name": "مخلل مشكل بالبنجر تشويس - 3.7 كجم",
+    "barcode": "6222004111443",
+    "item_type": "GS1",
+    "item_code": "6222004111443",
+    "unit_type": "",
+    "price": 115.5,
+    "cost": 115.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/ha3/h0b/14786291040286/484519_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2122",
+    "internal_code": "547634",
+    "name": "زيت الزيتون البكر الممتاز تيرا ديليسا - 1 لتر",
+    "barcode": "6191509900664",
+    "item_type": "GS1",
+    "item_code": "6191509900664",
+    "unit_type": "",
+    "price": 1179.3,
+    "cost": 1179.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h47/h06/14623345672222/547634_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2157",
+    "internal_code": "660201",
+    "name": "زيت زيتون زيتونه بكر ممتاز- 250 مل",
+    "barcode": "6224009685196",
+    "item_type": "GS1",
+    "item_code": "6224009685196",
+    "unit_type": "",
+    "price": 163.0,
+    "cost": 163.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660201/1755420004/660201_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2234",
+    "internal_code": "216692",
+    "name": "بورجيس زيت زيتون صافي - 250مل",
+    "barcode": "8410179200835",
+    "item_type": "GS1",
+    "item_code": "8410179200835",
+    "unit_type": "",
+    "price": 235.0,
+    "cost": 235.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/h8c/14622865063966/216692_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2284",
+    "internal_code": "637510",
+    "name": "زيت زيتون بكر ممتاز امتنان - 500 مل",
+    "barcode": "6221078002145",
+    "item_type": "GS1",
+    "item_code": "6221078002145",
+    "unit_type": "",
+    "price": 487.0,
+    "cost": 487.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/637510/1759141805/637510_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2290",
+    "internal_code": "213594",
+    "name": "وادى فود زيت زيتون بكر - 2 لتر",
+    "barcode": "6223000190463",
+    "item_type": "GS1",
+    "item_code": "6223000190463",
+    "unit_type": "",
+    "price": 1520.8,
+    "cost": 1520.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h11/he6/14622864506910/213594_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2291",
+    "internal_code": "216690",
+    "name": "بورجيس زيت زيتون بكر - 1 لتر",
+    "barcode": "8410179200804",
+    "item_type": "GS1",
+    "item_code": "8410179200804",
+    "unit_type": "",
+    "price": 747.0,
+    "cost": 747.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/heb/hf5/51925519794206/216690_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2365",
+    "internal_code": "17938",
+    "name": "صافي زيت زيتون بكر ممتاز - 1 لتر",
+    "barcode": "6221053000258",
+    "item_type": "GS1",
+    "item_code": "6221053000258",
+    "unit_type": "",
+    "price": 720.0,
+    "cost": 720.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/he0/ha6/14622863294494/17938_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2451",
+    "internal_code": "533656",
+    "name": "زيت زيتون بكر ممتاز عضوي تيرا ديليسا - 250 مل",
+    "barcode": "6191509903030",
+    "item_type": "GS1",
+    "item_code": "6191509903030",
+    "unit_type": "",
+    "price": 370.8,
+    "cost": 370.8,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h9a/h81/14623331188766/533656_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2471",
+    "internal_code": "660199",
+    "name": "زيت زيتون زيتونه بكر ممتاز- 250 مل",
+    "barcode": "6225000348318",
+    "item_type": "GS1",
+    "item_code": "6225000348318",
+    "unit_type": "",
+    "price": 195.3,
+    "cost": 195.3,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/660199/1755786603/660199_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2557",
+    "internal_code": "641087",
+    "name": "زيتون أسود مخلل دون لوبيز - 720جم",
+    "barcode": "6224008467458",
+    "item_type": "GS1",
+    "item_code": "6224008467458",
+    "unit_type": "",
+    "price": 125.0,
+    "cost": 125.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641087/1771837200/641087_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2595",
+    "internal_code": "641088",
+    "name": "زيتون اخضر مخلل دون لوبيز - 720جم",
+    "barcode": "6224008467434",
+    "item_type": "GS1",
+    "item_code": "6224008467434",
+    "unit_type": "",
+    "price": 108.6,
+    "cost": 108.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/641088/1728563404/641088_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2617",
+    "internal_code": "43244",
+    "name": "وادي فود مخلل مشكل - 600 جم",
+    "barcode": "6223000191132",
+    "item_type": "GS1",
+    "item_code": "6223000191132",
+    "unit_type": "",
+    "price": 34.0,
+    "cost": 34.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h63/ha4/14786176909342/43244_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2628",
+    "internal_code": "488721",
+    "name": "مخلل مشكل دوبيلا - 370جم",
+    "barcode": "6224008756842",
+    "item_type": "GS1",
+    "item_code": "6224008756842",
+    "unit_type": "",
+    "price": 26.2,
+    "cost": 26.2,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h18/h86/14786305163294/488721_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2681",
+    "internal_code": "646878",
+    "name": "نايل جاردن زيتون كالاماتا - 680 جم",
+    "barcode": "6224009377763",
+    "item_type": "GS1",
+    "item_code": "6224009377763",
+    "unit_type": "",
+    "price": 150.0,
+    "cost": 150.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/646878/1735824603/646878_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2757",
+    "internal_code": "472169",
+    "name": "زيتون أخضر تشويس كامل - 720 جرام",
+    "barcode": "6222004110927",
+    "item_type": "GS1",
+    "item_code": "6222004110927",
+    "unit_type": "",
+    "price": 109.0,
+    "cost": 109.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h13/h58/14786205351966/472169_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2774",
+    "internal_code": "26736",
+    "name": "زيت زيتون إيزيس - 250مل",
+    "barcode": "6223000473696",
+    "item_type": "GS1",
+    "item_code": "6223000473696",
+    "unit_type": "",
+    "price": 295.0,
+    "cost": 295.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/26736/1727017204/26736_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_2913",
+    "internal_code": "536774",
+    "name": "أصابع البسكويت فن داي المملحة بالزيتون - 40 جم",
+    "barcode": "6224010268265",
+    "item_type": "GS1",
+    "item_code": "6224010268265",
+    "unit_type": "",
+    "price": 5.5,
+    "cost": 5.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h0b/he4/27411614531614/536774_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3094",
+    "internal_code": "326009",
+    "name": "زيت زيتون بكر ممتاز اليادا - 1 لتر",
+    "barcode": "5201043112476",
+    "item_type": "GS1",
+    "item_code": "5201043112476",
+    "unit_type": "",
+    "price": 1063.0,
+    "cost": 1063.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h10/h5a/13215858196510/326009_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3103",
+    "internal_code": "579386",
+    "name": "زيتون دولسي وادي فوود - 650 جرام - 3 قطع",
+    "barcode": "6223000199619",
+    "item_type": "GS1",
+    "item_code": "6223000199619",
+    "unit_type": "",
+    "price": 220.5,
+    "cost": 220.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/hfa/h1d/28237497991198/579386_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3133",
+    "internal_code": "312610",
+    "name": "إليادا زيت زيتون بكر ممتاز - 500 مل",
+    "barcode": "5201043112827",
+    "item_type": "GS1",
+    "item_code": "5201043112827",
+    "unit_type": "",
+    "price": 673.5,
+    "cost": 673.5,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h38/h4c/48648137343006/312610_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3152",
+    "internal_code": "539102",
+    "name": "بريستو زيت زيتون بكر ممتاز - 250 مل",
+    "barcode": "6222021102486",
+    "item_type": "GS1",
+    "item_code": "6222021102486",
+    "unit_type": "",
+    "price": 198.0,
+    "cost": 198.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h28/hd8/31511332454430/539102_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3154",
+    "internal_code": "539103",
+    "name": "بريستو زيت زيتون بكر ممتاز - 500 مل",
+    "barcode": "6222021102394",
+    "item_type": "GS1",
+    "item_code": "6222021102394",
+    "unit_type": "",
+    "price": 396.0,
+    "cost": 396.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/h80/h07/31557982584862/539103_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3163",
+    "internal_code": "527242",
+    "name": "زيتون دولسي تشويس - 2.5 كيلو",
+    "barcode": "6222004111740",
+    "item_type": "GS1",
+    "item_code": "6222004111740",
+    "unit_type": "",
+    "price": 340.7,
+    "cost": 340.7,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/527242/1763636405/527242_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3272",
+    "internal_code": "669568",
+    "name": "زيت زيتون نايل جاردن بكر ممتاز - 500 مل + زيت زيتون بكر - 250 مل",
+    "barcode": "6224010915985",
+    "item_type": "GS1",
+    "item_code": "6224010915985",
+    "unit_type": "",
+    "price": 503.6,
+    "cost": 503.6,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/pim-content/EGY/media/product/669568/1772017200/669568_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  },
+  {
+    "id": "prod_3284",
+    "internal_code": "58119",
+    "name": "زيت زيتون بكر ممتاز اليادا - 500 مل",
+    "barcode": "5201043112612",
+    "item_type": "GS1",
+    "item_code": "5201043112612",
+    "unit_type": "",
+    "price": 569.0,
+    "cost": 569.0,
+    "tax_rate": 14.0,
+    "tax_type": "T1",
+    "image_uri": "https://cdn.mafrservices.com/sys-master-root/haf/h05/14623463637022/58119_main.jpg?im=Resize=200",
+    "is_active": 1,
+    "stock_quantity": 0,
+    "reorder_level": 5,
+    "tax_profile": [
+      {
+        "taxType": "T1",
+        "subType": "V009",
+        "ratePercent": 14.0
+      }
+    ]
+  }
+]
